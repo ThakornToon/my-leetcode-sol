@@ -28,7 +28,7 @@ impl Solution {
                 index+=1;
                 
             }
-            println!("min={min},count={count}");
+//            println!("min={min},count={count}");
             if count==0{
                 return ss;
             }
