@@ -5,12 +5,11 @@ impl Solution {
             return;
         }
         for i in start..candidates.len(){
-            println!("{}",i);
             if i>start && candidates[i]==candidates[i-1]{
                 continue;
             }
             if target-candidates[i] < 0{
-                break;
+                return;
             }
             store.push(candidates[i].clone());
             Self::backtrack(result, store, candidates, target-candidates[i], i+1);
