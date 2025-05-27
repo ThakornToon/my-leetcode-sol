@@ -12,18 +12,17 @@ void findSubsets(int* nums, int** subsets, int currIndex, int numsSize, int* ret
     }
     int currentSize = *returnSize;
 
-    for (int i = 0; i < currentSize; i++) {
+    for (int i = 0; i < currentSize; i++) { //วนแต่ละคำตอบเก่าเพื่อเติมลงไป
         int newSize = (*returnColumnSizes)[i] + 1;
         int* set = malloc(sizeof(int) * newSize);
-        memcpy(set, subsets[i], (*returnColumnSizes)[i] * sizeof(int));
+        memcpy(set, subsets[i], (*returnColumnSizes)[i] * sizeof(int)); //ก๊อปตัวเก่ามาเพื่อต่อเติม
         set[(*returnColumnSizes)[i]] = nums[currIndex - 1];
         // insert new subset into array of sets
         subsets[*returnSize] = set;
         (*returnColumnSizes)[(*returnSize)++] = newSize;
     }
 
-    findSubsets(nums, subsets, currIndex * 2, numsSize, returnSize, returnColumnSizes);
-    findSubsets(nums, subsets, currIndex * 2 + 1, numsSize, returnSize, returnColumnSizes);
+    findSubsets(nums, subsets, currIndex + 1, numsSize, returnSize, returnColumnSizes);
     
 }
 
