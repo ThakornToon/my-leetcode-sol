@@ -20,7 +20,7 @@ impl Solution {
             return None;
         }
         let mut head = head;
-        let mut p1 = head.as_mut().unwrap();
+        let mut p1: &mut Box<ListNode> = head.as_mut().unwrap();
         while let Some(p2) = p1.next.as_mut() {
             if p1.val == p2.val {
                 p1.next = p2.next.take();
@@ -28,6 +28,6 @@ impl Solution {
                 p1 = p1.next.as_mut().unwrap();
             }
         }
-        head
+        return head;
     }
 }
