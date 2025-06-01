@@ -19,9 +19,9 @@ impl Solution {
         if head.is_none()  {
             return None;
         }
-        let mut dummy = Box::new(ListNode::new(0));
+        let mut dummy: Box<ListNode> = Box::new(ListNode::new(0));
         dummy.next = head;
-        let mut prev = dummy.as_mut();
+        let mut prev: &mut ListNode = dummy.as_mut();
         while let Some(mut current) = prev.next.take() { //current = next node of prev and change prev.next = None
             let mut del = false; 
             while let Some(next) = current.next.as_mut() {
@@ -32,10 +32,10 @@ impl Solution {
                 else {
                     break;
                 }
-                //Keep searching until you find a unique node.
+                //Keep searching until you find a unique node
             }
             if del {
-                prev.next = current.next; //Now we have a current node that we don't want, we will let prev point to the next node.
+                prev.next = current.next; //Now we have a current node that we don't want, we will let prev point to the next node
             }
             else { //If there are no duplicate nodes, prev is moved forward.
                 prev.next = Some(current); //Now prev.next points to None, so it points back to the current node
