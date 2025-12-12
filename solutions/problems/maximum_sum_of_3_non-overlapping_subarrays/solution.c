@@ -4,8 +4,8 @@
 int* maxSumOfThreeSubarrays(int* nums, int numsSize, int k, int* returnSize) {
     *returnSize = 3;
     int* result = (int*)malloc(3 * sizeof(int));
-    
-    // Calculate window sums length k start at i
+
+
     int* window = (int*)calloc(numsSize, sizeof(int));
     int sum = 0;
     for (int i = 0; i < numsSize; i++) {
