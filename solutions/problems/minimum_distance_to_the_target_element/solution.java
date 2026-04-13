@@ -1,0 +1,18 @@
+class Solution {
+    public int getMinDistance(int[] nums, int target, int start) {
+        int n = nums.length;
+        
+        for (int d = 0; d < n; d++) {
+            // ตรวจสอบทางซ้าย
+            if (start - d >= 0 && nums[start - d] == target) {
+                return d;
+            }
+            // ตรวจสอบทางขวา
+            if (start + d < n && nums[start + d] == target) {
+                return d;
+            }
+        }
+        
+        return -1;
+    }
+}
