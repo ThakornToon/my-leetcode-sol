@@ -3,11 +3,6 @@ public:
     int minFallingPathSum(vector<vector<int>>& grid) {
         int n = grid.size();
         
-        // กรณีพิเศษ: n == 1
-        if (n == 1) {
-            return *min_element(grid[0].begin(), grid[0].end());
-        }
-        
         vector<int> prev = grid[0];
         vector<int> curr(n);
         
