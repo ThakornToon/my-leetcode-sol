@@ -28,7 +28,7 @@ int maxStudents(char** seats, int seatsSize, int* seatsColSize) {
     
     // Base case: แถวสุดท้าย (row = m) มี 0 คน
     for (int mask = 0; mask < maxMask; mask++) {
-        dp[m][mask] = 0;
+        dp[m][mask] = -1;
     }
     
     // วนจากแถวล่างขึ้นบน
@@ -40,18 +40,19 @@ int maxStudents(char** seats, int seatsSize, int* seatsColSize) {
             // ตรวจสอบแนวนอน
             if ((currMask & (currMask << 1)) != 0) continue;
             
-            // ลองทุก mask ของแถวถัดไป (ข้างล่าง)
-            for (int nextMask = 0; nextMask < maxMask; nextMask++) {
-                if (dp[i + 1][nextMask] == -1) continue;
+            // ลองทุก mask ของแถวข้างล่าง
+            for (int prevMask = 0; prevMask < maxMask; prevMask++) {
+                if (dp[i + 1][prevMask] == -1) continue;
                 
                 // ตรวจสอบแนวทแยงกับแถวล่าง (bottom)
+        
                 // ซ้ายล่าง: currMask มี bit ที่ j และ nextMask มี bit ที่ j-1
-                if ((currMask & (nextMask << 1)) != 0) continue;
+                if ((currMask & (prevMask << 1)) != 0) continue;
                 // ขวาล่าง: currMask มี bit ที่ j และ nextMask มี bit ที่ j+1
-                if ((currMask & (nextMask >> 1)) != 0) continue;
+                if ((currMask & (prevMask >> 1)) != 0) continue;
                 
                 int cnt = __builtin_popcount(currMask);
-                dp[i][currMask] = MY_MAX(dp[i][currMask], cnt + dp[i + 1][nextMask]);
+                dp[i][currMask] = MY_MAX(dp[i][currMask], cnt + dp[i + 1][prevMask]);
             }
             
             // กรณี dp[i][currMask] ยังเป็น -1 ให้ตั้งเป็น 0
