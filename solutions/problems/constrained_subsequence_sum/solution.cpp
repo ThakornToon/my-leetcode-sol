@@ -2,8 +2,8 @@ class Solution {
 public:
     int constrainedSubsetSum(vector<int>& nums, int k) {
         int n = nums.size();
-        vector<int> dp(n);
-        deque<int> dq;
+        vector<int> dp(n);  // dp[i] = max sum เมื่อสมาชิกตัวสุดท้ายคือ index i
+        deque<int> dq; 
         int result = INT_MIN;
         
         for (int i = 0; i < n; i++) {
@@ -17,7 +17,7 @@ public:
             result = max(result, dp[i]);
             
             // ลบ indices ที่อยู่นอกช่วง window
-            while (!dq.empty() && dq.front() < i - k + 1) {
+            while (!dq.empty() && k <= i - dq.front()) {
                 dq.pop_front();
             }
             
