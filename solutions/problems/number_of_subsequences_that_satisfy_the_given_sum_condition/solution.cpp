@@ -35,9 +35,7 @@ public:
                 }
             }
             
-            if (right >= left) {
-                result = (result + pow2[right - left]) % MOD;
-            }
+            result = (result + pow2[right - left]) % MOD;
         }
         
         return result;
