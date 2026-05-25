@@ -5,11 +5,12 @@ int compare(const void* a, const void* b) {
 }
 
 int minDistance(int* houses, int housesSize, int k) {
-    // sort houses
+    // sort houses ตำแหน่งน้อยไปมาก
     qsort(houses, housesSize, sizeof(int), compare);
     int n = housesSize;
     
-    // precompute cost[i][j] = min total distance for houses[i..j] with 1 mailbox
+    // cost[i][j] = min total distance for houses[i..=j] with 1 mailbox
+    // precompute ให้คิดได้ง่ายขึ้น
     int** cost = (int**)malloc(n * sizeof(int*));
     for (int i = 0; i < n; i++) {
         cost[i] = (int*)calloc(n, sizeof(int));
@@ -26,7 +27,7 @@ int minDistance(int* houses, int housesSize, int k) {
         }
     }
     
-    // dp[i][k] = min cost for first i+1 houses (0..i) with k mailboxes
+    // dp[i][k] = min distance for first i+1 houses (0..=i) with k mailboxes
     int** dp = (int**)malloc(n * sizeof(int*));
     for (int i = 0; i < n; i++) {
         dp[i] = (int*)malloc((k + 1) * sizeof(int));
@@ -40,10 +41,11 @@ int minDistance(int* houses, int housesSize, int k) {
         dp[i][1] = cost[0][i];
     }
     
-    // DP
+    // DP ค่อยๆเติมกล่องจดหมาย
     for (int mail = 2; mail <= k; mail++) {
-        for (int i = mail - 1; i < n; i++) {
-            for (int j = mail - 2; j < i; j++) {
+        // 0..j..=i วางกล่องจดหมายล่าสุดให้บ้านหลัง j+1..=i
+        for (int i = 0; i < n; i++) {
+            for (int j = 0; j < i; j++) {
                 if (dp[j][mail - 1] != INT_MAX) {
                     dp[i][mail] = MIN(dp[i][mail], dp[j][mail - 1] + cost[j + 1][i]);
                 }
