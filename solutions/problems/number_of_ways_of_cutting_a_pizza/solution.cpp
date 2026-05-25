@@ -5,10 +5,11 @@ private:
     vector<vector<int>> appleCount;  // จำนวนแอปเปิ้ลในส่วน (row..m-1, col..n-1)
     vector<vector<vector<int>>> memo; // dp[row][col][k]
 
-    // คำนวณ prefix sum ของแอปเปิ้ล
-    vector<vector<int>> computePrefixSum(vector<string>& pizza) {
+    // คำนวณจำนวนแอปเปิ้ลในแต่ละส่วนย่อย (จากตำแหน่ง (row, col) ไปถึงมุมล่างขวา)
+    void computeAppleCount(vector<string>& pizza) {
         vector<vector<int>> prefix(m + 1, vector<int>(n + 1, 0));
         
+        // คำนวณ prefix sum ของแอปเปิ้ล
         for (int i = 0; i < m; i++) {
             for (int j = 0; j < n; j++) {
                 int hasApple = (pizza[i][j] == 'A') ? 1 : 0;
@@ -16,13 +17,7 @@ private:
                                       - prefix[i][j] + hasApple;
             }
         }
-        return prefix;
-    }
 
-    // คำนวณจำนวนแอปเปิ้ลในแต่ละส่วนย่อย (จากตำแหน่ง (row, col) ไปถึงมุมล่างขวา)
-    void computeAppleCount(vector<string>& pizza) {
-        vector<vector<int>> prefix = computePrefixSum(pizza);
-        
         appleCount.assign(m, vector<int>(n, 0));
         for (int i = 0; i < m; i++) {
             for (int j = 0; j < n; j++) {
@@ -83,12 +78,13 @@ private:
             return memo[row][col][k] = 1;
         }
         
-        // รวมวิธีจากการตัดแนวนอนและแนวตั้ง
+        // รวมวิธีจากการลองตัดแนวนอนและแนวตั้งที่ตำแหน่งต่างๆ
         long long total = tryHorizontalCuts(row, col, k) 
                         + tryVerticalCuts(row, col, k);
         
         return memo[row][col][k] = total % MOD;
     }
+    
 public:
     int ways(vector<string>& pizza, int k) {
         m = pizza.size();
