@@ -28,7 +28,7 @@ private:
     
     // binary search หาค่า k-th smallest sum
     int kthSum(vector<int>& prefix, vector<int>& prefixPrefix, int n, int k) {
-        int left = 0, right = 1000000000;
+        int left = 0, right = 100000;
         while (left < right) {
             int mid = left + (right - left) / 2;
             auto [cnt, _] = countAndSum(prefix, prefixPrefix, n, mid);  // จำนวน subarray ที่ <= mid
