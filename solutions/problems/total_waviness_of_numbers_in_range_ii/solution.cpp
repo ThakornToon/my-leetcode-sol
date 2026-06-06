@@ -1,9 +1,9 @@
 class Solution {
 private:
-    long long memo_cnt[16][10][10];  // จำนวนตัวเลขที่สร้างได้ memo_cnt[pos][prev][curr] _ _ prev curr ..(จำนวนตัวเลขที่สร้างได้).. 
-    long long memo_sum[16][10][10];  // จำนวน waviness ของ memo_sum[pos][prev][curr] _ _ prev curr ..(จำนวน waviness ได้จากทุกแบบ).. 
+    long long memo_cnt[16][10][10];  // จำนวนตัวเลขที่สร้างได้ memo_cnt[pos][prev][curr] : _ _ prev curr ..(จำนวนตัวเลขที่สร้างได้).. 
+    long long memo_sum[16][10][10];  // จำนวน waviness ของ memo_sum[pos][prev][curr] : _ _ prev curr ..(จำนวน waviness ได้จากทุกแบบ).. 
     
-    //Digit DP ที่ returns {count, sum_of_waviness}
+    // Digit DP ที่ returns {count, sum_of_waviness}
     pair<long long, long long> dfs(int pos, int prev, int curr, bool isLimit, bool isLeading, const string& s) {
         int n = s.length();
         
@@ -31,7 +31,7 @@ private:
             
             // ถ้ามี 3 หลักติดกัน ให้ตรวจสอบ peak/valley ของ curr
             // ถ้ามีจะได้ทั้งหมด memo_cnt[pos+1][curr][newCurr] แบบ
-            if (!newLeading && prev >= 0 && curr >= 0) {
+            if (prev >= 0 && curr >= 0) {
                 if ((prev < curr && curr > dig) || (prev > curr && curr < dig)) {
                     sum += subCnt;  // contribution +1 สำหรับทุกตัวเลข
                 }
