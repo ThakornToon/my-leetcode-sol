@@ -1,0 +1,20 @@
+class Solution {
+public:
+    vector<vector<int>> reconstructQueue(vector<vector<int>>& people) {
+        // เรียง h จากมากไปน้อย ถ้า h เท่ากัน เรียง k จากน้อยไปมาก
+        sort(people.begin(), people.end(), [](const vector<int>& a, const vector<int>& b) {
+            if (a[0] == b[0]) {
+                return a[1] < b[1];
+            }
+            return a[0] > b[0];
+        });
+
+        vector<vector<int>> result;
+        // แทรกคนลงในตำแหน่ง index = k
+        for (auto& p : people) {
+            result.insert(result.begin() + p[1], p);
+        }
+
+        return result;
+    }
+};
