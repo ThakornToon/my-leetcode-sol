@@ -41,6 +41,7 @@ jobs:
           git add README.md EASY.md MEDIUM.md HARD.md TOPICS.md
           if ! git diff --cached --quiet; then
             git commit -m "Update generated LeetCode README files"
+            git pull --rebase origin main
             git push
           else
             echo "No generated README changes to commit."
