@@ -5,7 +5,7 @@
 
 - [📖 My LeetCode Journey](#my-leetcode-journey)
 - [📂 Browse Problems by Category](#browse-problems)
-- [📋 All Solved Problems (1203 Problems)](#all-solved-problems)
+- [📋 All Solved Problems (1204 Problems)](#all-solved-problems)
 - [⚙️ How to Set This Up Yourself](#how-to-set-this-up-yourself)
 
 ---
@@ -25,20 +25,21 @@
 
 - 🟢 **[Easy Problems (354)](./EASY.md)**
 - 🟡 **[Medium Problems (655)](./MEDIUM.md)**
-- 🔴 **[Hard Problems (194)](./HARD.md)**
+- 🔴 **[Hard Problems (195)](./HARD.md)**
 - 📚 **[Problems by Topics (136 Topics)](./TOPICS.md)**
 
 [⬆️ Back to Contents](#contents)
 
 ---
 
-### <a id="all-solved-problems"></a>📋 All Solved Problems (1203 Problems)
+### <a id="all-solved-problems"></a>📋 All Solved Problems (1204 Problems)
 
 | No | Name | Difficulty | Topics | Code Link |
 | :---: | :--- | :---: | :--- | :---: |
 | 1 | Two Sum | Easy | `Array`, `Hash Table` | [Code](./solutions/problems/two_sum) |
 | 2 | Add Two Numbers | Medium | `Linked List`, `Math`, `Recursion` | [Code](./solutions/problems/add_two_numbers) |
 | 3 | Longest Substring Without Repeating Characters | Medium | `Hash Table`, `String`, `Sliding Window` | [Code](./solutions/problems/longest_substring_without_repeating_characters) |
+| 4 | Median of Two Sorted Arrays | Hard | `Array`, `Binary Search`, `Divide and Conquer` | [Code](./solutions/problems/median_of_two_sorted_arrays) |
 | 5 | Longest Palindromic Substring | Medium | `Two Pointers`, `String`, `Dynamic Programming`, `Manacher` | [Code](./solutions/problems/longest_palindromic_substring) |
 | 6 | Zigzag Conversion | Medium | `String` | [Code](./solutions/problems/zigzag_conversion) |
 | 7 | Reverse Integer | Medium | `Math` | [Code](./solutions/problems/reverse_integer) |

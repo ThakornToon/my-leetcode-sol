@@ -1,9 +1,10 @@
-# 🔴 LeetCode Hard Problems (194)
+# 🔴 LeetCode Hard Problems (195)
 
 [Easy Problems 🟢](./EASY.md) | [Medium Problems 🟡](./MEDIUM.md) | [Problems by Topics 📚](./TOPICS.md) | [⬅️ Back to All Problems](./README.md)
 
 | No | Name | Topics | Code Link |
 | :---: | :--- | :--- | :---: |
+| 4 | Median of Two Sorted Arrays | `Array`, `Binary Search`, `Divide and Conquer` | [Code](./solutions/problems/median_of_two_sorted_arrays) |
 | 10 | Regular Expression Matching | `String`, `Dynamic Programming`, `Recursion` | [Code](./solutions/problems/regular_expression_matching) |
 | 23 | Merge k Sorted Lists | `Linked List`, `Divide and Conquer`, `Heap (Priority Queue)`, `Merge Sort`, `Tournament Sort` | [Code](./solutions/problems/merge_k_sorted_lists) |
 | 25 | Reverse Nodes in k-Group | `Linked List`, `Recursion` | [Code](./solutions/problems/reverse_nodes_in_k-group) |
