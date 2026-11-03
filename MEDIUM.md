@@ -1,4 +1,4 @@
-# 🟡 LeetCode Medium Problems (655)
+# 🟡 LeetCode Medium Problems (656)
 
 [Easy Problems 🟢](./EASY.md) | [⬅️ Back to All Problems](./README.md) | [Problems by Topics 📚](./TOPICS.md) | [Hard Problems 🔴](./HARD.md)
 
@@ -62,6 +62,7 @@
 | 93 | Restore IP Addresses | `String`, `Backtracking` | [Code](./solutions/problems/restore_ip_addresses) |
 | 97 | Interleaving String | `String`, `Dynamic Programming` | [Code](./solutions/problems/interleaving_string) |
 | 98 | Validate Binary Search Tree | `Tree`, `Depth-First Search`, `Binary Search Tree`, `Binary Tree` | [Code](./solutions/problems/validate_binary_search_tree) |
+| 99 | Recover Binary Search Tree | `Tree`, `Depth-First Search`, `Binary Search Tree`, `Binary Tree` | [Code](./solutions/problems/recover_binary_search_tree) |
 | 102 | Binary Tree Level Order Traversal | `Tree`, `Breadth-First Search`, `Binary Tree` | [Code](./solutions/problems/binary_tree_level_order_traversal) |
 | 103 | Binary Tree Zigzag Level Order Traversal | `Tree`, `Breadth-First Search`, `Binary Tree` | [Code](./solutions/problems/binary_tree_zigzag_level_order_traversal) |
 | 107 | Binary Tree Level Order Traversal II | `Tree`, `Breadth-First Search`, `Binary Tree` | [Code](./solutions/problems/binary_tree_level_order_traversal_ii) |

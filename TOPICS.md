@@ -6,7 +6,7 @@
 
 > Click on any topic to jump to its problem list.
 
-[`Array` (710)](#array) · [`String` (321)](#string) · [`Hash Table` (238)](#hash-table) · [`Math` (234)](#math) · [`Dynamic Programming` (225)](#dynamic-programming) · [`Sorting` (188)](#sorting) · [`Greedy` (154)](#greedy) · [`Matrix` (116)](#matrix) · [`Two Pointers` (113)](#two-pointers) · [`Binary Search` (107)](#binary-search) · [`Depth-First Search` (97)](#depth-first-search) · [`Bit Manipulation` (92)](#bit-manipulation) · [`Breadth-First Search` (83)](#breadth-first-search) · [`Stack` (74)](#stack) · [`Prefix Sum` (73)](#prefix-sum) · [`Simulation` (66)](#simulation) · [`Tree` (65)](#tree) · [`Binary Tree` (61)](#binary-tree) · [`Heap (Priority Queue)` (57)](#heap-priority-queue) · [`Backtracking` (54)](#backtracking) · [`Sliding Window` (52)](#sliding-window) · [`Counting` (51)](#counting) · [`Linked List` (36)](#linked-list) · [`Recursion` (27)](#recursion) · [`Divide and Conquer` (25)](#divide-and-conquer) · [`Monotonic Stack` (24)](#monotonic-stack) · [`Enumeration` (22)](#enumeration) · [`Design` (20)](#design) · [`Geometry` (20)](#geometry) · [`Union-Find` (18)](#union-find) · [`Ordered Set` (17)](#ordered-set) · [`Binary Search Tree` (16)](#binary-search-tree) · [`Game Theory` (16)](#game-theory) · [`Segment Tree` (16)](#segment-tree) · [`Trie` (16)](#trie) · [`Memoization` (15)](#memoization) · [`Queue` (15)](#queue) · [`Bracket Sequences` (13)](#bracket-sequences) · [`Bitmask` (12)](#bitmask) · [`Binary Indexed Tree` (10)](#binary-indexed-tree) · [`Knapsack Problem` (10)](#knapsack-problem) · [`Minimax` (10)](#minimax) · [`Zero-Sum Game` (10)](#zero-sum-game) · [`Graph Theory` (9)](#graph-theory) · [`Greatest Common Divisor` (9)](#greatest-common-divisor) · [`Longest Increasing Subsequence` (9)](#longest-increasing-subsequence) · [`Number Theory` (9)](#number-theory) · [`String Matching` (9)](#string-matching) · [`Combinatorics` (8)](#combinatorics) · [`Euclidean Algorithm` (8)](#euclidean-algorithm) · [`Brainteaser` (7)](#brainteaser) · [`Bucket Sort` (6)](#bucket-sort) · [`Counting Sort` (6)](#counting-sort) · [`DP on Trees` (6)](#dp-on-trees) · [`Merge Sort` (6)](#merge-sort) · [`Monotonic Queue` (6)](#monotonic-queue) · [`0-1 Knapsack` (5)](#0-1-knapsack) · [`Floyd's Cycle Finding Algorithm` (5)](#floyds-cycle-finding-algorithm) · [`Longest Common Subsequence` (5)](#longest-common-subsequence) · [`Pigeonhole Principle` (5)](#pigeonhole-principle) · [`Probability and Statistics` (5)](#probability-and-statistics) · [`Quickselect` (5)](#quickselect) · [`Quicksort` (5)](#quicksort) · [`Bidirectional Search` (4)](#bidirectional-search) · [`Complete Knapsack` (4)](#complete-knapsack) · [`Hash Function` (4)](#hash-function) · [`Interactive` (4)](#interactive) · [`Primality Test` (4)](#primality-test) · [`Treap` (4)](#treap) · [`Z Algorithm` (4)](#z-algorithm) · [`Algorithm X` (3)](#algorithm-x) · [`Boyer–Moore String-Search Algorithm` (3)](#boyermoore-string-search-algorithm) · [`Bubble Sort` (3)](#bubble-sort) · [`Impartial Game` (3)](#impartial-game) · [`Knuth–Morris–Pratt Algorithm` (3)](#knuthmorrispratt-algorithm) · [`Least Common Multiple` (3)](#least-common-multiple) · [`Nim Game` (3)](#nim-game) · [`Prime Factorization` (3)](#prime-factorization) · [`Rolling Hash` (3)](#rolling-hash) · [`Sieve Theory` (3)](#sieve-theory) · [`Sweep Line` (3)](#sweep-line) · [`Binary Lifting` (2)](#binary-lifting) · [`Bipartite Graph` (2)](#bipartite-graph) · [`Boyer–Moore Majority Vote Algorithm` (2)](#boyermoore-majority-vote-algorithm) · [`Bézout's Lemma` (2)](#bzouts-lemma) · [`Data Stream` (2)](#data-stream) · [`Directed Acyclic Graph` (2)](#directed-acyclic-graph) · [`Doubly-Linked List` (2)](#doubly-linked-list) · [`Extended Euclidean Algorithm` (2)](#extended-euclidean-algorithm) · [`Flow Network` (2)](#flow-network) · [`Graph Coloring` (2)](#graph-coloring) · [`Inclusion-Exclusion Principle` (2)](#inclusion-exclusion-principle) · [`Lowest Common Ancestor` (2)](#lowest-common-ancestor) · [`Meet in the Middle` (2)](#meet-in-the-middle) · [`Polygons` (2)](#polygons) · [`Prime Number Sieve` (2)](#prime-number-sieve) · [`Radix Sort` (2)](#radix-sort) · [`Range Minimum/Maximum Query` (2)](#range-minimummaximum-query) · [`Shortest Path` (2)](#shortest-path) · [`Ternary Search` (2)](#ternary-search) · [`A* Search` (1)](#a-search) · [`Articulation Point` (1)](#articulation-point) · [`Bellman–Ford Algorithm` (1)](#bellmanford-algorithm) · [`Cartesian Tree` (1)](#cartesian-tree) · [`Dancing Links` (1)](#dancing-links) · [`Dijkstra's Algorithm` (1)](#dijkstras-algorithm) · [`Dinic's Algorithm` (1)](#dinics-algorithm) · [`Edmonds–Karp Algorithm` (1)](#edmondskarp-algorithm) · [`Floyd–Warshall Algorithm` (1)](#floydwarshall-algorithm) · [`Hamiltonian Path` (1)](#hamiltonian-path) · [`Heuristic Search` (1)](#heuristic-search) · [`Hungarian Algorithm` (1)](#hungarian-algorithm) · [`K-D Tree` (1)](#k-d-tree) · [`Lexicographically Minimal String Rotation` (1)](#lexicographically-minimal-string-rotation) · [`Linear Algebra` (1)](#linear-algebra) · [`Lyndon Factorization` (1)](#lyndon-factorization) · [`MPM Algorithm` (1)](#mpm-algorithm) · [`Manacher` (1)](#manacher) · [`Matching (Graph)` (1)](#matching-graph) · [`Maximum Flow` (1)](#maximum-flow) · [`Maximum Matching` (1)](#maximum-matching) · [`Minimum Cut` (1)](#minimum-cut) · [`Mixed Knapsack` (1)](#mixed-knapsack) · [`Newton's Method` (1)](#newtons-method) · [`Planar Graph` (1)](#planar-graph) · [`Push-Relabel Algorithm` (1)](#push-relabel-algorithm) · [`Randomized` (1)](#randomized) · [`Rejection Sampling` (1)](#rejection-sampling) · [`Sparse Table` (1)](#sparse-table) · [`Sprague–Grundy Theorem` (1)](#spraguegrundy-theorem) · [`Sqrt Decomposition` (1)](#sqrt-decomposition) · [`Strongly Connected Component` (1)](#strongly-connected-component) · [`Successive Shortest Path Algorithm` (1)](#successive-shortest-path-algorithm) · [`Timsort` (1)](#timsort) · [`Topological Sort` (1)](#topological-sort) · [`Tournament Sort` (1)](#tournament-sort)
+[`Array` (710)](#array) · [`String` (321)](#string) · [`Hash Table` (238)](#hash-table) · [`Math` (234)](#math) · [`Dynamic Programming` (225)](#dynamic-programming) · [`Sorting` (188)](#sorting) · [`Greedy` (154)](#greedy) · [`Matrix` (116)](#matrix) · [`Two Pointers` (113)](#two-pointers) · [`Binary Search` (107)](#binary-search) · [`Depth-First Search` (98)](#depth-first-search) · [`Bit Manipulation` (92)](#bit-manipulation) · [`Breadth-First Search` (83)](#breadth-first-search) · [`Stack` (74)](#stack) · [`Prefix Sum` (73)](#prefix-sum) · [`Simulation` (66)](#simulation) · [`Tree` (66)](#tree) · [`Binary Tree` (62)](#binary-tree) · [`Heap (Priority Queue)` (57)](#heap-priority-queue) · [`Backtracking` (54)](#backtracking) · [`Sliding Window` (52)](#sliding-window) · [`Counting` (51)](#counting) · [`Linked List` (36)](#linked-list) · [`Recursion` (27)](#recursion) · [`Divide and Conquer` (25)](#divide-and-conquer) · [`Monotonic Stack` (24)](#monotonic-stack) · [`Enumeration` (22)](#enumeration) · [`Design` (20)](#design) · [`Geometry` (20)](#geometry) · [`Union-Find` (18)](#union-find) · [`Binary Search Tree` (17)](#binary-search-tree) · [`Ordered Set` (17)](#ordered-set) · [`Game Theory` (16)](#game-theory) · [`Segment Tree` (16)](#segment-tree) · [`Trie` (16)](#trie) · [`Memoization` (15)](#memoization) · [`Queue` (15)](#queue) · [`Bracket Sequences` (13)](#bracket-sequences) · [`Bitmask` (12)](#bitmask) · [`Binary Indexed Tree` (10)](#binary-indexed-tree) · [`Knapsack Problem` (10)](#knapsack-problem) · [`Minimax` (10)](#minimax) · [`Zero-Sum Game` (10)](#zero-sum-game) · [`Graph Theory` (9)](#graph-theory) · [`Greatest Common Divisor` (9)](#greatest-common-divisor) · [`Longest Increasing Subsequence` (9)](#longest-increasing-subsequence) · [`Number Theory` (9)](#number-theory) · [`String Matching` (9)](#string-matching) · [`Combinatorics` (8)](#combinatorics) · [`Euclidean Algorithm` (8)](#euclidean-algorithm) · [`Brainteaser` (7)](#brainteaser) · [`Bucket Sort` (6)](#bucket-sort) · [`Counting Sort` (6)](#counting-sort) · [`DP on Trees` (6)](#dp-on-trees) · [`Merge Sort` (6)](#merge-sort) · [`Monotonic Queue` (6)](#monotonic-queue) · [`0-1 Knapsack` (5)](#0-1-knapsack) · [`Floyd's Cycle Finding Algorithm` (5)](#floyds-cycle-finding-algorithm) · [`Longest Common Subsequence` (5)](#longest-common-subsequence) · [`Pigeonhole Principle` (5)](#pigeonhole-principle) · [`Probability and Statistics` (5)](#probability-and-statistics) · [`Quickselect` (5)](#quickselect) · [`Quicksort` (5)](#quicksort) · [`Bidirectional Search` (4)](#bidirectional-search) · [`Complete Knapsack` (4)](#complete-knapsack) · [`Hash Function` (4)](#hash-function) · [`Interactive` (4)](#interactive) · [`Primality Test` (4)](#primality-test) · [`Treap` (4)](#treap) · [`Z Algorithm` (4)](#z-algorithm) · [`Algorithm X` (3)](#algorithm-x) · [`Boyer–Moore String-Search Algorithm` (3)](#boyermoore-string-search-algorithm) · [`Bubble Sort` (3)](#bubble-sort) · [`Impartial Game` (3)](#impartial-game) · [`Knuth–Morris–Pratt Algorithm` (3)](#knuthmorrispratt-algorithm) · [`Least Common Multiple` (3)](#least-common-multiple) · [`Nim Game` (3)](#nim-game) · [`Prime Factorization` (3)](#prime-factorization) · [`Rolling Hash` (3)](#rolling-hash) · [`Sieve Theory` (3)](#sieve-theory) · [`Sweep Line` (3)](#sweep-line) · [`Binary Lifting` (2)](#binary-lifting) · [`Bipartite Graph` (2)](#bipartite-graph) · [`Boyer–Moore Majority Vote Algorithm` (2)](#boyermoore-majority-vote-algorithm) · [`Bézout's Lemma` (2)](#bzouts-lemma) · [`Data Stream` (2)](#data-stream) · [`Directed Acyclic Graph` (2)](#directed-acyclic-graph) · [`Doubly-Linked List` (2)](#doubly-linked-list) · [`Extended Euclidean Algorithm` (2)](#extended-euclidean-algorithm) · [`Flow Network` (2)](#flow-network) · [`Graph Coloring` (2)](#graph-coloring) · [`Inclusion-Exclusion Principle` (2)](#inclusion-exclusion-principle) · [`Lowest Common Ancestor` (2)](#lowest-common-ancestor) · [`Meet in the Middle` (2)](#meet-in-the-middle) · [`Polygons` (2)](#polygons) · [`Prime Number Sieve` (2)](#prime-number-sieve) · [`Radix Sort` (2)](#radix-sort) · [`Range Minimum/Maximum Query` (2)](#range-minimummaximum-query) · [`Shortest Path` (2)](#shortest-path) · [`Ternary Search` (2)](#ternary-search) · [`A* Search` (1)](#a-search) · [`Articulation Point` (1)](#articulation-point) · [`Bellman–Ford Algorithm` (1)](#bellmanford-algorithm) · [`Cartesian Tree` (1)](#cartesian-tree) · [`Dancing Links` (1)](#dancing-links) · [`Dijkstra's Algorithm` (1)](#dijkstras-algorithm) · [`Dinic's Algorithm` (1)](#dinics-algorithm) · [`Edmonds–Karp Algorithm` (1)](#edmondskarp-algorithm) · [`Floyd–Warshall Algorithm` (1)](#floydwarshall-algorithm) · [`Hamiltonian Path` (1)](#hamiltonian-path) · [`Heuristic Search` (1)](#heuristic-search) · [`Hungarian Algorithm` (1)](#hungarian-algorithm) · [`K-D Tree` (1)](#k-d-tree) · [`Lexicographically Minimal String Rotation` (1)](#lexicographically-minimal-string-rotation) · [`Linear Algebra` (1)](#linear-algebra) · [`Lyndon Factorization` (1)](#lyndon-factorization) · [`MPM Algorithm` (1)](#mpm-algorithm) · [`Manacher` (1)](#manacher) · [`Matching (Graph)` (1)](#matching-graph) · [`Maximum Flow` (1)](#maximum-flow) · [`Maximum Matching` (1)](#maximum-matching) · [`Minimum Cut` (1)](#minimum-cut) · [`Mixed Knapsack` (1)](#mixed-knapsack) · [`Newton's Method` (1)](#newtons-method) · [`Planar Graph` (1)](#planar-graph) · [`Push-Relabel Algorithm` (1)](#push-relabel-algorithm) · [`Randomized` (1)](#randomized) · [`Rejection Sampling` (1)](#rejection-sampling) · [`Sparse Table` (1)](#sparse-table) · [`Sprague–Grundy Theorem` (1)](#spraguegrundy-theorem) · [`Sqrt Decomposition` (1)](#sqrt-decomposition) · [`Strongly Connected Component` (1)](#strongly-connected-component) · [`Successive Shortest Path Algorithm` (1)](#successive-shortest-path-algorithm) · [`Timsort` (1)](#timsort) · [`Topological Sort` (1)](#topological-sort) · [`Tournament Sort` (1)](#tournament-sort)
 
 ---
 
@@ -2536,16 +2536,17 @@
 
 </details>
 
-### <a id="depth-first-search"></a>Depth-First Search (97)
+### <a id="depth-first-search"></a>Depth-First Search (98)
 
 <details>
-<summary><b>View 97 problems</b></summary>
+<summary><b>View 98 problems</b></summary>
 
 | No | Name | Difficulty | Code Link |
 | :---: | :--- | :---: | :---: |
 | 79 | Word Search | Medium | [Code](./solutions/problems/word_search) |
 | 94 | Binary Tree Inorder Traversal | Easy | [Code](./solutions/problems/binary_tree_inorder_traversal) |
 | 98 | Validate Binary Search Tree | Medium | [Code](./solutions/problems/validate_binary_search_tree) |
+| 99 | Recover Binary Search Tree | Medium | [Code](./solutions/problems/recover_binary_search_tree) |
 | 100 | Same Tree | Easy | [Code](./solutions/problems/same_tree) |
 | 101 | Symmetric Tree | Easy | [Code](./solutions/problems/symmetric_tree) |
 | 104 | Maximum Depth of Binary Tree | Easy | [Code](./solutions/problems/maximum_depth_of_binary_tree) |
@@ -3093,15 +3094,16 @@
 
 </details>
 
-### <a id="tree"></a>Tree (65)
+### <a id="tree"></a>Tree (66)
 
 <details>
-<summary><b>View 65 problems</b></summary>
+<summary><b>View 66 problems</b></summary>
 
 | No | Name | Difficulty | Code Link |
 | :---: | :--- | :---: | :---: |
 | 94 | Binary Tree Inorder Traversal | Easy | [Code](./solutions/problems/binary_tree_inorder_traversal) |
 | 98 | Validate Binary Search Tree | Medium | [Code](./solutions/problems/validate_binary_search_tree) |
+| 99 | Recover Binary Search Tree | Medium | [Code](./solutions/problems/recover_binary_search_tree) |
 | 100 | Same Tree | Easy | [Code](./solutions/problems/same_tree) |
 | 101 | Symmetric Tree | Easy | [Code](./solutions/problems/symmetric_tree) |
 | 102 | Binary Tree Level Order Traversal | Medium | [Code](./solutions/problems/binary_tree_level_order_traversal) |
@@ -3170,15 +3172,16 @@
 
 </details>
 
-### <a id="binary-tree"></a>Binary Tree (61)
+### <a id="binary-tree"></a>Binary Tree (62)
 
 <details>
-<summary><b>View 61 problems</b></summary>
+<summary><b>View 62 problems</b></summary>
 
 | No | Name | Difficulty | Code Link |
 | :---: | :--- | :---: | :---: |
 | 94 | Binary Tree Inorder Traversal | Easy | [Code](./solutions/problems/binary_tree_inorder_traversal) |
 | 98 | Validate Binary Search Tree | Medium | [Code](./solutions/problems/validate_binary_search_tree) |
+| 99 | Recover Binary Search Tree | Medium | [Code](./solutions/problems/recover_binary_search_tree) |
 | 100 | Same Tree | Easy | [Code](./solutions/problems/same_tree) |
 | 101 | Symmetric Tree | Easy | [Code](./solutions/problems/symmetric_tree) |
 | 102 | Binary Tree Level Order Traversal | Medium | [Code](./solutions/problems/binary_tree_level_order_traversal) |
@@ -3793,6 +3796,35 @@
 
 </details>
 
+### <a id="binary-search-tree"></a>Binary Search Tree (17)
+
+<details>
+<summary><b>View 17 problems</b></summary>
+
+| No | Name | Difficulty | Code Link |
+| :---: | :--- | :---: | :---: |
+| 98 | Validate Binary Search Tree | Medium | [Code](./solutions/problems/validate_binary_search_tree) |
+| 99 | Recover Binary Search Tree | Medium | [Code](./solutions/problems/recover_binary_search_tree) |
+| 108 | Convert Sorted Array to Binary Search Tree | Easy | [Code](./solutions/problems/convert_sorted_array_to_binary_search_tree) |
+| 109 | Convert Sorted List to Binary Search Tree | Medium | [Code](./solutions/problems/convert_sorted_list_to_binary_search_tree) |
+| 230 | Kth Smallest Element in a BST | Medium | [Code](./solutions/problems/kth_smallest_element_in_a_bst) |
+| 235 | Lowest Common Ancestor of a Binary Search Tree | Medium | [Code](./solutions/problems/lowest_common_ancestor_of_a_binary_search_tree) |
+| 449 | Serialize and Deserialize BST | Medium | [Code](./solutions/problems/serialize_and_deserialize_bst) |
+| 450 | Delete Node in a BST | Medium | [Code](./solutions/problems/delete_node_in_a_bst) |
+| 501 | Find Mode in Binary Search Tree | Easy | [Code](./solutions/problems/find_mode_in_binary_search_tree) |
+| 530 | Minimum Absolute Difference in BST | Easy | [Code](./solutions/problems/minimum_absolute_difference_in_bst) |
+| 538 | Convert BST to Greater Tree | Medium | [Code](./solutions/problems/convert_bst_to_greater_tree) |
+| 653 | Two Sum IV - Input is a BST | Easy | [Code](./solutions/problems/two_sum_iv_-_input_is_a_bst) |
+| 669 | Trim a Binary Search Tree | Medium | [Code](./solutions/problems/trim_a_binary_search_tree) |
+| 700 | Search in a Binary Search Tree | Easy | [Code](./solutions/problems/search_in_a_binary_search_tree) |
+| 701 | Insert into a Binary Search Tree | Medium | [Code](./solutions/problems/insert_into_a_binary_search_tree) |
+| 703 | Kth Largest Element in a Stream | Easy | [Code](./solutions/problems/kth_largest_element_in_a_stream) |
+| 783 | Minimum Distance Between BST Nodes | Easy | [Code](./solutions/problems/minimum_distance_between_bst_nodes) |
+
+[⬆️ Back to Top](#quick-navigation)
+
+</details>
+
 ### <a id="ordered-set"></a>Ordered Set (17)
 
 <details>
@@ -3817,34 +3849,6 @@
 | 1675 | Minimize Deviation in Array | Hard | [Code](./solutions/problems/minimize_deviation_in_array) |
 | 3161 | Block Placement Queries | Hard | [Code](./solutions/problems/block_placement_queries) |
 | 3507 | Minimum Pair Removal to Sort Array I | Easy | [Code](./solutions/problems/minimum_pair_removal_to_sort_array_i) |
-
-[⬆️ Back to Top](#quick-navigation)
-
-</details>
-
-### <a id="binary-search-tree"></a>Binary Search Tree (16)
-
-<details>
-<summary><b>View 16 problems</b></summary>
-
-| No | Name | Difficulty | Code Link |
-| :---: | :--- | :---: | :---: |
-| 98 | Validate Binary Search Tree | Medium | [Code](./solutions/problems/validate_binary_search_tree) |
-| 108 | Convert Sorted Array to Binary Search Tree | Easy | [Code](./solutions/problems/convert_sorted_array_to_binary_search_tree) |
-| 109 | Convert Sorted List to Binary Search Tree | Medium | [Code](./solutions/problems/convert_sorted_list_to_binary_search_tree) |
-| 230 | Kth Smallest Element in a BST | Medium | [Code](./solutions/problems/kth_smallest_element_in_a_bst) |
-| 235 | Lowest Common Ancestor of a Binary Search Tree | Medium | [Code](./solutions/problems/lowest_common_ancestor_of_a_binary_search_tree) |
-| 449 | Serialize and Deserialize BST | Medium | [Code](./solutions/problems/serialize_and_deserialize_bst) |
-| 450 | Delete Node in a BST | Medium | [Code](./solutions/problems/delete_node_in_a_bst) |
-| 501 | Find Mode in Binary Search Tree | Easy | [Code](./solutions/problems/find_mode_in_binary_search_tree) |
-| 530 | Minimum Absolute Difference in BST | Easy | [Code](./solutions/problems/minimum_absolute_difference_in_bst) |
-| 538 | Convert BST to Greater Tree | Medium | [Code](./solutions/problems/convert_bst_to_greater_tree) |
-| 653 | Two Sum IV - Input is a BST | Easy | [Code](./solutions/problems/two_sum_iv_-_input_is_a_bst) |
-| 669 | Trim a Binary Search Tree | Medium | [Code](./solutions/problems/trim_a_binary_search_tree) |
-| 700 | Search in a Binary Search Tree | Easy | [Code](./solutions/problems/search_in_a_binary_search_tree) |
-| 701 | Insert into a Binary Search Tree | Medium | [Code](./solutions/problems/insert_into_a_binary_search_tree) |
-| 703 | Kth Largest Element in a Stream | Easy | [Code](./solutions/problems/kth_largest_element_in_a_stream) |
-| 783 | Minimum Distance Between BST Nodes | Easy | [Code](./solutions/problems/minimum_distance_between_bst_nodes) |
 
 [⬆️ Back to Top](#quick-navigation)
 

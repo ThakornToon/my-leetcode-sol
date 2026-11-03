@@ -5,7 +5,7 @@
 
 - [📖 My LeetCode Journey](#my-leetcode-journey)
 - [📂 Browse Problems by Category](#browse-problems)
-- [📋 All Solved Problems (1204 Problems)](#all-solved-problems)
+- [📋 All Solved Problems (1205 Problems)](#all-solved-problems)
 - [⚙️ How to Set This Up Yourself](#how-to-set-this-up-yourself)
 
 ---
@@ -24,7 +24,7 @@
 ### <a id="browse-problems"></a>📂 Browse Problems
 
 - 🟢 **[Easy Problems (354)](./EASY.md)**
-- 🟡 **[Medium Problems (655)](./MEDIUM.md)**
+- 🟡 **[Medium Problems (656)](./MEDIUM.md)**
 - 🔴 **[Hard Problems (195)](./HARD.md)**
 - 📚 **[Problems by Topics (136 Topics)](./TOPICS.md)**
 
@@ -32,7 +32,7 @@
 
 ---
 
-### <a id="all-solved-problems"></a>📋 All Solved Problems (1204 Problems)
+### <a id="all-solved-problems"></a>📋 All Solved Problems (1205 Problems)
 
 | No | Name | Difficulty | Topics | Code Link |
 | :---: | :--- | :---: | :--- | :---: |
@@ -129,6 +129,7 @@
 | 94 | Binary Tree Inorder Traversal | Easy | `Stack`, `Tree`, `Depth-First Search`, `Binary Tree` | [Code](./solutions/problems/binary_tree_inorder_traversal) |
 | 97 | Interleaving String | Medium | `String`, `Dynamic Programming` | [Code](./solutions/problems/interleaving_string) |
 | 98 | Validate Binary Search Tree | Medium | `Tree`, `Depth-First Search`, `Binary Search Tree`, `Binary Tree` | [Code](./solutions/problems/validate_binary_search_tree) |
+| 99 | Recover Binary Search Tree | Medium | `Tree`, `Depth-First Search`, `Binary Search Tree`, `Binary Tree` | [Code](./solutions/problems/recover_binary_search_tree) |
 | 100 | Same Tree | Easy | `Tree`, `Depth-First Search`, `Breadth-First Search`, `Binary Tree` | [Code](./solutions/problems/same_tree) |
 | 101 | Symmetric Tree | Easy | `Tree`, `Depth-First Search`, `Breadth-First Search`, `Binary Tree` | [Code](./solutions/problems/symmetric_tree) |
 | 102 | Binary Tree Level Order Traversal | Medium | `Tree`, `Breadth-First Search`, `Binary Tree` | [Code](./solutions/problems/binary_tree_level_order_traversal) |
