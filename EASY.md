@@ -1,4 +1,4 @@
-# 🟢 LeetCode Easy Problems (354)
+# 🟢 LeetCode Easy Problems (355)
 
 [⬅️ Back to All Problems](./README.md) | [Problems by Topics 📚](./TOPICS.md) | [Medium Problems 🟡](./MEDIUM.md) | [Hard Problems 🔴](./HARD.md)
 
@@ -354,6 +354,7 @@
 | 3633 | Earliest Finish Time for Land and Water Rides I | `Array`, `Two Pointers`, `Binary Search`, `Greedy`, `Sorting` | [Code](./solutions/problems/earliest_finish_time_for_land_and_water_rides_i) |
 | 3637 | Trionic Array I | `Array` | [Code](./solutions/problems/trionic_array_i) |
 | 3643 | Flip Square Submatrix Vertically | `Array`, `Two Pointers`, `Matrix` | [Code](./solutions/problems/flip_square_submatrix_vertically) |
+| 3736 | Minimum Moves to Equal Array Elements III | `Array`, `Math` | [Code](./solutions/problems/minimum_moves_to_equal_array_elements_iii) |
 | 3740 | Minimum Distance Between Three Equal Elements I | `Array`, `Hash Table` | [Code](./solutions/problems/minimum_distance_between_three_equal_elements_i) |
 | 3783 | Mirror Distance of an Integer | `Math` | [Code](./solutions/problems/mirror_distance_of_an_integer) |
 | 3838 | Weighted Word Mapping | `Array`, `String`, `Simulation` | [Code](./solutions/problems/weighted_word_mapping) |

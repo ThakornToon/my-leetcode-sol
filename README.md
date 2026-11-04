@@ -5,7 +5,7 @@
 
 - [📖 My LeetCode Journey](#my-leetcode-journey)
 - [📂 Browse Problems by Category](#browse-problems)
-- [📋 All Solved Problems (1205 Problems)](#all-solved-problems)
+- [📋 All Solved Problems (1206 Problems)](#all-solved-problems)
 - [⚙️ How to Set This Up Yourself](#how-to-set-this-up-yourself)
 
 ---
@@ -23,7 +23,7 @@
 
 ### <a id="browse-problems"></a>📂 Browse Problems
 
-- 🟢 **[Easy Problems (354)](./EASY.md)**
+- 🟢 **[Easy Problems (355)](./EASY.md)**
 - 🟡 **[Medium Problems (656)](./MEDIUM.md)**
 - 🔴 **[Hard Problems (195)](./HARD.md)**
 - 📚 **[Problems by Topics (136 Topics)](./TOPICS.md)**
@@ -32,7 +32,7 @@
 
 ---
 
-### <a id="all-solved-problems"></a>📋 All Solved Problems (1205 Problems)
+### <a id="all-solved-problems"></a>📋 All Solved Problems (1206 Problems)
 
 | No | Name | Difficulty | Topics | Code Link |
 | :---: | :--- | :---: | :--- | :---: |
@@ -1227,6 +1227,7 @@
 | 3719 | Longest Balanced Subarray I | Medium | `Array`, `Hash Table`, `Divide and Conquer`, `Segment Tree`, `Prefix Sum` | [Code](./solutions/problems/longest_balanced_subarray_i) |
 | 3723 | Maximize Sum of Squares of Digits | Medium | `Math`, `Greedy` | [Code](./solutions/problems/maximize_sum_of_squares_of_digits) |
 | 3727 | Maximum Alternating Sum of Squares | Medium | `Array`, `Greedy`, `Sorting` | [Code](./solutions/problems/maximum_alternating_sum_of_squares) |
+| 3736 | Minimum Moves to Equal Array Elements III | Easy | `Array`, `Math` | [Code](./solutions/problems/minimum_moves_to_equal_array_elements_iii) |
 | 3740 | Minimum Distance Between Three Equal Elements I | Easy | `Array`, `Hash Table` | [Code](./solutions/problems/minimum_distance_between_three_equal_elements_i) |
 | 3741 | Minimum Distance Between Three Equal Elements II | Medium | `Array`, `Hash Table` | [Code](./solutions/problems/minimum_distance_between_three_equal_elements_ii) |
 | 3742 | Maximum Path Score in a Grid | Medium | `Array`, `Dynamic Programming`, `Matrix` | [Code](./solutions/problems/maximum_path_score_in_a_grid) |
