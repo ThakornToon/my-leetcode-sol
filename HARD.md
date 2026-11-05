@@ -1,4 +1,4 @@
-# 🔴 LeetCode Hard Problems (195)
+# 🔴 LeetCode Hard Problems (196)
 
 [Easy Problems 🟢](./EASY.md) | [Medium Problems 🟡](./MEDIUM.md) | [Problems by Topics 📚](./TOPICS.md) | [⬅️ Back to All Problems](./README.md)
 
@@ -195,6 +195,7 @@
 | 3093 | Longest Common Suffix Queries | `Array`, `String`, `Trie` | [Code](./solutions/problems/longest_common_suffix_queries) |
 | 3161 | Block Placement Queries | `Array`, `Binary Search`, `Binary Indexed Tree`, `Segment Tree`, `Ordered Set` | [Code](./solutions/problems/block_placement_queries) |
 | 3454 | Separate Squares II | `Array`, `Binary Search`, `Segment Tree`, `Sweep Line` | [Code](./solutions/problems/separate_squares_ii) |
+| 3505 | Minimum Operations to Make Elements Within K Subarrays Equal | `Array`, `Hash Table`, `Math`, `Dynamic Programming`, `Sliding Window`, `Heap (Priority Queue)` | [Code](./solutions/problems/minimum_operations_to_make_elements_within_k_subarrays_equal) |
 | 3640 | Trionic Array II | `Array`, `Dynamic Programming` | [Code](./solutions/problems/trionic_array_ii) |
 | 3699 | Number of ZigZag Arrays I | `Dynamic Programming`, `Prefix Sum` | [Code](./solutions/problems/number_of_zigzag_arrays_i) |
 | 3753 | Total Waviness of Numbers in Range II | `Math`, `Dynamic Programming` | [Code](./solutions/problems/total_waviness_of_numbers_in_range_ii) |

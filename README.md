@@ -5,7 +5,7 @@
 
 - [📖 My LeetCode Journey](#my-leetcode-journey)
 - [📂 Browse Problems by Category](#browse-problems)
-- [📋 All Solved Problems (1206 Problems)](#all-solved-problems)
+- [📋 All Solved Problems (1207 Problems)](#all-solved-problems)
 - [⚙️ How to Set This Up Yourself](#how-to-set-this-up-yourself)
 
 ---
@@ -25,14 +25,14 @@
 
 - 🟢 **[Easy Problems (355)](./EASY.md)**
 - 🟡 **[Medium Problems (656)](./MEDIUM.md)**
-- 🔴 **[Hard Problems (195)](./HARD.md)**
+- 🔴 **[Hard Problems (196)](./HARD.md)**
 - 📚 **[Problems by Topics (136 Topics)](./TOPICS.md)**
 
 [⬆️ Back to Contents](#contents)
 
 ---
 
-### <a id="all-solved-problems"></a>📋 All Solved Problems (1206 Problems)
+### <a id="all-solved-problems"></a>📋 All Solved Problems (1207 Problems)
 
 | No | Name | Difficulty | Topics | Code Link |
 | :---: | :--- | :---: | :--- | :---: |
@@ -1203,6 +1203,7 @@
 | 3453 | Separate Squares I | Medium | `Array`, `Binary Search` | [Code](./solutions/problems/separate_squares_i) |
 | 3454 | Separate Squares II | Hard | `Array`, `Binary Search`, `Segment Tree`, `Sweep Line` | [Code](./solutions/problems/separate_squares_ii) |
 | 3488 | Closest Equal Element Queries | Medium | `Array`, `Hash Table`, `Binary Search` | [Code](./solutions/problems/closest_equal_element_queries) |
+| 3505 | Minimum Operations to Make Elements Within K Subarrays Equal | Hard | `Array`, `Hash Table`, `Math`, `Dynamic Programming`, `Sliding Window`, `Heap (Priority Queue)` | [Code](./solutions/problems/minimum_operations_to_make_elements_within_k_subarrays_equal) |
 | 3507 | Minimum Pair Removal to Sort Array I | Easy | `Array`, `Hash Table`, `Linked List`, `Heap (Priority Queue)`, `Simulation`, `Doubly-Linked List`, `Ordered Set` | [Code](./solutions/problems/minimum_pair_removal_to_sort_array_i) |
 | 3546 | Equal Sum Grid Partition I | Medium | `Array`, `Matrix`, `Enumeration`, `Prefix Sum` | [Code](./solutions/problems/equal_sum_grid_partition_i) |
 | 3551 | Minimum Swaps to Sort by Digit Sum | Medium | `Array`, `Hash Table`, `Sorting` | [Code](./solutions/problems/minimum_swaps_to_sort_by_digit_sum) |
