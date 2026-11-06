@@ -1,4 +1,4 @@
-# 🟡 LeetCode Medium Problems (656)
+# 🟡 LeetCode Medium Problems (657)
 
 [Easy Problems 🟢](./EASY.md) | [⬅️ Back to All Problems](./README.md) | [Problems by Topics 📚](./TOPICS.md) | [Hard Problems 🔴](./HARD.md)
 
@@ -83,6 +83,7 @@
 | 138 | Copy List with Random Pointer | `Hash Table`, `Linked List` | [Code](./solutions/problems/copy_list_with_random_pointer) |
 | 142 | Linked List Cycle II | `Hash Table`, `Linked List`, `Two Pointers`, `Floyd's Cycle Finding Algorithm` | [Code](./solutions/problems/linked_list_cycle_ii) |
 | 143 | Reorder List | `Linked List`, `Two Pointers`, `Stack`, `Recursion` | [Code](./solutions/problems/reorder_list) |
+| 146 | LRU Cache | `Hash Table`, `Linked List`, `Design`, `Doubly-Linked List` | [Code](./solutions/problems/lru_cache) |
 | 147 | Insertion Sort List | `Linked List`, `Sorting` | [Code](./solutions/problems/insertion_sort_list) |
 | 148 | Sort List | `Linked List`, `Two Pointers`, `Divide and Conquer`, `Sorting`, `Merge Sort` | [Code](./solutions/problems/sort_list) |
 | 150 | Evaluate Reverse Polish Notation | `Array`, `Math`, `Stack` | [Code](./solutions/problems/evaluate_reverse_polish_notation) |

@@ -5,7 +5,7 @@
 
 - [📖 My LeetCode Journey](#my-leetcode-journey)
 - [📂 Browse Problems by Category](#browse-problems)
-- [📋 All Solved Problems (1207 Problems)](#all-solved-problems)
+- [📋 All Solved Problems (1208 Problems)](#all-solved-problems)
 - [⚙️ How to Set This Up Yourself](#how-to-set-this-up-yourself)
 
 ---
@@ -24,7 +24,7 @@
 ### <a id="browse-problems"></a>📂 Browse Problems
 
 - 🟢 **[Easy Problems (355)](./EASY.md)**
-- 🟡 **[Medium Problems (656)](./MEDIUM.md)**
+- 🟡 **[Medium Problems (657)](./MEDIUM.md)**
 - 🔴 **[Hard Problems (196)](./HARD.md)**
 - 📚 **[Problems by Topics (136 Topics)](./TOPICS.md)**
 
@@ -32,7 +32,7 @@
 
 ---
 
-### <a id="all-solved-problems"></a>📋 All Solved Problems (1207 Problems)
+### <a id="all-solved-problems"></a>📋 All Solved Problems (1208 Problems)
 
 | No | Name | Difficulty | Topics | Code Link |
 | :---: | :--- | :---: | :--- | :---: |
@@ -169,6 +169,7 @@
 | 143 | Reorder List | Medium | `Linked List`, `Two Pointers`, `Stack`, `Recursion` | [Code](./solutions/problems/reorder_list) |
 | 144 | Binary Tree Preorder Traversal | Easy | `Stack`, `Tree`, `Depth-First Search`, `Binary Tree` | [Code](./solutions/problems/binary_tree_preorder_traversal) |
 | 145 | Binary Tree Postorder Traversal | Easy | `Stack`, `Tree`, `Depth-First Search`, `Binary Tree` | [Code](./solutions/problems/binary_tree_postorder_traversal) |
+| 146 | LRU Cache | Medium | `Hash Table`, `Linked List`, `Design`, `Doubly-Linked List` | [Code](./solutions/problems/lru_cache) |
 | 147 | Insertion Sort List | Medium | `Linked List`, `Sorting` | [Code](./solutions/problems/insertion_sort_list) |
 | 148 | Sort List | Medium | `Linked List`, `Two Pointers`, `Divide and Conquer`, `Sorting`, `Merge Sort` | [Code](./solutions/problems/sort_list) |
 | 149 | Max Points on a Line | Hard | `Array`, `Hash Table`, `Math`, `Geometry`, `Euclidean Algorithm`, `Greatest Common Divisor` | [Code](./solutions/problems/max_points_on_a_line) |
