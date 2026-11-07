@@ -6,14 +6,14 @@
 
 > Click on any topic to jump to its problem list.
 
-[`Array` (712)](#array) · [`String` (321)](#string) · [`Hash Table` (240)](#hash-table) · [`Math` (236)](#math) · [`Dynamic Programming` (226)](#dynamic-programming) · [`Sorting` (188)](#sorting) · [`Greedy` (154)](#greedy) · [`Matrix` (116)](#matrix) · [`Two Pointers` (113)](#two-pointers) · [`Binary Search` (107)](#binary-search) · [`Depth-First Search` (98)](#depth-first-search) · [`Bit Manipulation` (92)](#bit-manipulation) · [`Breadth-First Search` (83)](#breadth-first-search) · [`Stack` (74)](#stack) · [`Prefix Sum` (73)](#prefix-sum) · [`Simulation` (66)](#simulation) · [`Tree` (66)](#tree) · [`Binary Tree` (62)](#binary-tree) · [`Heap (Priority Queue)` (58)](#heap-priority-queue) · [`Backtracking` (54)](#backtracking) · [`Sliding Window` (53)](#sliding-window) · [`Counting` (51)](#counting) · [`Linked List` (37)](#linked-list) · [`Recursion` (27)](#recursion) · [`Divide and Conquer` (25)](#divide-and-conquer) · [`Monotonic Stack` (24)](#monotonic-stack) · [`Enumeration` (22)](#enumeration) · [`Design` (21)](#design) · [`Geometry` (20)](#geometry) · [`Union-Find` (18)](#union-find) · [`Binary Search Tree` (17)](#binary-search-tree) · [`Ordered Set` (17)](#ordered-set) · [`Game Theory` (16)](#game-theory) · [`Segment Tree` (16)](#segment-tree) · [`Trie` (16)](#trie) · [`Memoization` (15)](#memoization) · [`Queue` (15)](#queue) · [`Bracket Sequences` (13)](#bracket-sequences) · [`Bitmask` (12)](#bitmask) · [`Binary Indexed Tree` (10)](#binary-indexed-tree) · [`Knapsack Problem` (10)](#knapsack-problem) · [`Minimax` (10)](#minimax) · [`Zero-Sum Game` (10)](#zero-sum-game) · [`Graph Theory` (9)](#graph-theory) · [`Greatest Common Divisor` (9)](#greatest-common-divisor) · [`Longest Increasing Subsequence` (9)](#longest-increasing-subsequence) · [`Number Theory` (9)](#number-theory) · [`String Matching` (9)](#string-matching) · [`Combinatorics` (8)](#combinatorics) · [`Euclidean Algorithm` (8)](#euclidean-algorithm) · [`Brainteaser` (7)](#brainteaser) · [`Bucket Sort` (6)](#bucket-sort) · [`Counting Sort` (6)](#counting-sort) · [`DP on Trees` (6)](#dp-on-trees) · [`Merge Sort` (6)](#merge-sort) · [`Monotonic Queue` (6)](#monotonic-queue) · [`0-1 Knapsack` (5)](#0-1-knapsack) · [`Floyd's Cycle Finding Algorithm` (5)](#floyds-cycle-finding-algorithm) · [`Longest Common Subsequence` (5)](#longest-common-subsequence) · [`Pigeonhole Principle` (5)](#pigeonhole-principle) · [`Probability and Statistics` (5)](#probability-and-statistics) · [`Quickselect` (5)](#quickselect) · [`Quicksort` (5)](#quicksort) · [`Bidirectional Search` (4)](#bidirectional-search) · [`Complete Knapsack` (4)](#complete-knapsack) · [`Hash Function` (4)](#hash-function) · [`Interactive` (4)](#interactive) · [`Primality Test` (4)](#primality-test) · [`Treap` (4)](#treap) · [`Z Algorithm` (4)](#z-algorithm) · [`Algorithm X` (3)](#algorithm-x) · [`Boyer–Moore String-Search Algorithm` (3)](#boyermoore-string-search-algorithm) · [`Bubble Sort` (3)](#bubble-sort) · [`Doubly-Linked List` (3)](#doubly-linked-list) · [`Impartial Game` (3)](#impartial-game) · [`Knuth–Morris–Pratt Algorithm` (3)](#knuthmorrispratt-algorithm) · [`Least Common Multiple` (3)](#least-common-multiple) · [`Nim Game` (3)](#nim-game) · [`Prime Factorization` (3)](#prime-factorization) · [`Rolling Hash` (3)](#rolling-hash) · [`Sieve Theory` (3)](#sieve-theory) · [`Sweep Line` (3)](#sweep-line) · [`Binary Lifting` (2)](#binary-lifting) · [`Bipartite Graph` (2)](#bipartite-graph) · [`Boyer–Moore Majority Vote Algorithm` (2)](#boyermoore-majority-vote-algorithm) · [`Bézout's Lemma` (2)](#bzouts-lemma) · [`Data Stream` (2)](#data-stream) · [`Directed Acyclic Graph` (2)](#directed-acyclic-graph) · [`Extended Euclidean Algorithm` (2)](#extended-euclidean-algorithm) · [`Flow Network` (2)](#flow-network) · [`Graph Coloring` (2)](#graph-coloring) · [`Inclusion-Exclusion Principle` (2)](#inclusion-exclusion-principle) · [`Lowest Common Ancestor` (2)](#lowest-common-ancestor) · [`Meet in the Middle` (2)](#meet-in-the-middle) · [`Polygons` (2)](#polygons) · [`Prime Number Sieve` (2)](#prime-number-sieve) · [`Radix Sort` (2)](#radix-sort) · [`Range Minimum/Maximum Query` (2)](#range-minimummaximum-query) · [`Shortest Path` (2)](#shortest-path) · [`Ternary Search` (2)](#ternary-search) · [`A* Search` (1)](#a-search) · [`Articulation Point` (1)](#articulation-point) · [`Bellman–Ford Algorithm` (1)](#bellmanford-algorithm) · [`Cartesian Tree` (1)](#cartesian-tree) · [`Dancing Links` (1)](#dancing-links) · [`Dijkstra's Algorithm` (1)](#dijkstras-algorithm) · [`Dinic's Algorithm` (1)](#dinics-algorithm) · [`Edmonds–Karp Algorithm` (1)](#edmondskarp-algorithm) · [`Floyd–Warshall Algorithm` (1)](#floydwarshall-algorithm) · [`Hamiltonian Path` (1)](#hamiltonian-path) · [`Heuristic Search` (1)](#heuristic-search) · [`Hungarian Algorithm` (1)](#hungarian-algorithm) · [`K-D Tree` (1)](#k-d-tree) · [`Lexicographically Minimal String Rotation` (1)](#lexicographically-minimal-string-rotation) · [`Linear Algebra` (1)](#linear-algebra) · [`Lyndon Factorization` (1)](#lyndon-factorization) · [`MPM Algorithm` (1)](#mpm-algorithm) · [`Manacher` (1)](#manacher) · [`Matching (Graph)` (1)](#matching-graph) · [`Maximum Flow` (1)](#maximum-flow) · [`Maximum Matching` (1)](#maximum-matching) · [`Minimum Cut` (1)](#minimum-cut) · [`Mixed Knapsack` (1)](#mixed-knapsack) · [`Newton's Method` (1)](#newtons-method) · [`Planar Graph` (1)](#planar-graph) · [`Push-Relabel Algorithm` (1)](#push-relabel-algorithm) · [`Randomized` (1)](#randomized) · [`Rejection Sampling` (1)](#rejection-sampling) · [`Sparse Table` (1)](#sparse-table) · [`Sprague–Grundy Theorem` (1)](#spraguegrundy-theorem) · [`Sqrt Decomposition` (1)](#sqrt-decomposition) · [`Strongly Connected Component` (1)](#strongly-connected-component) · [`Successive Shortest Path Algorithm` (1)](#successive-shortest-path-algorithm) · [`Timsort` (1)](#timsort) · [`Topological Sort` (1)](#topological-sort) · [`Tournament Sort` (1)](#tournament-sort)
+[`Array` (713)](#array) · [`String` (321)](#string) · [`Hash Table` (241)](#hash-table) · [`Math` (236)](#math) · [`Dynamic Programming` (226)](#dynamic-programming) · [`Sorting` (189)](#sorting) · [`Greedy` (154)](#greedy) · [`Matrix` (116)](#matrix) · [`Two Pointers` (113)](#two-pointers) · [`Binary Search` (107)](#binary-search) · [`Depth-First Search` (98)](#depth-first-search) · [`Bit Manipulation` (92)](#bit-manipulation) · [`Breadth-First Search` (83)](#breadth-first-search) · [`Stack` (74)](#stack) · [`Prefix Sum` (73)](#prefix-sum) · [`Simulation` (66)](#simulation) · [`Tree` (66)](#tree) · [`Binary Tree` (62)](#binary-tree) · [`Heap (Priority Queue)` (58)](#heap-priority-queue) · [`Backtracking` (54)](#backtracking) · [`Sliding Window` (54)](#sliding-window) · [`Counting` (51)](#counting) · [`Linked List` (37)](#linked-list) · [`Recursion` (27)](#recursion) · [`Divide and Conquer` (25)](#divide-and-conquer) · [`Monotonic Stack` (24)](#monotonic-stack) · [`Enumeration` (22)](#enumeration) · [`Design` (21)](#design) · [`Geometry` (20)](#geometry) · [`Union-Find` (18)](#union-find) · [`Binary Search Tree` (17)](#binary-search-tree) · [`Ordered Set` (17)](#ordered-set) · [`Game Theory` (16)](#game-theory) · [`Segment Tree` (16)](#segment-tree) · [`Trie` (16)](#trie) · [`Memoization` (15)](#memoization) · [`Queue` (15)](#queue) · [`Bracket Sequences` (13)](#bracket-sequences) · [`Bitmask` (12)](#bitmask) · [`Binary Indexed Tree` (10)](#binary-indexed-tree) · [`Knapsack Problem` (10)](#knapsack-problem) · [`Minimax` (10)](#minimax) · [`Zero-Sum Game` (10)](#zero-sum-game) · [`Graph Theory` (9)](#graph-theory) · [`Greatest Common Divisor` (9)](#greatest-common-divisor) · [`Longest Increasing Subsequence` (9)](#longest-increasing-subsequence) · [`Number Theory` (9)](#number-theory) · [`String Matching` (9)](#string-matching) · [`Combinatorics` (8)](#combinatorics) · [`Euclidean Algorithm` (8)](#euclidean-algorithm) · [`Brainteaser` (7)](#brainteaser) · [`Bucket Sort` (6)](#bucket-sort) · [`Counting Sort` (6)](#counting-sort) · [`DP on Trees` (6)](#dp-on-trees) · [`Merge Sort` (6)](#merge-sort) · [`Monotonic Queue` (6)](#monotonic-queue) · [`0-1 Knapsack` (5)](#0-1-knapsack) · [`Floyd's Cycle Finding Algorithm` (5)](#floyds-cycle-finding-algorithm) · [`Longest Common Subsequence` (5)](#longest-common-subsequence) · [`Pigeonhole Principle` (5)](#pigeonhole-principle) · [`Probability and Statistics` (5)](#probability-and-statistics) · [`Quickselect` (5)](#quickselect) · [`Quicksort` (5)](#quicksort) · [`Bidirectional Search` (4)](#bidirectional-search) · [`Complete Knapsack` (4)](#complete-knapsack) · [`Hash Function` (4)](#hash-function) · [`Interactive` (4)](#interactive) · [`Primality Test` (4)](#primality-test) · [`Treap` (4)](#treap) · [`Z Algorithm` (4)](#z-algorithm) · [`Algorithm X` (3)](#algorithm-x) · [`Boyer–Moore String-Search Algorithm` (3)](#boyermoore-string-search-algorithm) · [`Bubble Sort` (3)](#bubble-sort) · [`Doubly-Linked List` (3)](#doubly-linked-list) · [`Impartial Game` (3)](#impartial-game) · [`Knuth–Morris–Pratt Algorithm` (3)](#knuthmorrispratt-algorithm) · [`Least Common Multiple` (3)](#least-common-multiple) · [`Nim Game` (3)](#nim-game) · [`Prime Factorization` (3)](#prime-factorization) · [`Rolling Hash` (3)](#rolling-hash) · [`Sieve Theory` (3)](#sieve-theory) · [`Sweep Line` (3)](#sweep-line) · [`Binary Lifting` (2)](#binary-lifting) · [`Bipartite Graph` (2)](#bipartite-graph) · [`Boyer–Moore Majority Vote Algorithm` (2)](#boyermoore-majority-vote-algorithm) · [`Bézout's Lemma` (2)](#bzouts-lemma) · [`Data Stream` (2)](#data-stream) · [`Directed Acyclic Graph` (2)](#directed-acyclic-graph) · [`Extended Euclidean Algorithm` (2)](#extended-euclidean-algorithm) · [`Flow Network` (2)](#flow-network) · [`Graph Coloring` (2)](#graph-coloring) · [`Inclusion-Exclusion Principle` (2)](#inclusion-exclusion-principle) · [`Lowest Common Ancestor` (2)](#lowest-common-ancestor) · [`Meet in the Middle` (2)](#meet-in-the-middle) · [`Polygons` (2)](#polygons) · [`Prime Number Sieve` (2)](#prime-number-sieve) · [`Radix Sort` (2)](#radix-sort) · [`Range Minimum/Maximum Query` (2)](#range-minimummaximum-query) · [`Shortest Path` (2)](#shortest-path) · [`Ternary Search` (2)](#ternary-search) · [`A* Search` (1)](#a-search) · [`Articulation Point` (1)](#articulation-point) · [`Bellman–Ford Algorithm` (1)](#bellmanford-algorithm) · [`Cartesian Tree` (1)](#cartesian-tree) · [`Dancing Links` (1)](#dancing-links) · [`Dijkstra's Algorithm` (1)](#dijkstras-algorithm) · [`Dinic's Algorithm` (1)](#dinics-algorithm) · [`Edmonds–Karp Algorithm` (1)](#edmondskarp-algorithm) · [`Floyd–Warshall Algorithm` (1)](#floydwarshall-algorithm) · [`Hamiltonian Path` (1)](#hamiltonian-path) · [`Heuristic Search` (1)](#heuristic-search) · [`Hungarian Algorithm` (1)](#hungarian-algorithm) · [`K-D Tree` (1)](#k-d-tree) · [`Lexicographically Minimal String Rotation` (1)](#lexicographically-minimal-string-rotation) · [`Linear Algebra` (1)](#linear-algebra) · [`Lyndon Factorization` (1)](#lyndon-factorization) · [`MPM Algorithm` (1)](#mpm-algorithm) · [`Manacher` (1)](#manacher) · [`Matching (Graph)` (1)](#matching-graph) · [`Maximum Flow` (1)](#maximum-flow) · [`Maximum Matching` (1)](#maximum-matching) · [`Minimum Cut` (1)](#minimum-cut) · [`Mixed Knapsack` (1)](#mixed-knapsack) · [`Newton's Method` (1)](#newtons-method) · [`Planar Graph` (1)](#planar-graph) · [`Push-Relabel Algorithm` (1)](#push-relabel-algorithm) · [`Randomized` (1)](#randomized) · [`Rejection Sampling` (1)](#rejection-sampling) · [`Sparse Table` (1)](#sparse-table) · [`Sprague–Grundy Theorem` (1)](#spraguegrundy-theorem) · [`Sqrt Decomposition` (1)](#sqrt-decomposition) · [`Strongly Connected Component` (1)](#strongly-connected-component) · [`Successive Shortest Path Algorithm` (1)](#successive-shortest-path-algorithm) · [`Timsort` (1)](#timsort) · [`Topological Sort` (1)](#topological-sort) · [`Tournament Sort` (1)](#tournament-sort)
 
 ---
 
-### <a id="array"></a>Array (712)
+### <a id="array"></a>Array (713)
 
 <details>
-<summary><b>View 712 problems</b></summary>
+<summary><b>View 713 problems</b></summary>
 
 | No | Name | Difficulty | Code Link |
 | :---: | :--- | :---: | :---: |
@@ -673,6 +673,7 @@
 | 2596 | Check Knight Tour Configuration | Medium | [Code](./solutions/problems/check_knight_tour_configuration) |
 | 2615 | Sum of Distances | Medium | [Code](./solutions/problems/sum_of_distances) |
 | 2657 | Find the Prefix Common Array of Two Arrays | Medium | [Code](./solutions/problems/find_the_prefix_common_array_of_two_arrays) |
+| 2747 | Count Zero Request Servers | Medium | [Code](./solutions/problems/count_zero_request_servers) |
 | 2770 | Maximum Number of Jumps to Reach the Last Index | Medium | [Code](./solutions/problems/maximum_number_of_jumps_to_reach_the_last_index) |
 | 2778 | Sum of Squares of Special Elements | Easy | [Code](./solutions/problems/sum_of_squares_of_special_elements_) |
 | 2784 | Check if Array is Good | Easy | [Code](./solutions/problems/check_if_array_is_good) |
@@ -1067,10 +1068,10 @@
 
 </details>
 
-### <a id="hash-table"></a>Hash Table (240)
+### <a id="hash-table"></a>Hash Table (241)
 
 <details>
-<summary><b>View 240 problems</b></summary>
+<summary><b>View 241 problems</b></summary>
 
 | No | Name | Difficulty | Code Link |
 | :---: | :--- | :---: | :---: |
@@ -1294,6 +1295,7 @@
 | 2540 | Minimum Common Value | Easy | [Code](./solutions/problems/minimum_common_value) |
 | 2615 | Sum of Distances | Medium | [Code](./solutions/problems/sum_of_distances) |
 | 2657 | Find the Prefix Common Array of Two Arrays | Medium | [Code](./solutions/problems/find_the_prefix_common_array_of_two_arrays) |
+| 2747 | Count Zero Request Servers | Medium | [Code](./solutions/problems/count_zero_request_servers) |
 | 2784 | Check if Array is Good | Easy | [Code](./solutions/problems/check_if_array_is_good) |
 | 2840 | Check if Strings Can be Made Equal With Operations II | Medium | [Code](./solutions/problems/check_if_strings_can_be_made_equal_with_operations_ii) |
 | 2897 | Apply Operations on Array to Maximize Sum of Squares | Hard | [Code](./solutions/problems/apply_operations_on_array_to_maximize_sum_of_squares) |
@@ -1805,10 +1807,10 @@
 
 </details>
 
-### <a id="sorting"></a>Sorting (188)
+### <a id="sorting"></a>Sorting (189)
 
 <details>
-<summary><b>View 188 problems</b></summary>
+<summary><b>View 189 problems</b></summary>
 
 | No | Name | Difficulty | Code Link |
 | :---: | :--- | :---: | :---: |
@@ -1989,6 +1991,7 @@
 | 2126 | Destroying Asteroids | Medium | [Code](./solutions/problems/destroying_asteroids) |
 | 2144 | Minimum Cost of Buying Candies With Discount | Easy | [Code](./solutions/problems/minimum_cost_of_buying_candies_with_discount) |
 | 2333 | Minimum Sum of Squared Difference | Medium | [Code](./solutions/problems/minimum_sum_of_squared_difference) |
+| 2747 | Count Zero Request Servers | Medium | [Code](./solutions/problems/count_zero_request_servers) |
 | 2784 | Check if Array is Good | Easy | [Code](./solutions/problems/check_if_array_is_good) |
 | 2840 | Check if Strings Can be Made Equal With Operations II | Medium | [Code](./solutions/problems/check_if_strings_can_be_made_equal_with_operations_ii) |
 | 2943 | Maximize Area of Square Hole in Grid | Medium | [Code](./solutions/problems/maximize_area_of_square_hole_in_grid) |
@@ -3389,10 +3392,10 @@
 
 </details>
 
-### <a id="sliding-window"></a>Sliding Window (53)
+### <a id="sliding-window"></a>Sliding Window (54)
 
 <details>
-<summary><b>View 53 problems</b></summary>
+<summary><b>View 54 problems</b></summary>
 
 | No | Name | Difficulty | Code Link |
 | :---: | :--- | :---: | :---: |
@@ -3445,6 +3448,7 @@
 | 1763 | Longest Nice Substring | Easy | [Code](./solutions/problems/longest_nice_substring) |
 | 1871 | Jump Game VII | Medium | [Code](./solutions/problems/jump_game_vii) |
 | 1984 | Minimum Difference Between Highest and Lowest of K Scores | Easy | [Code](./solutions/problems/minimum_difference_between_highest_and_lowest_of_k_scores) |
+| 2747 | Count Zero Request Servers | Medium | [Code](./solutions/problems/count_zero_request_servers) |
 | 3013 | Divide an Array Into Subarrays With Minimum Cost II | Hard | [Code](./solutions/problems/divide_an_array_into_subarrays_with_minimum_cost_ii) |
 | 3505 | Minimum Operations to Make Elements Within K Subarrays Equal | Hard | [Code](./solutions/problems/minimum_operations_to_make_elements_within_k_subarrays_equal) |
 | 3634 | Minimum Removals to Balance Array | Medium | [Code](./solutions/problems/minimum_removals_to_balance_array) |

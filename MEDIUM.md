@@ -1,4 +1,4 @@
-# 🟡 LeetCode Medium Problems (657)
+# 🟡 LeetCode Medium Problems (658)
 
 [Easy Problems 🟢](./EASY.md) | [⬅️ Back to All Problems](./README.md) | [Problems by Topics 📚](./TOPICS.md) | [Hard Problems 🔴](./HARD.md)
 
@@ -620,6 +620,7 @@
 | 2596 | Check Knight Tour Configuration | `Array`, `Depth-First Search`, `Breadth-First Search`, `Matrix`, `Simulation` | [Code](./solutions/problems/check_knight_tour_configuration) |
 | 2615 | Sum of Distances | `Array`, `Hash Table`, `Prefix Sum` | [Code](./solutions/problems/sum_of_distances) |
 | 2657 | Find the Prefix Common Array of Two Arrays | `Array`, `Hash Table`, `Bit Manipulation` | [Code](./solutions/problems/find_the_prefix_common_array_of_two_arrays) |
+| 2747 | Count Zero Request Servers | `Array`, `Hash Table`, `Sliding Window`, `Sorting` | [Code](./solutions/problems/count_zero_request_servers) |
 | 2770 | Maximum Number of Jumps to Reach the Last Index | `Array`, `Dynamic Programming` | [Code](./solutions/problems/maximum_number_of_jumps_to_reach_the_last_index) |
 | 2840 | Check if Strings Can be Made Equal With Operations II | `Hash Table`, `String`, `Sorting` | [Code](./solutions/problems/check_if_strings_can_be_made_equal_with_operations_ii) |
 | 2906 | Construct Product Matrix | `Array`, `Matrix`, `Prefix Sum` | [Code](./solutions/problems/construct_product_matrix) |

@@ -5,7 +5,7 @@
 
 - [📖 My LeetCode Journey](#my-leetcode-journey)
 - [📂 Browse Problems by Category](#browse-problems)
-- [📋 All Solved Problems (1208 Problems)](#all-solved-problems)
+- [📋 All Solved Problems (1209 Problems)](#all-solved-problems)
 - [⚙️ How to Set This Up Yourself](#how-to-set-this-up-yourself)
 
 ---
@@ -24,7 +24,7 @@
 ### <a id="browse-problems"></a>📂 Browse Problems
 
 - 🟢 **[Easy Problems (355)](./EASY.md)**
-- 🟡 **[Medium Problems (657)](./MEDIUM.md)**
+- 🟡 **[Medium Problems (658)](./MEDIUM.md)**
 - 🔴 **[Hard Problems (196)](./HARD.md)**
 - 📚 **[Problems by Topics (136 Topics)](./TOPICS.md)**
 
@@ -32,7 +32,7 @@
 
 ---
 
-### <a id="all-solved-problems"></a>📋 All Solved Problems (1208 Problems)
+### <a id="all-solved-problems"></a>📋 All Solved Problems (1209 Problems)
 
 | No | Name | Difficulty | Topics | Code Link |
 | :---: | :--- | :---: | :--- | :---: |
@@ -1172,6 +1172,7 @@
 | 2596 | Check Knight Tour Configuration | Medium | `Array`, `Depth-First Search`, `Breadth-First Search`, `Matrix`, `Simulation` | [Code](./solutions/problems/check_knight_tour_configuration) |
 | 2615 | Sum of Distances | Medium | `Array`, `Hash Table`, `Prefix Sum` | [Code](./solutions/problems/sum_of_distances) |
 | 2657 | Find the Prefix Common Array of Two Arrays | Medium | `Array`, `Hash Table`, `Bit Manipulation` | [Code](./solutions/problems/find_the_prefix_common_array_of_two_arrays) |
+| 2747 | Count Zero Request Servers | Medium | `Array`, `Hash Table`, `Sliding Window`, `Sorting` | [Code](./solutions/problems/count_zero_request_servers) |
 | 2770 | Maximum Number of Jumps to Reach the Last Index | Medium | `Array`, `Dynamic Programming` | [Code](./solutions/problems/maximum_number_of_jumps_to_reach_the_last_index) |
 | 2778 | Sum of Squares of Special Elements | Easy | `Array`, `Enumeration` | [Code](./solutions/problems/sum_of_squares_of_special_elements_) |
 | 2784 | Check if Array is Good | Easy | `Array`, `Hash Table`, `Sorting` | [Code](./solutions/problems/check_if_array_is_good) |
