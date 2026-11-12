@@ -58,7 +58,9 @@ public:
                 }
                 if (p_end > right) {
                     intervals.insert({right, p_end});
+                    return;
                 }
+                
             }
         }
 
@@ -69,6 +71,7 @@ public:
             it = intervals.erase(it);
             if (p_end > right) {
                 intervals.insert({right, p_end});
+                return;
             }
         }
     }
