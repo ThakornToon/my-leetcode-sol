@@ -13,7 +13,6 @@ public:
             for (int i = 0; i < n; i += k) {
                 // ตรวจสอบว่าบล็อกขนาด k นี้สามารถหมุนให้เรียงได้หรือไม่
                 int drop_count = 0;
-                int min_val = nums[i], max_val = nums[i];
                 
                 for (int j = 0; j < k; ++j) {
                     int curr = nums[i + j];
@@ -32,7 +31,6 @@ public:
                 }
 
                 // หาค่าต่ำสุดและสูงสุดของบล็อกนี้เพื่อเช็คความสัมพันธ์กับบล็อกก่อนหน้า
-                int b_min = nums[i], b_max = nums[i];
                 // หาตำแหน่งเริ่มต้นที่แท้จริงหากมีการวนรอบ
                 int start_idx = i;
                 for (int j = 1; j < k; ++j) {
@@ -50,7 +48,7 @@ public:
                     break;
                 }
                 // อัปเดตค่าสูงสุดของบล็อกปัจจุบัน
-                prev_max = nums[i + (start_idx - i + k - 1) % k];
+                prev_max = last_val;
             }
 
             if (possible) {
