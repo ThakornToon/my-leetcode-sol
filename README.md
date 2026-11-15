@@ -5,7 +5,7 @@
 
 - [📖 My LeetCode Journey](#my-leetcode-journey)
 - [📂 Browse Problems by Category](#browse-problems)
-- [📋 All Solved Problems (1209 Problems)](#all-solved-problems)
+- [📋 All Solved Problems (1210 Problems)](#all-solved-problems)
 - [⚙️ How to Set This Up Yourself](#how-to-set-this-up-yourself)
 
 ---
@@ -24,7 +24,7 @@
 ### <a id="browse-problems"></a>📂 Browse Problems
 
 - 🟢 **[Easy Problems (355)](./EASY.md)**
-- 🟡 **[Medium Problems (658)](./MEDIUM.md)**
+- 🟡 **[Medium Problems (659)](./MEDIUM.md)**
 - 🔴 **[Hard Problems (196)](./HARD.md)**
 - 📚 **[Problems by Topics (136 Topics)](./TOPICS.md)**
 
@@ -32,7 +32,7 @@
 
 ---
 
-### <a id="all-solved-problems"></a>📋 All Solved Problems (1209 Problems)
+### <a id="all-solved-problems"></a>📋 All Solved Problems (1210 Problems)
 
 | No | Name | Difficulty | Topics | Code Link |
 | :---: | :--- | :---: | :--- | :---: |
@@ -1142,6 +1142,7 @@
 | 1871 | Jump Game VII | Medium | `String`, `Dynamic Programming`, `Sliding Window`, `Prefix Sum` | [Code](./solutions/problems/jump_game_vii) |
 | 1872 | Stone Game VIII | Hard | `Array`, `Math`, `Dynamic Programming`, `Minimax`, `Prefix Sum`, `Game Theory`, `Zero-Sum Game` | [Code](./solutions/problems/stone_game_viii) |
 | 1877 | Minimize Maximum Pair Sum in Array | Medium | `Array`, `Two Pointers`, `Greedy`, `Sorting` | [Code](./solutions/problems/minimize_maximum_pair_sum_in_array) |
+| 1882 | Process Tasks Using Servers | Medium | `Array`, `Heap (Priority Queue)` | [Code](./solutions/problems/process_tasks_using_servers) |
 | 1886 | Determine Whether Matrix Can Be Obtained By Rotation | Easy | `Array`, `Matrix` | [Code](./solutions/problems/determine_whether_matrix_can_be_obtained_by_rotation) |
 | 1895 | Largest Magic Square | Medium | `Array`, `Matrix`, `Prefix Sum` | [Code](./solutions/problems/largest_magic_square) |
 | 1914 | Cyclically Rotating a Grid | Medium | `Array`, `Matrix`, `Simulation` | [Code](./solutions/problems/cyclically_rotating_a_grid) |

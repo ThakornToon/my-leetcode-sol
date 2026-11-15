@@ -1,4 +1,4 @@
-# 🟡 LeetCode Medium Problems (658)
+# 🟡 LeetCode Medium Problems (659)
 
 [Easy Problems 🟢](./EASY.md) | [⬅️ Back to All Problems](./README.md) | [Problems by Topics 📚](./TOPICS.md) | [Hard Problems 🔴](./HARD.md)
 
@@ -606,6 +606,7 @@
 | 1861 | Rotating the Box | `Array`, `Two Pointers`, `Matrix` | [Code](./solutions/problems/rotating_the_box) |
 | 1871 | Jump Game VII | `String`, `Dynamic Programming`, `Sliding Window`, `Prefix Sum` | [Code](./solutions/problems/jump_game_vii) |
 | 1877 | Minimize Maximum Pair Sum in Array | `Array`, `Two Pointers`, `Greedy`, `Sorting` | [Code](./solutions/problems/minimize_maximum_pair_sum_in_array) |
+| 1882 | Process Tasks Using Servers | `Array`, `Heap (Priority Queue)` | [Code](./solutions/problems/process_tasks_using_servers) |
 | 1895 | Largest Magic Square | `Array`, `Matrix`, `Prefix Sum` | [Code](./solutions/problems/largest_magic_square) |
 | 1914 | Cyclically Rotating a Grid | `Array`, `Matrix`, `Simulation` | [Code](./solutions/problems/cyclically_rotating_a_grid) |
 | 1927 | Sum Game | `Math`, `String`, `Greedy`, `Game Theory` | [Code](./solutions/problems/sum_game) |
