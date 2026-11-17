@@ -137,6 +137,10 @@ markdown_content += "---\n\n"
 # ส่วนที่ 1: ประวัติความเป็นมา
 markdown_content += '### <a id="my-leetcode-journey"></a>📖 My LeetCode Journey\n\n'
 markdown_content += "- **April 8, 2025:** Started solving LeetCode problems as a new hobby during the school break.\n"
+markdown_content += "- **May 24, 2025:** Successfully crossed the milestone of 50 solved problems!\n"
+markdown_content += "- **June 4, 2025:** Successfully crossed the milestone of 100 solved problems!\n"
+markdown_content += "- **July 17, 2025:** Successfully crossed the milestone of 300 solved problems!\n"
+markdown_content += "- **December 10, 2025:** Successfully crossed the milestone of 500 solved problems!\n"
 markdown_content += "- **End of 2025:** Reached a net total of 643 solved problems.\n"
 markdown_content += "- **May 21, 2026:** Successfully crossed the milestone of 1,000 solved problems!\n"
 markdown_content += "- **Purpose:** This repository serves as a personal archive to store and showcase all the coding solutions I've submitted.\n\n"
