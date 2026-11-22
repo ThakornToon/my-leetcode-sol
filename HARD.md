@@ -1,4 +1,4 @@
-# 🔴 LeetCode Hard Problems (196)
+# 🔴 LeetCode Hard Problems (198)
 
 [Easy Problems 🟢](./EASY.md) | [Medium Problems 🟡](./MEDIUM.md) | [Problems by Topics 📚](./TOPICS.md) | [⬅️ Back to All Problems](./README.md)
 
@@ -45,6 +45,7 @@
 | 329 | Longest Increasing Path in a Matrix | `Array`, `Dynamic Programming`, `Depth-First Search`, `Breadth-First Search`, `Graph Theory`, `Topological Sort`, `Memoization`, `Matrix`, `Directed Acyclic Graph` | [Code](./solutions/problems/longest_increasing_path_in_a_matrix) |
 | 330 | Patching Array | `Array`, `Greedy` | [Code](./solutions/problems/patching_array) |
 | 335 | Self Crossing | `Array`, `Math`, `Geometry` | [Code](./solutions/problems/self_crossing) |
+| 352 | Data Stream as Disjoint Intervals | `Hash Table`, `Binary Search`, `Union-Find`, `Design`, `Data Stream`, `Ordered Set` | [Code](./solutions/problems/data_stream_as_disjoint_intervals) |
 | 354 | Russian Doll Envelopes | `Array`, `Binary Search`, `Dynamic Programming`, `Sorting`, `Longest Increasing Subsequence` | [Code](./solutions/problems/russian_doll_envelopes) |
 | 363 | Max Sum of Rectangle No Larger Than K | `Array`, `Binary Search`, `Matrix`, `Prefix Sum`, `Ordered Set` | [Code](./solutions/problems/max_sum_of_rectangle_no_larger_than_k) |
 | 391 | Perfect Rectangle | `Array`, `Hash Table`, `Math`, `Geometry`, `Sweep Line` | [Code](./solutions/problems/perfect_rectangle) |
@@ -194,6 +195,7 @@
 | 3013 | Divide an Array Into Subarrays With Minimum Cost II | `Array`, `Hash Table`, `Sliding Window`, `Heap (Priority Queue)` | [Code](./solutions/problems/divide_an_array_into_subarrays_with_minimum_cost_ii) |
 | 3093 | Longest Common Suffix Queries | `Array`, `String`, `Trie` | [Code](./solutions/problems/longest_common_suffix_queries) |
 | 3161 | Block Placement Queries | `Array`, `Binary Search`, `Binary Indexed Tree`, `Segment Tree`, `Ordered Set` | [Code](./solutions/problems/block_placement_queries) |
+| 3420 | Count Non-Decreasing Subarrays After K Operations | `Array`, `Stack`, `Segment Tree`, `Queue`, `Sliding Window`, `Monotonic Stack`, `Monotonic Queue` | [Code](./solutions/problems/count_non-decreasing_subarrays_after_k_operations) |
 | 3454 | Separate Squares II | `Array`, `Binary Search`, `Segment Tree`, `Sweep Line` | [Code](./solutions/problems/separate_squares_ii) |
 | 3505 | Minimum Operations to Make Elements Within K Subarrays Equal | `Array`, `Hash Table`, `Math`, `Dynamic Programming`, `Sliding Window`, `Heap (Priority Queue)` | [Code](./solutions/problems/minimum_operations_to_make_elements_within_k_subarrays_equal) |
 | 3640 | Trionic Array II | `Array`, `Dynamic Programming` | [Code](./solutions/problems/trionic_array_ii) |

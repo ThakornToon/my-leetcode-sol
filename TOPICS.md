@@ -1,4 +1,4 @@
-# 📚 LeetCode Problems by Topics (136 Topics)
+# 📚 LeetCode Problems by Topics (137 Topics)
 
 [⬅️ Back to All Problems](./README.md) | [Easy Problems 🟢](./EASY.md) | [Medium Problems 🟡](./MEDIUM.md) | [Hard Problems 🔴](./HARD.md)
 
@@ -6,14 +6,14 @@
 
 > Click on any topic to jump to its problem list.
 
-[`Array` (714)](#array) · [`String` (321)](#string) · [`Hash Table` (241)](#hash-table) · [`Math` (236)](#math) · [`Dynamic Programming` (226)](#dynamic-programming) · [`Sorting` (189)](#sorting) · [`Greedy` (154)](#greedy) · [`Matrix` (116)](#matrix) · [`Two Pointers` (113)](#two-pointers) · [`Binary Search` (107)](#binary-search) · [`Depth-First Search` (98)](#depth-first-search) · [`Bit Manipulation` (92)](#bit-manipulation) · [`Breadth-First Search` (83)](#breadth-first-search) · [`Stack` (74)](#stack) · [`Prefix Sum` (73)](#prefix-sum) · [`Simulation` (66)](#simulation) · [`Tree` (66)](#tree) · [`Binary Tree` (62)](#binary-tree) · [`Heap (Priority Queue)` (59)](#heap-priority-queue) · [`Backtracking` (54)](#backtracking) · [`Sliding Window` (54)](#sliding-window) · [`Counting` (51)](#counting) · [`Linked List` (37)](#linked-list) · [`Recursion` (27)](#recursion) · [`Divide and Conquer` (25)](#divide-and-conquer) · [`Monotonic Stack` (24)](#monotonic-stack) · [`Enumeration` (22)](#enumeration) · [`Design` (21)](#design) · [`Geometry` (20)](#geometry) · [`Union-Find` (18)](#union-find) · [`Binary Search Tree` (17)](#binary-search-tree) · [`Ordered Set` (17)](#ordered-set) · [`Game Theory` (16)](#game-theory) · [`Segment Tree` (16)](#segment-tree) · [`Trie` (16)](#trie) · [`Memoization` (15)](#memoization) · [`Queue` (15)](#queue) · [`Bracket Sequences` (13)](#bracket-sequences) · [`Bitmask` (12)](#bitmask) · [`Binary Indexed Tree` (10)](#binary-indexed-tree) · [`Knapsack Problem` (10)](#knapsack-problem) · [`Minimax` (10)](#minimax) · [`Zero-Sum Game` (10)](#zero-sum-game) · [`Graph Theory` (9)](#graph-theory) · [`Greatest Common Divisor` (9)](#greatest-common-divisor) · [`Longest Increasing Subsequence` (9)](#longest-increasing-subsequence) · [`Number Theory` (9)](#number-theory) · [`String Matching` (9)](#string-matching) · [`Combinatorics` (8)](#combinatorics) · [`Euclidean Algorithm` (8)](#euclidean-algorithm) · [`Brainteaser` (7)](#brainteaser) · [`Bucket Sort` (6)](#bucket-sort) · [`Counting Sort` (6)](#counting-sort) · [`DP on Trees` (6)](#dp-on-trees) · [`Merge Sort` (6)](#merge-sort) · [`Monotonic Queue` (6)](#monotonic-queue) · [`0-1 Knapsack` (5)](#0-1-knapsack) · [`Floyd's Cycle Finding Algorithm` (5)](#floyds-cycle-finding-algorithm) · [`Longest Common Subsequence` (5)](#longest-common-subsequence) · [`Pigeonhole Principle` (5)](#pigeonhole-principle) · [`Probability and Statistics` (5)](#probability-and-statistics) · [`Quickselect` (5)](#quickselect) · [`Quicksort` (5)](#quicksort) · [`Bidirectional Search` (4)](#bidirectional-search) · [`Complete Knapsack` (4)](#complete-knapsack) · [`Hash Function` (4)](#hash-function) · [`Interactive` (4)](#interactive) · [`Primality Test` (4)](#primality-test) · [`Treap` (4)](#treap) · [`Z Algorithm` (4)](#z-algorithm) · [`Algorithm X` (3)](#algorithm-x) · [`Boyer–Moore String-Search Algorithm` (3)](#boyermoore-string-search-algorithm) · [`Bubble Sort` (3)](#bubble-sort) · [`Doubly-Linked List` (3)](#doubly-linked-list) · [`Impartial Game` (3)](#impartial-game) · [`Knuth–Morris–Pratt Algorithm` (3)](#knuthmorrispratt-algorithm) · [`Least Common Multiple` (3)](#least-common-multiple) · [`Nim Game` (3)](#nim-game) · [`Prime Factorization` (3)](#prime-factorization) · [`Rolling Hash` (3)](#rolling-hash) · [`Sieve Theory` (3)](#sieve-theory) · [`Sweep Line` (3)](#sweep-line) · [`Binary Lifting` (2)](#binary-lifting) · [`Bipartite Graph` (2)](#bipartite-graph) · [`Boyer–Moore Majority Vote Algorithm` (2)](#boyermoore-majority-vote-algorithm) · [`Bézout's Lemma` (2)](#bzouts-lemma) · [`Data Stream` (2)](#data-stream) · [`Directed Acyclic Graph` (2)](#directed-acyclic-graph) · [`Extended Euclidean Algorithm` (2)](#extended-euclidean-algorithm) · [`Flow Network` (2)](#flow-network) · [`Graph Coloring` (2)](#graph-coloring) · [`Inclusion-Exclusion Principle` (2)](#inclusion-exclusion-principle) · [`Lowest Common Ancestor` (2)](#lowest-common-ancestor) · [`Meet in the Middle` (2)](#meet-in-the-middle) · [`Polygons` (2)](#polygons) · [`Prime Number Sieve` (2)](#prime-number-sieve) · [`Radix Sort` (2)](#radix-sort) · [`Range Minimum/Maximum Query` (2)](#range-minimummaximum-query) · [`Shortest Path` (2)](#shortest-path) · [`Ternary Search` (2)](#ternary-search) · [`A* Search` (1)](#a-search) · [`Articulation Point` (1)](#articulation-point) · [`Bellman–Ford Algorithm` (1)](#bellmanford-algorithm) · [`Cartesian Tree` (1)](#cartesian-tree) · [`Dancing Links` (1)](#dancing-links) · [`Dijkstra's Algorithm` (1)](#dijkstras-algorithm) · [`Dinic's Algorithm` (1)](#dinics-algorithm) · [`Edmonds–Karp Algorithm` (1)](#edmondskarp-algorithm) · [`Floyd–Warshall Algorithm` (1)](#floydwarshall-algorithm) · [`Hamiltonian Path` (1)](#hamiltonian-path) · [`Heuristic Search` (1)](#heuristic-search) · [`Hungarian Algorithm` (1)](#hungarian-algorithm) · [`K-D Tree` (1)](#k-d-tree) · [`Lexicographically Minimal String Rotation` (1)](#lexicographically-minimal-string-rotation) · [`Linear Algebra` (1)](#linear-algebra) · [`Lyndon Factorization` (1)](#lyndon-factorization) · [`MPM Algorithm` (1)](#mpm-algorithm) · [`Manacher` (1)](#manacher) · [`Matching (Graph)` (1)](#matching-graph) · [`Maximum Flow` (1)](#maximum-flow) · [`Maximum Matching` (1)](#maximum-matching) · [`Minimum Cut` (1)](#minimum-cut) · [`Mixed Knapsack` (1)](#mixed-knapsack) · [`Newton's Method` (1)](#newtons-method) · [`Planar Graph` (1)](#planar-graph) · [`Push-Relabel Algorithm` (1)](#push-relabel-algorithm) · [`Randomized` (1)](#randomized) · [`Rejection Sampling` (1)](#rejection-sampling) · [`Sparse Table` (1)](#sparse-table) · [`Sprague–Grundy Theorem` (1)](#spraguegrundy-theorem) · [`Sqrt Decomposition` (1)](#sqrt-decomposition) · [`Strongly Connected Component` (1)](#strongly-connected-component) · [`Successive Shortest Path Algorithm` (1)](#successive-shortest-path-algorithm) · [`Timsort` (1)](#timsort) · [`Topological Sort` (1)](#topological-sort) · [`Tournament Sort` (1)](#tournament-sort)
+[`Array` (718)](#array) · [`String` (321)](#string) · [`Hash Table` (242)](#hash-table) · [`Math` (237)](#math) · [`Dynamic Programming` (227)](#dynamic-programming) · [`Sorting` (189)](#sorting) · [`Greedy` (155)](#greedy) · [`Matrix` (116)](#matrix) · [`Two Pointers` (113)](#two-pointers) · [`Binary Search` (108)](#binary-search) · [`Depth-First Search` (99)](#depth-first-search) · [`Bit Manipulation` (92)](#bit-manipulation) · [`Breadth-First Search` (84)](#breadth-first-search) · [`Stack` (76)](#stack) · [`Prefix Sum` (74)](#prefix-sum) · [`Tree` (67)](#tree) · [`Simulation` (66)](#simulation) · [`Binary Tree` (63)](#binary-tree) · [`Heap (Priority Queue)` (59)](#heap-priority-queue) · [`Sliding Window` (56)](#sliding-window) · [`Backtracking` (54)](#backtracking) · [`Counting` (51)](#counting) · [`Linked List` (37)](#linked-list) · [`Recursion` (27)](#recursion) · [`Divide and Conquer` (25)](#divide-and-conquer) · [`Monotonic Stack` (25)](#monotonic-stack) · [`Design` (23)](#design) · [`Enumeration` (22)](#enumeration) · [`Geometry` (20)](#geometry) · [`Union-Find` (19)](#union-find) · [`Binary Search Tree` (18)](#binary-search-tree) · [`Ordered Set` (18)](#ordered-set) · [`Segment Tree` (17)](#segment-tree) · [`Game Theory` (16)](#game-theory) · [`Queue` (16)](#queue) · [`Trie` (16)](#trie) · [`Memoization` (15)](#memoization) · [`Bracket Sequences` (13)](#bracket-sequences) · [`Bitmask` (12)](#bitmask) · [`Binary Indexed Tree` (10)](#binary-indexed-tree) · [`Graph Theory` (10)](#graph-theory) · [`Knapsack Problem` (10)](#knapsack-problem) · [`Minimax` (10)](#minimax) · [`Zero-Sum Game` (10)](#zero-sum-game) · [`Greatest Common Divisor` (9)](#greatest-common-divisor) · [`Longest Increasing Subsequence` (9)](#longest-increasing-subsequence) · [`Number Theory` (9)](#number-theory) · [`String Matching` (9)](#string-matching) · [`Combinatorics` (8)](#combinatorics) · [`Euclidean Algorithm` (8)](#euclidean-algorithm) · [`Brainteaser` (7)](#brainteaser) · [`Monotonic Queue` (7)](#monotonic-queue) · [`Bucket Sort` (6)](#bucket-sort) · [`Counting Sort` (6)](#counting-sort) · [`DP on Trees` (6)](#dp-on-trees) · [`Merge Sort` (6)](#merge-sort) · [`0-1 Knapsack` (5)](#0-1-knapsack) · [`Floyd's Cycle Finding Algorithm` (5)](#floyds-cycle-finding-algorithm) · [`Longest Common Subsequence` (5)](#longest-common-subsequence) · [`Pigeonhole Principle` (5)](#pigeonhole-principle) · [`Probability and Statistics` (5)](#probability-and-statistics) · [`Quickselect` (5)](#quickselect) · [`Quicksort` (5)](#quicksort) · [`Bidirectional Search` (4)](#bidirectional-search) · [`Complete Knapsack` (4)](#complete-knapsack) · [`Hash Function` (4)](#hash-function) · [`Interactive` (4)](#interactive) · [`Primality Test` (4)](#primality-test) · [`Treap` (4)](#treap) · [`Z Algorithm` (4)](#z-algorithm) · [`Algorithm X` (3)](#algorithm-x) · [`Boyer–Moore String-Search Algorithm` (3)](#boyermoore-string-search-algorithm) · [`Bubble Sort` (3)](#bubble-sort) · [`Data Stream` (3)](#data-stream) · [`Doubly-Linked List` (3)](#doubly-linked-list) · [`Impartial Game` (3)](#impartial-game) · [`Knuth–Morris–Pratt Algorithm` (3)](#knuthmorrispratt-algorithm) · [`Least Common Multiple` (3)](#least-common-multiple) · [`Nim Game` (3)](#nim-game) · [`Prime Factorization` (3)](#prime-factorization) · [`Rolling Hash` (3)](#rolling-hash) · [`Sieve Theory` (3)](#sieve-theory) · [`Sweep Line` (3)](#sweep-line) · [`Binary Lifting` (2)](#binary-lifting) · [`Bipartite Graph` (2)](#bipartite-graph) · [`Boyer–Moore Majority Vote Algorithm` (2)](#boyermoore-majority-vote-algorithm) · [`Bézout's Lemma` (2)](#bzouts-lemma) · [`Directed Acyclic Graph` (2)](#directed-acyclic-graph) · [`Extended Euclidean Algorithm` (2)](#extended-euclidean-algorithm) · [`Flow Network` (2)](#flow-network) · [`Graph Coloring` (2)](#graph-coloring) · [`Inclusion-Exclusion Principle` (2)](#inclusion-exclusion-principle) · [`Lowest Common Ancestor` (2)](#lowest-common-ancestor) · [`Meet in the Middle` (2)](#meet-in-the-middle) · [`Polygons` (2)](#polygons) · [`Prime Number Sieve` (2)](#prime-number-sieve) · [`Radix Sort` (2)](#radix-sort) · [`Range Minimum/Maximum Query` (2)](#range-minimummaximum-query) · [`Shortest Path` (2)](#shortest-path) · [`Ternary Search` (2)](#ternary-search) · [`Topological Sort` (2)](#topological-sort) · [`A* Search` (1)](#a-search) · [`Articulation Point` (1)](#articulation-point) · [`Bellman–Ford Algorithm` (1)](#bellmanford-algorithm) · [`Cartesian Tree` (1)](#cartesian-tree) · [`Dancing Links` (1)](#dancing-links) · [`Dijkstra's Algorithm` (1)](#dijkstras-algorithm) · [`Dinic's Algorithm` (1)](#dinics-algorithm) · [`Edmonds–Karp Algorithm` (1)](#edmondskarp-algorithm) · [`Floyd–Warshall Algorithm` (1)](#floydwarshall-algorithm) · [`Hamiltonian Path` (1)](#hamiltonian-path) · [`Heuristic Search` (1)](#heuristic-search) · [`Hungarian Algorithm` (1)](#hungarian-algorithm) · [`Iterator` (1)](#iterator) · [`K-D Tree` (1)](#k-d-tree) · [`Lexicographically Minimal String Rotation` (1)](#lexicographically-minimal-string-rotation) · [`Linear Algebra` (1)](#linear-algebra) · [`Lyndon Factorization` (1)](#lyndon-factorization) · [`MPM Algorithm` (1)](#mpm-algorithm) · [`Manacher` (1)](#manacher) · [`Matching (Graph)` (1)](#matching-graph) · [`Maximum Flow` (1)](#maximum-flow) · [`Maximum Matching` (1)](#maximum-matching) · [`Minimum Cut` (1)](#minimum-cut) · [`Mixed Knapsack` (1)](#mixed-knapsack) · [`Newton's Method` (1)](#newtons-method) · [`Planar Graph` (1)](#planar-graph) · [`Push-Relabel Algorithm` (1)](#push-relabel-algorithm) · [`Randomized` (1)](#randomized) · [`Rejection Sampling` (1)](#rejection-sampling) · [`Sparse Table` (1)](#sparse-table) · [`Sprague–Grundy Theorem` (1)](#spraguegrundy-theorem) · [`Sqrt Decomposition` (1)](#sqrt-decomposition) · [`Strongly Connected Component` (1)](#strongly-connected-component) · [`Successive Shortest Path Algorithm` (1)](#successive-shortest-path-algorithm) · [`Timsort` (1)](#timsort) · [`Tournament Sort` (1)](#tournament-sort)
 
 ---
 
-### <a id="array"></a>Array (714)
+### <a id="array"></a>Array (718)
 
 <details>
-<summary><b>View 714 problems</b></summary>
+<summary><b>View 718 problems</b></summary>
 
 | No | Name | Difficulty | Code Link |
 | :---: | :--- | :---: | :---: |
@@ -691,13 +691,16 @@
 | 3047 | Find the Largest Area of Square Inside Two Rectangles | Medium | [Code](./solutions/problems/find_the_largest_area_of_square_inside_two_rectangles) |
 | 3070 | Count Submatrices with Top-Left Element and Sum Less Than k | Medium | [Code](./solutions/problems/count_submatrices_with_top-left_element_and_sum_less_than_k) |
 | 3093 | Longest Common Suffix Queries | Hard | [Code](./solutions/problems/longest_common_suffix_queries) |
+| 3105 | Longest Strictly Increasing or Strictly Decreasing Subarray | Easy | [Code](./solutions/problems/longest_strictly_increasing_or_strictly_decreasing_subarray) |
 | 3161 | Block Placement Queries | Hard | [Code](./solutions/problems/block_placement_queries) |
 | 3212 | Count Submatrices With Equal Frequency of X and Y | Medium | [Code](./solutions/problems/count_submatrices_with_equal_frequency_of_x_and_y) |
 | 3300 | Minimum Element After Replacement With Digit Sum | Easy | [Code](./solutions/problems/minimum_element_after_replacement_with_digit_sum) |
 | 3314 | Construct the Minimum Bitwise Array I | Easy | [Code](./solutions/problems/construct_the_minimum_bitwise_array_i) |
 | 3315 | Construct the Minimum Bitwise Array II | Medium | [Code](./solutions/problems/construct_the_minimum_bitwise_array_ii) |
+| 3364 | Minimum Positive Sum Subarray | Easy | [Code](./solutions/problems/minimum_positive_sum_subarray_) |
 | 3379 | Transformed Array | Easy | [Code](./solutions/problems/transformed_array) |
 | 3418 | Maximum Amount of Money Robot Can Earn | Medium | [Code](./solutions/problems/maximum_amount_of_money_robot_can_earn) |
+| 3420 | Count Non-Decreasing Subarrays After K Operations | Hard | [Code](./solutions/problems/count_non-decreasing_subarrays_after_k_operations) |
 | 3453 | Separate Squares I | Medium | [Code](./solutions/problems/separate_squares_i) |
 | 3454 | Separate Squares II | Hard | [Code](./solutions/problems/separate_squares_ii) |
 | 3488 | Closest Equal Element Queries | Medium | [Code](./solutions/problems/closest_equal_element_queries) |
@@ -720,6 +723,7 @@
 | 3660 | Jump Game IX | Medium | [Code](./solutions/problems/jump_game_ix) |
 | 3665 | Twisted Mirror Path Count | Medium | [Code](./solutions/problems/twisted_mirror_path_count) |
 | 3689 | Maximum Total Subarray Value I | Medium | [Code](./solutions/problems/maximum_total_subarray_value_i) |
+| 3693 | Climbing Stairs II | Medium | [Code](./solutions/problems/climbing_stairs_ii) |
 | 3719 | Longest Balanced Subarray I | Medium | [Code](./solutions/problems/longest_balanced_subarray_i) |
 | 3727 | Maximum Alternating Sum of Squares | Medium | [Code](./solutions/problems/maximum_alternating_sum_of_squares) |
 | 3736 | Minimum Moves to Equal Array Elements III | Easy | [Code](./solutions/problems/minimum_moves_to_equal_array_elements_iii) |
@@ -1069,10 +1073,10 @@
 
 </details>
 
-### <a id="hash-table"></a>Hash Table (241)
+### <a id="hash-table"></a>Hash Table (242)
 
 <details>
-<summary><b>View 241 problems</b></summary>
+<summary><b>View 242 problems</b></summary>
 
 | No | Name | Difficulty | Code Link |
 | :---: | :--- | :---: | :---: |
@@ -1112,6 +1116,7 @@
 | 347 | Top K Frequent Elements | Medium | [Code](./solutions/problems/top_k_frequent_elements) |
 | 349 | Intersection of Two Arrays | Easy | [Code](./solutions/problems/intersection_of_two_arrays) |
 | 350 | Intersection of Two Arrays II | Easy | [Code](./solutions/problems/intersection_of_two_arrays_ii) |
+| 352 | Data Stream as Disjoint Intervals | Hard | [Code](./solutions/problems/data_stream_as_disjoint_intervals) |
 | 355 | Design Twitter | Medium | [Code](./solutions/problems/design_twitter) |
 | 383 | Ransom Note | Easy | [Code](./solutions/problems/ransom_note) |
 | 387 | First Unique Character in a String | Easy | [Code](./solutions/problems/first_unique_character_in_a_string) |
@@ -1322,10 +1327,10 @@
 
 </details>
 
-### <a id="math"></a>Math (236)
+### <a id="math"></a>Math (237)
 
 <details>
-<summary><b>View 236 problems</b></summary>
+<summary><b>View 237 problems</b></summary>
 
 | No | Name | Difficulty | Code Link |
 | :---: | :--- | :---: | :---: |
@@ -1564,16 +1569,17 @@
 | 3753 | Total Waviness of Numbers in Range II | Hard | [Code](./solutions/problems/total_waviness_of_numbers_in_range_ii) |
 | 3761 | Minimum Absolute Distance Between Mirror Pairs | Medium | [Code](./solutions/problems/minimum_absolute_distance_between_mirror_pairs) |
 | 3783 | Mirror Distance of an Integer | Easy | [Code](./solutions/problems/mirror_distance_of_an_integer) |
+| 3789 | Minimum Cost to Acquire Required Items | Medium | [Code](./solutions/problems/minimum_cost_to_acquire_required_items) |
 | 3886 | Sum of Sortable Integers | Hard | [Code](./solutions/problems/sum_of_sortable_integers) |
 
 [⬆️ Back to Top](#quick-navigation)
 
 </details>
 
-### <a id="dynamic-programming"></a>Dynamic Programming (226)
+### <a id="dynamic-programming"></a>Dynamic Programming (227)
 
 <details>
-<summary><b>View 226 problems</b></summary>
+<summary><b>View 227 problems</b></summary>
 
 | No | Name | Difficulty | Code Link |
 | :---: | :--- | :---: | :---: |
@@ -1798,6 +1804,7 @@
 | 3640 | Trionic Array II | Hard | [Code](./solutions/problems/trionic_array_ii) |
 | 3660 | Jump Game IX | Medium | [Code](./solutions/problems/jump_game_ix) |
 | 3665 | Twisted Mirror Path Count | Medium | [Code](./solutions/problems/twisted_mirror_path_count) |
+| 3693 | Climbing Stairs II | Medium | [Code](./solutions/problems/climbing_stairs_ii) |
 | 3699 | Number of ZigZag Arrays I | Hard | [Code](./solutions/problems/number_of_zigzag_arrays_i) |
 | 3742 | Maximum Path Score in a Grid | Medium | [Code](./solutions/problems/maximum_path_score_in_a_grid) |
 | 3751 | Total Waviness of Numbers in Range I | Medium | [Code](./solutions/problems/total_waviness_of_numbers_in_range_i) |
@@ -2009,10 +2016,10 @@
 
 </details>
 
-### <a id="greedy"></a>Greedy (154)
+### <a id="greedy"></a>Greedy (155)
 
 <details>
-<summary><b>View 154 problems</b></summary>
+<summary><b>View 155 problems</b></summary>
 
 | No | Name | Difficulty | Code Link |
 | :---: | :--- | :---: | :---: |
@@ -2170,6 +2177,7 @@
 | 3689 | Maximum Total Subarray Value I | Medium | [Code](./solutions/problems/maximum_total_subarray_value_i) |
 | 3723 | Maximize Sum of Squares of Digits | Medium | [Code](./solutions/problems/maximize_sum_of_squares_of_digits) |
 | 3727 | Maximum Alternating Sum of Squares | Medium | [Code](./solutions/problems/maximum_alternating_sum_of_squares) |
+| 3789 | Minimum Cost to Acquire Required Items | Medium | [Code](./solutions/problems/minimum_cost_to_acquire_required_items) |
 
 [⬆️ Back to Top](#quick-navigation)
 
@@ -2428,10 +2436,10 @@
 
 </details>
 
-### <a id="binary-search"></a>Binary Search (107)
+### <a id="binary-search"></a>Binary Search (108)
 
 <details>
-<summary><b>View 107 problems</b></summary>
+<summary><b>View 108 problems</b></summary>
 
 | No | Name | Difficulty | Code Link |
 | :---: | :--- | :---: | :---: |
@@ -2458,6 +2466,7 @@
 | 327 | Count of Range Sum | Hard | [Code](./solutions/problems/count_of_range_sum) |
 | 349 | Intersection of Two Arrays | Easy | [Code](./solutions/problems/intersection_of_two_arrays) |
 | 350 | Intersection of Two Arrays II | Easy | [Code](./solutions/problems/intersection_of_two_arrays_ii) |
+| 352 | Data Stream as Disjoint Intervals | Hard | [Code](./solutions/problems/data_stream_as_disjoint_intervals) |
 | 354 | Russian Doll Envelopes | Hard | [Code](./solutions/problems/russian_doll_envelopes) |
 | 363 | Max Sum of Rectangle No Larger Than K | Hard | [Code](./solutions/problems/max_sum_of_rectangle_no_larger_than_k) |
 | 367 | Valid Perfect Square | Easy | [Code](./solutions/problems/valid_perfect_square) |
@@ -2547,10 +2556,10 @@
 
 </details>
 
-### <a id="depth-first-search"></a>Depth-First Search (98)
+### <a id="depth-first-search"></a>Depth-First Search (99)
 
 <details>
-<summary><b>View 98 problems</b></summary>
+<summary><b>View 99 problems</b></summary>
 
 | No | Name | Difficulty | Code Link |
 | :---: | :--- | :---: | :---: |
@@ -2583,6 +2592,7 @@
 | 236 | Lowest Common Ancestor of a Binary Tree | Medium | [Code](./solutions/problems/lowest_common_ancestor_of_a_binary_tree) |
 | 257 | Binary Tree Paths | Easy | [Code](./solutions/problems/binary_tree_paths) |
 | 297 | Serialize and Deserialize Binary Tree | Hard | [Code](./solutions/problems/serialize_and_deserialize_binary_tree) |
+| 310 | Minimum Height Trees | Medium | [Code](./solutions/problems/minimum_height_trees) |
 | 329 | Longest Increasing Path in a Matrix | Hard | [Code](./solutions/problems/longest_increasing_path_in_a_matrix) |
 | 337 | House Robber III | Medium | [Code](./solutions/problems/house_robber_iii) |
 | 365 | Water and Jug Problem | Medium | [Code](./solutions/problems/water_and_jug_problem) |
@@ -2761,10 +2771,10 @@
 
 </details>
 
-### <a id="breadth-first-search"></a>Breadth-First Search (83)
+### <a id="breadth-first-search"></a>Breadth-First Search (84)
 
 <details>
-<summary><b>View 83 problems</b></summary>
+<summary><b>View 84 problems</b></summary>
 
 | No | Name | Difficulty | Code Link |
 | :---: | :--- | :---: | :---: |
@@ -2786,6 +2796,7 @@
 | 279 | Perfect Squares | Medium | [Code](./solutions/problems/perfect_squares) |
 | 297 | Serialize and Deserialize Binary Tree | Hard | [Code](./solutions/problems/serialize_and_deserialize_binary_tree) |
 | 301 | Remove Invalid Parentheses | Hard | [Code](./solutions/problems/remove_invalid_parentheses) |
+| 310 | Minimum Height Trees | Medium | [Code](./solutions/problems/minimum_height_trees) |
 | 322 | Coin Change | Medium | [Code](./solutions/problems/coin_change) |
 | 329 | Longest Increasing Path in a Matrix | Hard | [Code](./solutions/problems/longest_increasing_path_in_a_matrix) |
 | 365 | Water and Jug Problem | Medium | [Code](./solutions/problems/water_and_jug_problem) |
@@ -2856,10 +2867,10 @@
 
 </details>
 
-### <a id="stack"></a>Stack (74)
+### <a id="stack"></a>Stack (76)
 
 <details>
-<summary><b>View 74 problems</b></summary>
+<summary><b>View 76 problems</b></summary>
 
 | No | Name | Difficulty | Code Link |
 | :---: | :--- | :---: | :---: |
@@ -2876,6 +2887,7 @@
 | 145 | Binary Tree Postorder Traversal | Easy | [Code](./solutions/problems/binary_tree_postorder_traversal) |
 | 150 | Evaluate Reverse Polish Notation | Medium | [Code](./solutions/problems/evaluate_reverse_polish_notation) |
 | 155 | Min Stack | Medium | [Code](./solutions/problems/min_stack) |
+| 173 | Binary Search Tree Iterator | Medium | [Code](./solutions/problems/binary_search_tree_iterator) |
 | 224 | Basic Calculator | Hard | [Code](./solutions/problems/basic_calculator) |
 | 225 | Implement Stack using Queues | Easy | [Code](./solutions/problems/implement_stack_using_queues) |
 | 227 | Basic Calculator II | Medium | [Code](./solutions/problems/basic_calculator_ii) |
@@ -2937,15 +2949,16 @@
 | 1673 | Find the Most Competitive Subsequence | Medium | [Code](./solutions/problems/find_the_most_competitive_subsequence) |
 | 1700 | Number of Students Unable to Eat Lunch | Easy | [Code](./solutions/problems/number_of_students_unable_to_eat_lunch) |
 | 1717 | Maximum Score From Removing Substrings | Medium | [Code](./solutions/problems/maximum_score_from_removing_substrings) |
+| 3420 | Count Non-Decreasing Subarrays After K Operations | Hard | [Code](./solutions/problems/count_non-decreasing_subarrays_after_k_operations) |
 
 [⬆️ Back to Top](#quick-navigation)
 
 </details>
 
-### <a id="prefix-sum"></a>Prefix Sum (73)
+### <a id="prefix-sum"></a>Prefix Sum (74)
 
 <details>
-<summary><b>View 73 problems</b></summary>
+<summary><b>View 74 problems</b></summary>
 
 | No | Name | Difficulty | Code Link |
 | :---: | :--- | :---: | :---: |
@@ -3016,12 +3029,92 @@
 | 2906 | Construct Product Matrix | Medium | [Code](./solutions/problems/construct_product_matrix) |
 | 3070 | Count Submatrices with Top-Left Element and Sum Less Than k | Medium | [Code](./solutions/problems/count_submatrices_with_top-left_element_and_sum_less_than_k) |
 | 3212 | Count Submatrices With Equal Frequency of X and Y | Medium | [Code](./solutions/problems/count_submatrices_with_equal_frequency_of_x_and_y) |
+| 3364 | Minimum Positive Sum Subarray | Easy | [Code](./solutions/problems/minimum_positive_sum_subarray_) |
 | 3546 | Equal Sum Grid Partition I | Medium | [Code](./solutions/problems/equal_sum_grid_partition_i) |
 | 3652 | Best Time to Buy and Sell Stock using Strategy | Medium | [Code](./solutions/problems/best_time_to_buy_and_sell_stock_using_strategy) |
 | 3653 | XOR After Range Multiplication Queries I | Medium | [Code](./solutions/problems/xor_after_range_multiplication_queries_i) |
 | 3699 | Number of ZigZag Arrays I | Hard | [Code](./solutions/problems/number_of_zigzag_arrays_i) |
 | 3714 | Longest Balanced Substring II | Medium | [Code](./solutions/problems/longest_balanced_substring_ii) |
 | 3719 | Longest Balanced Subarray I | Medium | [Code](./solutions/problems/longest_balanced_subarray_i) |
+
+[⬆️ Back to Top](#quick-navigation)
+
+</details>
+
+### <a id="tree"></a>Tree (67)
+
+<details>
+<summary><b>View 67 problems</b></summary>
+
+| No | Name | Difficulty | Code Link |
+| :---: | :--- | :---: | :---: |
+| 94 | Binary Tree Inorder Traversal | Easy | [Code](./solutions/problems/binary_tree_inorder_traversal) |
+| 98 | Validate Binary Search Tree | Medium | [Code](./solutions/problems/validate_binary_search_tree) |
+| 99 | Recover Binary Search Tree | Medium | [Code](./solutions/problems/recover_binary_search_tree) |
+| 100 | Same Tree | Easy | [Code](./solutions/problems/same_tree) |
+| 101 | Symmetric Tree | Easy | [Code](./solutions/problems/symmetric_tree) |
+| 102 | Binary Tree Level Order Traversal | Medium | [Code](./solutions/problems/binary_tree_level_order_traversal) |
+| 103 | Binary Tree Zigzag Level Order Traversal | Medium | [Code](./solutions/problems/binary_tree_zigzag_level_order_traversal) |
+| 104 | Maximum Depth of Binary Tree | Easy | [Code](./solutions/problems/maximum_depth_of_binary_tree) |
+| 107 | Binary Tree Level Order Traversal II | Medium | [Code](./solutions/problems/binary_tree_level_order_traversal_ii) |
+| 108 | Convert Sorted Array to Binary Search Tree | Easy | [Code](./solutions/problems/convert_sorted_array_to_binary_search_tree) |
+| 109 | Convert Sorted List to Binary Search Tree | Medium | [Code](./solutions/problems/convert_sorted_list_to_binary_search_tree) |
+| 110 | Balanced Binary Tree | Easy | [Code](./solutions/problems/balanced_binary_tree) |
+| 111 | Minimum Depth of Binary Tree | Easy | [Code](./solutions/problems/minimum_depth_of_binary_tree) |
+| 112 | Path Sum | Easy | [Code](./solutions/problems/path_sum) |
+| 113 | Path Sum II | Medium | [Code](./solutions/problems/path_sum_ii) |
+| 114 | Flatten Binary Tree to Linked List | Medium | [Code](./solutions/problems/flatten_binary_tree_to_linked_list) |
+| 116 | Populating Next Right Pointers in Each Node | Medium | [Code](./solutions/problems/populating_next_right_pointers_in_each_node) |
+| 117 | Populating Next Right Pointers in Each Node II | Medium | [Code](./solutions/problems/populating_next_right_pointers_in_each_node_ii) |
+| 124 | Binary Tree Maximum Path Sum | Hard | [Code](./solutions/problems/binary_tree_maximum_path_sum) |
+| 129 | Sum Root to Leaf Numbers | Medium | [Code](./solutions/problems/sum_root_to_leaf_numbers) |
+| 144 | Binary Tree Preorder Traversal | Easy | [Code](./solutions/problems/binary_tree_preorder_traversal) |
+| 145 | Binary Tree Postorder Traversal | Easy | [Code](./solutions/problems/binary_tree_postorder_traversal) |
+| 173 | Binary Search Tree Iterator | Medium | [Code](./solutions/problems/binary_search_tree_iterator) |
+| 199 | Binary Tree Right Side View | Medium | [Code](./solutions/problems/binary_tree_right_side_view) |
+| 222 | Count Complete Tree Nodes | Medium | [Code](./solutions/problems/count_complete_tree_nodes) |
+| 226 | Invert Binary Tree | Easy | [Code](./solutions/problems/invert_binary_tree) |
+| 230 | Kth Smallest Element in a BST | Medium | [Code](./solutions/problems/kth_smallest_element_in_a_bst) |
+| 235 | Lowest Common Ancestor of a Binary Search Tree | Medium | [Code](./solutions/problems/lowest_common_ancestor_of_a_binary_search_tree) |
+| 236 | Lowest Common Ancestor of a Binary Tree | Medium | [Code](./solutions/problems/lowest_common_ancestor_of_a_binary_tree) |
+| 257 | Binary Tree Paths | Easy | [Code](./solutions/problems/binary_tree_paths) |
+| 297 | Serialize and Deserialize Binary Tree | Hard | [Code](./solutions/problems/serialize_and_deserialize_binary_tree) |
+| 331 | Verify Preorder Serialization of a Binary Tree | Medium | [Code](./solutions/problems/verify_preorder_serialization_of_a_binary_tree) |
+| 337 | House Robber III | Medium | [Code](./solutions/problems/house_robber_iii) |
+| 404 | Sum of Left Leaves | Easy | [Code](./solutions/problems/sum_of_left_leaves) |
+| 437 | Path Sum III | Medium | [Code](./solutions/problems/path_sum_iii) |
+| 449 | Serialize and Deserialize BST | Medium | [Code](./solutions/problems/serialize_and_deserialize_bst) |
+| 450 | Delete Node in a BST | Medium | [Code](./solutions/problems/delete_node_in_a_bst) |
+| 501 | Find Mode in Binary Search Tree | Easy | [Code](./solutions/problems/find_mode_in_binary_search_tree) |
+| 508 | Most Frequent Subtree Sum | Medium | [Code](./solutions/problems/most_frequent_subtree_sum) |
+| 513 | Find Bottom Left Tree Value | Medium | [Code](./solutions/problems/find_bottom_left_tree_value) |
+| 515 | Find Largest Value in Each Tree Row | Medium | [Code](./solutions/problems/find_largest_value_in_each_tree_row) |
+| 530 | Minimum Absolute Difference in BST | Easy | [Code](./solutions/problems/minimum_absolute_difference_in_bst) |
+| 538 | Convert BST to Greater Tree | Medium | [Code](./solutions/problems/convert_bst_to_greater_tree) |
+| 543 | Diameter of Binary Tree | Easy | [Code](./solutions/problems/diameter_of_binary_tree) |
+| 559 | Maximum Depth of N-ary Tree | Easy | [Code](./solutions/problems/maximum_depth_of_n-ary_tree) |
+| 563 | Binary Tree Tilt | Easy | [Code](./solutions/problems/binary_tree_tilt) |
+| 572 | Subtree of Another Tree | Easy | [Code](./solutions/problems/subtree_of_another_tree) |
+| 589 | N-ary Tree Preorder Traversal | Easy | [Code](./solutions/problems/n-ary_tree_preorder_traversal) |
+| 590 | N-ary Tree Postorder Traversal | Easy | [Code](./solutions/problems/n-ary_tree_postorder_traversal) |
+| 606 | Construct String from Binary Tree | Medium | [Code](./solutions/problems/construct_string_from_binary_tree) |
+| 617 | Merge Two Binary Trees | Easy | [Code](./solutions/problems/merge_two_binary_trees) |
+| 623 | Add One Row to Tree | Medium | [Code](./solutions/problems/add_one_row_to_tree) |
+| 637 | Average of Levels in Binary Tree | Easy | [Code](./solutions/problems/average_of_levels_in_binary_tree) |
+| 653 | Two Sum IV - Input is a BST | Easy | [Code](./solutions/problems/two_sum_iv_-_input_is_a_bst) |
+| 654 | Maximum Binary Tree | Medium | [Code](./solutions/problems/maximum_binary_tree) |
+| 655 | Print Binary Tree | Medium | [Code](./solutions/problems/print_binary_tree) |
+| 662 | Maximum Width of Binary Tree | Medium | [Code](./solutions/problems/maximum_width_of_binary_tree) |
+| 669 | Trim a Binary Search Tree | Medium | [Code](./solutions/problems/trim_a_binary_search_tree) |
+| 671 | Second Minimum Node In a Binary Tree | Easy | [Code](./solutions/problems/second_minimum_node_in_a_binary_tree) |
+| 687 | Longest Univalue Path | Medium | [Code](./solutions/problems/longest_univalue_path) |
+| 690 | Employee Importance | Medium | [Code](./solutions/problems/employee_importance) |
+| 700 | Search in a Binary Search Tree | Easy | [Code](./solutions/problems/search_in_a_binary_search_tree) |
+| 701 | Insert into a Binary Search Tree | Medium | [Code](./solutions/problems/insert_into_a_binary_search_tree) |
+| 703 | Kth Largest Element in a Stream | Easy | [Code](./solutions/problems/kth_largest_element_in_a_stream) |
+| 783 | Minimum Distance Between BST Nodes | Easy | [Code](./solutions/problems/minimum_distance_between_bst_nodes) |
+| 1022 | Sum of Root To Leaf Binary Numbers | Easy | [Code](./solutions/problems/sum_of_root_to_leaf_binary_numbers) |
+| 1161 | Maximum Level Sum of a Binary Tree | Medium | [Code](./solutions/problems/maximum_level_sum_of_a_binary_tree) |
 
 [⬆️ Back to Top](#quick-navigation)
 
@@ -3105,10 +3198,10 @@
 
 </details>
 
-### <a id="tree"></a>Tree (66)
+### <a id="binary-tree"></a>Binary Tree (63)
 
 <details>
-<summary><b>View 66 problems</b></summary>
+<summary><b>View 63 problems</b></summary>
 
 | No | Name | Difficulty | Code Link |
 | :---: | :--- | :---: | :---: |
@@ -3134,84 +3227,7 @@
 | 129 | Sum Root to Leaf Numbers | Medium | [Code](./solutions/problems/sum_root_to_leaf_numbers) |
 | 144 | Binary Tree Preorder Traversal | Easy | [Code](./solutions/problems/binary_tree_preorder_traversal) |
 | 145 | Binary Tree Postorder Traversal | Easy | [Code](./solutions/problems/binary_tree_postorder_traversal) |
-| 199 | Binary Tree Right Side View | Medium | [Code](./solutions/problems/binary_tree_right_side_view) |
-| 222 | Count Complete Tree Nodes | Medium | [Code](./solutions/problems/count_complete_tree_nodes) |
-| 226 | Invert Binary Tree | Easy | [Code](./solutions/problems/invert_binary_tree) |
-| 230 | Kth Smallest Element in a BST | Medium | [Code](./solutions/problems/kth_smallest_element_in_a_bst) |
-| 235 | Lowest Common Ancestor of a Binary Search Tree | Medium | [Code](./solutions/problems/lowest_common_ancestor_of_a_binary_search_tree) |
-| 236 | Lowest Common Ancestor of a Binary Tree | Medium | [Code](./solutions/problems/lowest_common_ancestor_of_a_binary_tree) |
-| 257 | Binary Tree Paths | Easy | [Code](./solutions/problems/binary_tree_paths) |
-| 297 | Serialize and Deserialize Binary Tree | Hard | [Code](./solutions/problems/serialize_and_deserialize_binary_tree) |
-| 331 | Verify Preorder Serialization of a Binary Tree | Medium | [Code](./solutions/problems/verify_preorder_serialization_of_a_binary_tree) |
-| 337 | House Robber III | Medium | [Code](./solutions/problems/house_robber_iii) |
-| 404 | Sum of Left Leaves | Easy | [Code](./solutions/problems/sum_of_left_leaves) |
-| 437 | Path Sum III | Medium | [Code](./solutions/problems/path_sum_iii) |
-| 449 | Serialize and Deserialize BST | Medium | [Code](./solutions/problems/serialize_and_deserialize_bst) |
-| 450 | Delete Node in a BST | Medium | [Code](./solutions/problems/delete_node_in_a_bst) |
-| 501 | Find Mode in Binary Search Tree | Easy | [Code](./solutions/problems/find_mode_in_binary_search_tree) |
-| 508 | Most Frequent Subtree Sum | Medium | [Code](./solutions/problems/most_frequent_subtree_sum) |
-| 513 | Find Bottom Left Tree Value | Medium | [Code](./solutions/problems/find_bottom_left_tree_value) |
-| 515 | Find Largest Value in Each Tree Row | Medium | [Code](./solutions/problems/find_largest_value_in_each_tree_row) |
-| 530 | Minimum Absolute Difference in BST | Easy | [Code](./solutions/problems/minimum_absolute_difference_in_bst) |
-| 538 | Convert BST to Greater Tree | Medium | [Code](./solutions/problems/convert_bst_to_greater_tree) |
-| 543 | Diameter of Binary Tree | Easy | [Code](./solutions/problems/diameter_of_binary_tree) |
-| 559 | Maximum Depth of N-ary Tree | Easy | [Code](./solutions/problems/maximum_depth_of_n-ary_tree) |
-| 563 | Binary Tree Tilt | Easy | [Code](./solutions/problems/binary_tree_tilt) |
-| 572 | Subtree of Another Tree | Easy | [Code](./solutions/problems/subtree_of_another_tree) |
-| 589 | N-ary Tree Preorder Traversal | Easy | [Code](./solutions/problems/n-ary_tree_preorder_traversal) |
-| 590 | N-ary Tree Postorder Traversal | Easy | [Code](./solutions/problems/n-ary_tree_postorder_traversal) |
-| 606 | Construct String from Binary Tree | Medium | [Code](./solutions/problems/construct_string_from_binary_tree) |
-| 617 | Merge Two Binary Trees | Easy | [Code](./solutions/problems/merge_two_binary_trees) |
-| 623 | Add One Row to Tree | Medium | [Code](./solutions/problems/add_one_row_to_tree) |
-| 637 | Average of Levels in Binary Tree | Easy | [Code](./solutions/problems/average_of_levels_in_binary_tree) |
-| 653 | Two Sum IV - Input is a BST | Easy | [Code](./solutions/problems/two_sum_iv_-_input_is_a_bst) |
-| 654 | Maximum Binary Tree | Medium | [Code](./solutions/problems/maximum_binary_tree) |
-| 655 | Print Binary Tree | Medium | [Code](./solutions/problems/print_binary_tree) |
-| 662 | Maximum Width of Binary Tree | Medium | [Code](./solutions/problems/maximum_width_of_binary_tree) |
-| 669 | Trim a Binary Search Tree | Medium | [Code](./solutions/problems/trim_a_binary_search_tree) |
-| 671 | Second Minimum Node In a Binary Tree | Easy | [Code](./solutions/problems/second_minimum_node_in_a_binary_tree) |
-| 687 | Longest Univalue Path | Medium | [Code](./solutions/problems/longest_univalue_path) |
-| 690 | Employee Importance | Medium | [Code](./solutions/problems/employee_importance) |
-| 700 | Search in a Binary Search Tree | Easy | [Code](./solutions/problems/search_in_a_binary_search_tree) |
-| 701 | Insert into a Binary Search Tree | Medium | [Code](./solutions/problems/insert_into_a_binary_search_tree) |
-| 703 | Kth Largest Element in a Stream | Easy | [Code](./solutions/problems/kth_largest_element_in_a_stream) |
-| 783 | Minimum Distance Between BST Nodes | Easy | [Code](./solutions/problems/minimum_distance_between_bst_nodes) |
-| 1022 | Sum of Root To Leaf Binary Numbers | Easy | [Code](./solutions/problems/sum_of_root_to_leaf_binary_numbers) |
-| 1161 | Maximum Level Sum of a Binary Tree | Medium | [Code](./solutions/problems/maximum_level_sum_of_a_binary_tree) |
-
-[⬆️ Back to Top](#quick-navigation)
-
-</details>
-
-### <a id="binary-tree"></a>Binary Tree (62)
-
-<details>
-<summary><b>View 62 problems</b></summary>
-
-| No | Name | Difficulty | Code Link |
-| :---: | :--- | :---: | :---: |
-| 94 | Binary Tree Inorder Traversal | Easy | [Code](./solutions/problems/binary_tree_inorder_traversal) |
-| 98 | Validate Binary Search Tree | Medium | [Code](./solutions/problems/validate_binary_search_tree) |
-| 99 | Recover Binary Search Tree | Medium | [Code](./solutions/problems/recover_binary_search_tree) |
-| 100 | Same Tree | Easy | [Code](./solutions/problems/same_tree) |
-| 101 | Symmetric Tree | Easy | [Code](./solutions/problems/symmetric_tree) |
-| 102 | Binary Tree Level Order Traversal | Medium | [Code](./solutions/problems/binary_tree_level_order_traversal) |
-| 103 | Binary Tree Zigzag Level Order Traversal | Medium | [Code](./solutions/problems/binary_tree_zigzag_level_order_traversal) |
-| 104 | Maximum Depth of Binary Tree | Easy | [Code](./solutions/problems/maximum_depth_of_binary_tree) |
-| 107 | Binary Tree Level Order Traversal II | Medium | [Code](./solutions/problems/binary_tree_level_order_traversal_ii) |
-| 108 | Convert Sorted Array to Binary Search Tree | Easy | [Code](./solutions/problems/convert_sorted_array_to_binary_search_tree) |
-| 109 | Convert Sorted List to Binary Search Tree | Medium | [Code](./solutions/problems/convert_sorted_list_to_binary_search_tree) |
-| 110 | Balanced Binary Tree | Easy | [Code](./solutions/problems/balanced_binary_tree) |
-| 111 | Minimum Depth of Binary Tree | Easy | [Code](./solutions/problems/minimum_depth_of_binary_tree) |
-| 112 | Path Sum | Easy | [Code](./solutions/problems/path_sum) |
-| 113 | Path Sum II | Medium | [Code](./solutions/problems/path_sum_ii) |
-| 114 | Flatten Binary Tree to Linked List | Medium | [Code](./solutions/problems/flatten_binary_tree_to_linked_list) |
-| 116 | Populating Next Right Pointers in Each Node | Medium | [Code](./solutions/problems/populating_next_right_pointers_in_each_node) |
-| 117 | Populating Next Right Pointers in Each Node II | Medium | [Code](./solutions/problems/populating_next_right_pointers_in_each_node_ii) |
-| 124 | Binary Tree Maximum Path Sum | Hard | [Code](./solutions/problems/binary_tree_maximum_path_sum) |
-| 129 | Sum Root to Leaf Numbers | Medium | [Code](./solutions/problems/sum_root_to_leaf_numbers) |
-| 144 | Binary Tree Preorder Traversal | Easy | [Code](./solutions/problems/binary_tree_preorder_traversal) |
-| 145 | Binary Tree Postorder Traversal | Easy | [Code](./solutions/problems/binary_tree_postorder_traversal) |
+| 173 | Binary Search Tree Iterator | Medium | [Code](./solutions/problems/binary_search_tree_iterator) |
 | 199 | Binary Tree Right Side View | Medium | [Code](./solutions/problems/binary_tree_right_side_view) |
 | 222 | Count Complete Tree Nodes | Medium | [Code](./solutions/problems/count_complete_tree_nodes) |
 | 226 | Invert Binary Tree | Easy | [Code](./solutions/problems/invert_binary_tree) |
@@ -3328,6 +3344,74 @@
 
 </details>
 
+### <a id="sliding-window"></a>Sliding Window (56)
+
+<details>
+<summary><b>View 56 problems</b></summary>
+
+| No | Name | Difficulty | Code Link |
+| :---: | :--- | :---: | :---: |
+| 3 | Longest Substring Without Repeating Characters | Medium | [Code](./solutions/problems/longest_substring_without_repeating_characters) |
+| 76 | Minimum Window Substring | Hard | [Code](./solutions/problems/minimum_window_substring) |
+| 187 | Repeated DNA Sequences | Medium | [Code](./solutions/problems/repeated_dna_sequences) |
+| 209 | Minimum Size Subarray Sum | Medium | [Code](./solutions/problems/minimum_size_subarray_sum) |
+| 219 | Contains Duplicate II | Easy | [Code](./solutions/problems/contains_duplicate_ii) |
+| 220 | Contains Duplicate III | Hard | [Code](./solutions/problems/contains_duplicate_iii) |
+| 239 | Sliding Window Maximum | Hard | [Code](./solutions/problems/sliding_window_maximum) |
+| 395 | Longest Substring with At Least K Repeating Characters | Medium | [Code](./solutions/problems/longest_substring_with_at_least_k_repeating_characters) |
+| 413 | Arithmetic Slices | Medium | [Code](./solutions/problems/arithmetic_slices) |
+| 424 | Longest Repeating Character Replacement | Medium | [Code](./solutions/problems/longest_repeating_character_replacement) |
+| 438 | Find All Anagrams in a String | Medium | [Code](./solutions/problems/find_all_anagrams_in_a_string) |
+| 480 | Sliding Window Median | Hard | [Code](./solutions/problems/sliding_window_median) |
+| 567 | Permutation in String | Medium | [Code](./solutions/problems/permutation_in_string) |
+| 594 | Longest Harmonious Subsequence | Easy | [Code](./solutions/problems/longest_harmonious_subsequence) |
+| 632 | Smallest Range Covering Elements from K Lists | Hard | [Code](./solutions/problems/smallest_range_covering_elements_from_k_lists) |
+| 643 | Maximum Average Subarray I | Easy | [Code](./solutions/problems/maximum_average_subarray_i) |
+| 658 | Find K Closest Elements | Medium | [Code](./solutions/problems/find_k_closest_elements) |
+| 689 | Maximum Sum of 3 Non-Overlapping Subarrays | Hard | [Code](./solutions/problems/maximum_sum_of_3_non-overlapping_subarrays) |
+| 713 | Subarray Product Less Than K | Medium | [Code](./solutions/problems/subarray_product_less_than_k) |
+| 718 | Maximum Length of Repeated Subarray | Medium | [Code](./solutions/problems/maximum_length_of_repeated_subarray) |
+| 837 | New 21 Game | Medium | [Code](./solutions/problems/new_21_game) |
+| 862 | Shortest Subarray with Sum at Least K | Hard | [Code](./solutions/problems/shortest_subarray_with_sum_at_least_k) |
+| 904 | Fruit Into Baskets | Medium | [Code](./solutions/problems/fruit_into_baskets) |
+| 930 | Binary Subarrays With Sum | Medium | [Code](./solutions/problems/binary_subarrays_with_sum) |
+| 978 | Longest Turbulent Subarray | Medium | [Code](./solutions/problems/longest_turbulent_subarray) |
+| 1004 | Max Consecutive Ones III | Medium | [Code](./solutions/problems/max_consecutive_ones_iii) |
+| 1016 | Binary String With Substrings Representing 1 To N | Medium | [Code](./solutions/problems/binary_string_with_substrings_representing_1_to_n) |
+| 1031 | Maximum Sum of Two Non-Overlapping Subarrays | Medium | [Code](./solutions/problems/maximum_sum_of_two_non-overlapping_subarrays) |
+| 1040 | Moving Stones Until Consecutive II | Medium | [Code](./solutions/problems/moving_stones_until_consecutive_ii) |
+| 1052 | Grumpy Bookstore Owner | Medium | [Code](./solutions/problems/grumpy_bookstore_owner) |
+| 1156 | Swap For Longest Repeated Character Substring | Medium | [Code](./solutions/problems/swap_for_longest_repeated_character_substring) |
+| 1208 | Get Equal Substrings Within Budget | Medium | [Code](./solutions/problems/get_equal_substrings_within_budget) |
+| 1234 | Replace the Substring for Balanced String | Medium | [Code](./solutions/problems/replace_the_substring_for_balanced_string) |
+| 1248 | Count Number of Nice Subarrays | Medium | [Code](./solutions/problems/count_number_of_nice_subarrays) |
+| 1297 | Maximum Number of Occurrences of a Substring | Medium | [Code](./solutions/problems/maximum_number_of_occurrences_of_a_substring) |
+| 1343 | Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold | Medium | [Code](./solutions/problems/number_of_sub-arrays_of_size_k_and_average_greater_than_or_equal_to_threshold) |
+| 1358 | Number of Substrings Containing All Three Characters | Medium | [Code](./solutions/problems/number_of_substrings_containing_all_three_characters) |
+| 1423 | Maximum Points You Can Obtain from Cards | Medium | [Code](./solutions/problems/maximum_points_you_can_obtain_from_cards) |
+| 1425 | Constrained Subsequence Sum | Hard | [Code](./solutions/problems/constrained_subsequence_sum) |
+| 1438 | Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit | Medium | [Code](./solutions/problems/longest_continuous_subarray_with_absolute_diff_less_than_or_equal_to_limit) |
+| 1456 | Maximum Number of Vowels in a Substring of Given Length | Medium | [Code](./solutions/problems/maximum_number_of_vowels_in_a_substring_of_given_length) |
+| 1477 | Find Two Non-overlapping Sub-arrays Each With Target Sum | Medium | [Code](./solutions/problems/find_two_non-overlapping_sub-arrays_each_with_target_sum) |
+| 1610 | Maximum Number of Visible Points | Hard | [Code](./solutions/problems/maximum_number_of_visible_points) |
+| 1652 | Defuse the Bomb | Easy | [Code](./solutions/problems/defuse_the_bomb) |
+| 1658 | Minimum Operations to Reduce X to Zero | Medium | [Code](./solutions/problems/minimum_operations_to_reduce_x_to_zero) |
+| 1695 | Maximum Erasure Value | Medium | [Code](./solutions/problems/maximum_erasure_value) |
+| 1763 | Longest Nice Substring | Easy | [Code](./solutions/problems/longest_nice_substring) |
+| 1871 | Jump Game VII | Medium | [Code](./solutions/problems/jump_game_vii) |
+| 1984 | Minimum Difference Between Highest and Lowest of K Scores | Easy | [Code](./solutions/problems/minimum_difference_between_highest_and_lowest_of_k_scores) |
+| 2747 | Count Zero Request Servers | Medium | [Code](./solutions/problems/count_zero_request_servers) |
+| 3013 | Divide an Array Into Subarrays With Minimum Cost II | Hard | [Code](./solutions/problems/divide_an_array_into_subarrays_with_minimum_cost_ii) |
+| 3364 | Minimum Positive Sum Subarray | Easy | [Code](./solutions/problems/minimum_positive_sum_subarray_) |
+| 3420 | Count Non-Decreasing Subarrays After K Operations | Hard | [Code](./solutions/problems/count_non-decreasing_subarrays_after_k_operations) |
+| 3505 | Minimum Operations to Make Elements Within K Subarrays Equal | Hard | [Code](./solutions/problems/minimum_operations_to_make_elements_within_k_subarrays_equal) |
+| 3634 | Minimum Removals to Balance Array | Medium | [Code](./solutions/problems/minimum_removals_to_balance_array) |
+| 3652 | Best Time to Buy and Sell Stock using Strategy | Medium | [Code](./solutions/problems/best_time_to_buy_and_sell_stock_using_strategy) |
+
+[⬆️ Back to Top](#quick-navigation)
+
+</details>
+
 ### <a id="backtracking"></a>Backtracking (54)
 
 <details>
@@ -3389,72 +3473,6 @@
 | 1723 | Find Minimum Time to Finish All Jobs | Hard | [Code](./solutions/problems/find_minimum_time_to_finish_all_jobs) |
 | 1774 | Closest Dessert Cost | Medium | [Code](./solutions/problems/closest_dessert_cost) |
 | 1980 | Find Unique Binary String | Medium | [Code](./solutions/problems/find_unique_binary_string) |
-
-[⬆️ Back to Top](#quick-navigation)
-
-</details>
-
-### <a id="sliding-window"></a>Sliding Window (54)
-
-<details>
-<summary><b>View 54 problems</b></summary>
-
-| No | Name | Difficulty | Code Link |
-| :---: | :--- | :---: | :---: |
-| 3 | Longest Substring Without Repeating Characters | Medium | [Code](./solutions/problems/longest_substring_without_repeating_characters) |
-| 76 | Minimum Window Substring | Hard | [Code](./solutions/problems/minimum_window_substring) |
-| 187 | Repeated DNA Sequences | Medium | [Code](./solutions/problems/repeated_dna_sequences) |
-| 209 | Minimum Size Subarray Sum | Medium | [Code](./solutions/problems/minimum_size_subarray_sum) |
-| 219 | Contains Duplicate II | Easy | [Code](./solutions/problems/contains_duplicate_ii) |
-| 220 | Contains Duplicate III | Hard | [Code](./solutions/problems/contains_duplicate_iii) |
-| 239 | Sliding Window Maximum | Hard | [Code](./solutions/problems/sliding_window_maximum) |
-| 395 | Longest Substring with At Least K Repeating Characters | Medium | [Code](./solutions/problems/longest_substring_with_at_least_k_repeating_characters) |
-| 413 | Arithmetic Slices | Medium | [Code](./solutions/problems/arithmetic_slices) |
-| 424 | Longest Repeating Character Replacement | Medium | [Code](./solutions/problems/longest_repeating_character_replacement) |
-| 438 | Find All Anagrams in a String | Medium | [Code](./solutions/problems/find_all_anagrams_in_a_string) |
-| 480 | Sliding Window Median | Hard | [Code](./solutions/problems/sliding_window_median) |
-| 567 | Permutation in String | Medium | [Code](./solutions/problems/permutation_in_string) |
-| 594 | Longest Harmonious Subsequence | Easy | [Code](./solutions/problems/longest_harmonious_subsequence) |
-| 632 | Smallest Range Covering Elements from K Lists | Hard | [Code](./solutions/problems/smallest_range_covering_elements_from_k_lists) |
-| 643 | Maximum Average Subarray I | Easy | [Code](./solutions/problems/maximum_average_subarray_i) |
-| 658 | Find K Closest Elements | Medium | [Code](./solutions/problems/find_k_closest_elements) |
-| 689 | Maximum Sum of 3 Non-Overlapping Subarrays | Hard | [Code](./solutions/problems/maximum_sum_of_3_non-overlapping_subarrays) |
-| 713 | Subarray Product Less Than K | Medium | [Code](./solutions/problems/subarray_product_less_than_k) |
-| 718 | Maximum Length of Repeated Subarray | Medium | [Code](./solutions/problems/maximum_length_of_repeated_subarray) |
-| 837 | New 21 Game | Medium | [Code](./solutions/problems/new_21_game) |
-| 862 | Shortest Subarray with Sum at Least K | Hard | [Code](./solutions/problems/shortest_subarray_with_sum_at_least_k) |
-| 904 | Fruit Into Baskets | Medium | [Code](./solutions/problems/fruit_into_baskets) |
-| 930 | Binary Subarrays With Sum | Medium | [Code](./solutions/problems/binary_subarrays_with_sum) |
-| 978 | Longest Turbulent Subarray | Medium | [Code](./solutions/problems/longest_turbulent_subarray) |
-| 1004 | Max Consecutive Ones III | Medium | [Code](./solutions/problems/max_consecutive_ones_iii) |
-| 1016 | Binary String With Substrings Representing 1 To N | Medium | [Code](./solutions/problems/binary_string_with_substrings_representing_1_to_n) |
-| 1031 | Maximum Sum of Two Non-Overlapping Subarrays | Medium | [Code](./solutions/problems/maximum_sum_of_two_non-overlapping_subarrays) |
-| 1040 | Moving Stones Until Consecutive II | Medium | [Code](./solutions/problems/moving_stones_until_consecutive_ii) |
-| 1052 | Grumpy Bookstore Owner | Medium | [Code](./solutions/problems/grumpy_bookstore_owner) |
-| 1156 | Swap For Longest Repeated Character Substring | Medium | [Code](./solutions/problems/swap_for_longest_repeated_character_substring) |
-| 1208 | Get Equal Substrings Within Budget | Medium | [Code](./solutions/problems/get_equal_substrings_within_budget) |
-| 1234 | Replace the Substring for Balanced String | Medium | [Code](./solutions/problems/replace_the_substring_for_balanced_string) |
-| 1248 | Count Number of Nice Subarrays | Medium | [Code](./solutions/problems/count_number_of_nice_subarrays) |
-| 1297 | Maximum Number of Occurrences of a Substring | Medium | [Code](./solutions/problems/maximum_number_of_occurrences_of_a_substring) |
-| 1343 | Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold | Medium | [Code](./solutions/problems/number_of_sub-arrays_of_size_k_and_average_greater_than_or_equal_to_threshold) |
-| 1358 | Number of Substrings Containing All Three Characters | Medium | [Code](./solutions/problems/number_of_substrings_containing_all_three_characters) |
-| 1423 | Maximum Points You Can Obtain from Cards | Medium | [Code](./solutions/problems/maximum_points_you_can_obtain_from_cards) |
-| 1425 | Constrained Subsequence Sum | Hard | [Code](./solutions/problems/constrained_subsequence_sum) |
-| 1438 | Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit | Medium | [Code](./solutions/problems/longest_continuous_subarray_with_absolute_diff_less_than_or_equal_to_limit) |
-| 1456 | Maximum Number of Vowels in a Substring of Given Length | Medium | [Code](./solutions/problems/maximum_number_of_vowels_in_a_substring_of_given_length) |
-| 1477 | Find Two Non-overlapping Sub-arrays Each With Target Sum | Medium | [Code](./solutions/problems/find_two_non-overlapping_sub-arrays_each_with_target_sum) |
-| 1610 | Maximum Number of Visible Points | Hard | [Code](./solutions/problems/maximum_number_of_visible_points) |
-| 1652 | Defuse the Bomb | Easy | [Code](./solutions/problems/defuse_the_bomb) |
-| 1658 | Minimum Operations to Reduce X to Zero | Medium | [Code](./solutions/problems/minimum_operations_to_reduce_x_to_zero) |
-| 1695 | Maximum Erasure Value | Medium | [Code](./solutions/problems/maximum_erasure_value) |
-| 1763 | Longest Nice Substring | Easy | [Code](./solutions/problems/longest_nice_substring) |
-| 1871 | Jump Game VII | Medium | [Code](./solutions/problems/jump_game_vii) |
-| 1984 | Minimum Difference Between Highest and Lowest of K Scores | Easy | [Code](./solutions/problems/minimum_difference_between_highest_and_lowest_of_k_scores) |
-| 2747 | Count Zero Request Servers | Medium | [Code](./solutions/problems/count_zero_request_servers) |
-| 3013 | Divide an Array Into Subarrays With Minimum Cost II | Hard | [Code](./solutions/problems/divide_an_array_into_subarrays_with_minimum_cost_ii) |
-| 3505 | Minimum Operations to Make Elements Within K Subarrays Equal | Hard | [Code](./solutions/problems/minimum_operations_to_make_elements_within_k_subarrays_equal) |
-| 3634 | Minimum Removals to Balance Array | Medium | [Code](./solutions/problems/minimum_removals_to_balance_array) |
-| 3652 | Best Time to Buy and Sell Stock using Strategy | Medium | [Code](./solutions/problems/best_time_to_buy_and_sell_stock_using_strategy) |
 
 [⬆️ Back to Top](#quick-navigation)
 
@@ -3648,10 +3666,10 @@
 
 </details>
 
-### <a id="monotonic-stack"></a>Monotonic Stack (24)
+### <a id="monotonic-stack"></a>Monotonic Stack (25)
 
 <details>
-<summary><b>View 24 problems</b></summary>
+<summary><b>View 25 problems</b></summary>
 
 | No | Name | Difficulty | Code Link |
 | :---: | :--- | :---: | :---: |
@@ -3679,6 +3697,42 @@
 | 1504 | Count Submatrices With All Ones | Medium | [Code](./solutions/problems/count_submatrices_with_all_ones) |
 | 1526 | Minimum Number of Increments on Subarrays to Form a Target Array | Hard | [Code](./solutions/problems/minimum_number_of_increments_on_subarrays_to_form_a_target_array) |
 | 1673 | Find the Most Competitive Subsequence | Medium | [Code](./solutions/problems/find_the_most_competitive_subsequence) |
+| 3420 | Count Non-Decreasing Subarrays After K Operations | Hard | [Code](./solutions/problems/count_non-decreasing_subarrays_after_k_operations) |
+
+[⬆️ Back to Top](#quick-navigation)
+
+</details>
+
+### <a id="design"></a>Design (23)
+
+<details>
+<summary><b>View 23 problems</b></summary>
+
+| No | Name | Difficulty | Code Link |
+| :---: | :--- | :---: | :---: |
+| 146 | LRU Cache | Medium | [Code](./solutions/problems/lru_cache) |
+| 155 | Min Stack | Medium | [Code](./solutions/problems/min_stack) |
+| 173 | Binary Search Tree Iterator | Medium | [Code](./solutions/problems/binary_search_tree_iterator) |
+| 208 | Implement Trie (Prefix Tree) | Medium | [Code](./solutions/problems/implement_trie_%28prefix_tree%29) |
+| 211 | Design Add and Search Words Data Structure | Medium | [Code](./solutions/problems/design_add_and_search_words_data_structure) |
+| 225 | Implement Stack using Queues | Easy | [Code](./solutions/problems/implement_stack_using_queues) |
+| 232 | Implement Queue using Stacks | Easy | [Code](./solutions/problems/implement_queue_using_stacks) |
+| 295 | Find Median from Data Stream | Hard | [Code](./solutions/problems/find_median_from_data_stream) |
+| 297 | Serialize and Deserialize Binary Tree | Hard | [Code](./solutions/problems/serialize_and_deserialize_binary_tree) |
+| 303 | Range Sum Query - Immutable | Easy | [Code](./solutions/problems/range_sum_query_-_immutable) |
+| 304 | Range Sum Query 2D - Immutable | Medium | [Code](./solutions/problems/range_sum_query_2d_-_immutable) |
+| 352 | Data Stream as Disjoint Intervals | Hard | [Code](./solutions/problems/data_stream_as_disjoint_intervals) |
+| 355 | Design Twitter | Medium | [Code](./solutions/problems/design_twitter) |
+| 449 | Serialize and Deserialize BST | Medium | [Code](./solutions/problems/serialize_and_deserialize_bst) |
+| 622 | Design Circular Queue | Medium | [Code](./solutions/problems/design_circular_queue) |
+| 641 | Design Circular Deque | Medium | [Code](./solutions/problems/design_circular_deque) |
+| 676 | Implement Magic Dictionary | Medium | [Code](./solutions/problems/implement_magic_dictionary) |
+| 703 | Kth Largest Element in a Stream | Easy | [Code](./solutions/problems/kth_largest_element_in_a_stream) |
+| 707 | Design Linked List | Medium | [Code](./solutions/problems/design_linked_list) |
+| 715 | Range Module | Hard | [Code](./solutions/problems/range_module) |
+| 729 | My Calendar I | Medium | [Code](./solutions/problems/my_calendar_i) |
+| 731 | My Calendar II | Medium | [Code](./solutions/problems/my_calendar_ii) |
+| 732 | My Calendar III | Hard | [Code](./solutions/problems/my_calendar_iii) |
 
 [⬆️ Back to Top](#quick-navigation)
 
@@ -3718,39 +3772,6 @@
 
 </details>
 
-### <a id="design"></a>Design (21)
-
-<details>
-<summary><b>View 21 problems</b></summary>
-
-| No | Name | Difficulty | Code Link |
-| :---: | :--- | :---: | :---: |
-| 146 | LRU Cache | Medium | [Code](./solutions/problems/lru_cache) |
-| 155 | Min Stack | Medium | [Code](./solutions/problems/min_stack) |
-| 208 | Implement Trie (Prefix Tree) | Medium | [Code](./solutions/problems/implement_trie_%28prefix_tree%29) |
-| 211 | Design Add and Search Words Data Structure | Medium | [Code](./solutions/problems/design_add_and_search_words_data_structure) |
-| 225 | Implement Stack using Queues | Easy | [Code](./solutions/problems/implement_stack_using_queues) |
-| 232 | Implement Queue using Stacks | Easy | [Code](./solutions/problems/implement_queue_using_stacks) |
-| 295 | Find Median from Data Stream | Hard | [Code](./solutions/problems/find_median_from_data_stream) |
-| 297 | Serialize and Deserialize Binary Tree | Hard | [Code](./solutions/problems/serialize_and_deserialize_binary_tree) |
-| 303 | Range Sum Query - Immutable | Easy | [Code](./solutions/problems/range_sum_query_-_immutable) |
-| 304 | Range Sum Query 2D - Immutable | Medium | [Code](./solutions/problems/range_sum_query_2d_-_immutable) |
-| 355 | Design Twitter | Medium | [Code](./solutions/problems/design_twitter) |
-| 449 | Serialize and Deserialize BST | Medium | [Code](./solutions/problems/serialize_and_deserialize_bst) |
-| 622 | Design Circular Queue | Medium | [Code](./solutions/problems/design_circular_queue) |
-| 641 | Design Circular Deque | Medium | [Code](./solutions/problems/design_circular_deque) |
-| 676 | Implement Magic Dictionary | Medium | [Code](./solutions/problems/implement_magic_dictionary) |
-| 703 | Kth Largest Element in a Stream | Easy | [Code](./solutions/problems/kth_largest_element_in_a_stream) |
-| 707 | Design Linked List | Medium | [Code](./solutions/problems/design_linked_list) |
-| 715 | Range Module | Hard | [Code](./solutions/problems/range_module) |
-| 729 | My Calendar I | Medium | [Code](./solutions/problems/my_calendar_i) |
-| 731 | My Calendar II | Medium | [Code](./solutions/problems/my_calendar_ii) |
-| 732 | My Calendar III | Hard | [Code](./solutions/problems/my_calendar_iii) |
-
-[⬆️ Back to Top](#quick-navigation)
-
-</details>
-
 ### <a id="geometry"></a>Geometry (20)
 
 <details>
@@ -3783,16 +3804,17 @@
 
 </details>
 
-### <a id="union-find"></a>Union-Find (18)
+### <a id="union-find"></a>Union-Find (19)
 
 <details>
-<summary><b>View 18 problems</b></summary>
+<summary><b>View 19 problems</b></summary>
 
 | No | Name | Difficulty | Code Link |
 | :---: | :--- | :---: | :---: |
 | 128 | Longest Consecutive Sequence | Medium | [Code](./solutions/problems/longest_consecutive_sequence) |
 | 130 | Surrounded Regions | Medium | [Code](./solutions/problems/surrounded_regions) |
 | 200 | Number of Islands | Medium | [Code](./solutions/problems/number_of_islands) |
+| 352 | Data Stream as Disjoint Intervals | Hard | [Code](./solutions/problems/data_stream_as_disjoint_intervals) |
 | 399 | Evaluate Division | Medium | [Code](./solutions/problems/evaluate_division) |
 | 547 | Number of Provinces | Medium | [Code](./solutions/problems/number_of_provinces) |
 | 695 | Max Area of Island | Medium | [Code](./solutions/problems/max_area_of_island) |
@@ -3813,10 +3835,10 @@
 
 </details>
 
-### <a id="binary-search-tree"></a>Binary Search Tree (17)
+### <a id="binary-search-tree"></a>Binary Search Tree (18)
 
 <details>
-<summary><b>View 17 problems</b></summary>
+<summary><b>View 18 problems</b></summary>
 
 | No | Name | Difficulty | Code Link |
 | :---: | :--- | :---: | :---: |
@@ -3824,6 +3846,7 @@
 | 99 | Recover Binary Search Tree | Medium | [Code](./solutions/problems/recover_binary_search_tree) |
 | 108 | Convert Sorted Array to Binary Search Tree | Easy | [Code](./solutions/problems/convert_sorted_array_to_binary_search_tree) |
 | 109 | Convert Sorted List to Binary Search Tree | Medium | [Code](./solutions/problems/convert_sorted_list_to_binary_search_tree) |
+| 173 | Binary Search Tree Iterator | Medium | [Code](./solutions/problems/binary_search_tree_iterator) |
 | 230 | Kth Smallest Element in a BST | Medium | [Code](./solutions/problems/kth_smallest_element_in_a_bst) |
 | 235 | Lowest Common Ancestor of a Binary Search Tree | Medium | [Code](./solutions/problems/lowest_common_ancestor_of_a_binary_search_tree) |
 | 449 | Serialize and Deserialize BST | Medium | [Code](./solutions/problems/serialize_and_deserialize_bst) |
@@ -3842,16 +3865,17 @@
 
 </details>
 
-### <a id="ordered-set"></a>Ordered Set (17)
+### <a id="ordered-set"></a>Ordered Set (18)
 
 <details>
-<summary><b>View 17 problems</b></summary>
+<summary><b>View 18 problems</b></summary>
 
 | No | Name | Difficulty | Code Link |
 | :---: | :--- | :---: | :---: |
 | 220 | Contains Duplicate III | Hard | [Code](./solutions/problems/contains_duplicate_iii) |
 | 315 | Count of Smaller Numbers After Self | Hard | [Code](./solutions/problems/count_of_smaller_numbers_after_self) |
 | 327 | Count of Range Sum | Hard | [Code](./solutions/problems/count_of_range_sum) |
+| 352 | Data Stream as Disjoint Intervals | Hard | [Code](./solutions/problems/data_stream_as_disjoint_intervals) |
 | 363 | Max Sum of Rectangle No Larger Than K | Hard | [Code](./solutions/problems/max_sum_of_rectangle_no_larger_than_k) |
 | 456 | 132 Pattern | Medium | [Code](./solutions/problems/132_pattern) |
 | 493 | Reverse Pairs | Hard | [Code](./solutions/problems/reverse_pairs) |
@@ -3866,6 +3890,35 @@
 | 1675 | Minimize Deviation in Array | Hard | [Code](./solutions/problems/minimize_deviation_in_array) |
 | 3161 | Block Placement Queries | Hard | [Code](./solutions/problems/block_placement_queries) |
 | 3507 | Minimum Pair Removal to Sort Array I | Easy | [Code](./solutions/problems/minimum_pair_removal_to_sort_array_i) |
+
+[⬆️ Back to Top](#quick-navigation)
+
+</details>
+
+### <a id="segment-tree"></a>Segment Tree (17)
+
+<details>
+<summary><b>View 17 problems</b></summary>
+
+| No | Name | Difficulty | Code Link |
+| :---: | :--- | :---: | :---: |
+| 315 | Count of Smaller Numbers After Self | Hard | [Code](./solutions/problems/count_of_smaller_numbers_after_self) |
+| 327 | Count of Range Sum | Hard | [Code](./solutions/problems/count_of_range_sum) |
+| 406 | Queue Reconstruction by Height | Medium | [Code](./solutions/problems/queue_reconstruction_by_height) |
+| 493 | Reverse Pairs | Hard | [Code](./solutions/problems/reverse_pairs) |
+| 673 | Number of Longest Increasing Subsequence | Medium | [Code](./solutions/problems/number_of_longest_increasing_subsequence) |
+| 715 | Range Module | Hard | [Code](./solutions/problems/range_module) |
+| 729 | My Calendar I | Medium | [Code](./solutions/problems/my_calendar_i) |
+| 731 | My Calendar II | Medium | [Code](./solutions/problems/my_calendar_ii) |
+| 732 | My Calendar III | Hard | [Code](./solutions/problems/my_calendar_iii) |
+| 1395 | Count Number of Teams | Medium | [Code](./solutions/problems/count_number_of_teams) |
+| 1505 | Minimum Possible Integer After at Most K Adjacent Swaps On Digits | Hard | [Code](./solutions/problems/minimum_possible_integer_after_at_most_k_adjacent_swaps_on_digits) |
+| 1521 | Find a Value of a Mysterious Function Closest to Target | Hard | [Code](./solutions/problems/find_a_value_of_a_mysterious_function_closest_to_target) |
+| 2913 | Subarrays Distinct Element Sum of Squares I | Easy | [Code](./solutions/problems/subarrays_distinct_element_sum_of_squares_i) |
+| 3161 | Block Placement Queries | Hard | [Code](./solutions/problems/block_placement_queries) |
+| 3420 | Count Non-Decreasing Subarrays After K Operations | Hard | [Code](./solutions/problems/count_non-decreasing_subarrays_after_k_operations) |
+| 3454 | Separate Squares II | Hard | [Code](./solutions/problems/separate_squares_ii) |
+| 3719 | Longest Balanced Subarray I | Medium | [Code](./solutions/problems/longest_balanced_subarray_i) |
 
 [⬆️ Back to Top](#quick-navigation)
 
@@ -3899,29 +3952,29 @@
 
 </details>
 
-### <a id="segment-tree"></a>Segment Tree (16)
+### <a id="queue"></a>Queue (16)
 
 <details>
 <summary><b>View 16 problems</b></summary>
 
 | No | Name | Difficulty | Code Link |
 | :---: | :--- | :---: | :---: |
-| 315 | Count of Smaller Numbers After Self | Hard | [Code](./solutions/problems/count_of_smaller_numbers_after_self) |
-| 327 | Count of Range Sum | Hard | [Code](./solutions/problems/count_of_range_sum) |
-| 406 | Queue Reconstruction by Height | Medium | [Code](./solutions/problems/queue_reconstruction_by_height) |
-| 493 | Reverse Pairs | Hard | [Code](./solutions/problems/reverse_pairs) |
-| 673 | Number of Longest Increasing Subsequence | Medium | [Code](./solutions/problems/number_of_longest_increasing_subsequence) |
-| 715 | Range Module | Hard | [Code](./solutions/problems/range_module) |
-| 729 | My Calendar I | Medium | [Code](./solutions/problems/my_calendar_i) |
-| 731 | My Calendar II | Medium | [Code](./solutions/problems/my_calendar_ii) |
-| 732 | My Calendar III | Hard | [Code](./solutions/problems/my_calendar_iii) |
-| 1395 | Count Number of Teams | Medium | [Code](./solutions/problems/count_number_of_teams) |
-| 1505 | Minimum Possible Integer After at Most K Adjacent Swaps On Digits | Hard | [Code](./solutions/problems/minimum_possible_integer_after_at_most_k_adjacent_swaps_on_digits) |
-| 1521 | Find a Value of a Mysterious Function Closest to Target | Hard | [Code](./solutions/problems/find_a_value_of_a_mysterious_function_closest_to_target) |
-| 2913 | Subarrays Distinct Element Sum of Squares I | Easy | [Code](./solutions/problems/subarrays_distinct_element_sum_of_squares_i) |
-| 3161 | Block Placement Queries | Hard | [Code](./solutions/problems/block_placement_queries) |
-| 3454 | Separate Squares II | Hard | [Code](./solutions/problems/separate_squares_ii) |
-| 3719 | Longest Balanced Subarray I | Medium | [Code](./solutions/problems/longest_balanced_subarray_i) |
+| 225 | Implement Stack using Queues | Easy | [Code](./solutions/problems/implement_stack_using_queues) |
+| 232 | Implement Queue using Stacks | Easy | [Code](./solutions/problems/implement_queue_using_stacks) |
+| 239 | Sliding Window Maximum | Hard | [Code](./solutions/problems/sliding_window_maximum) |
+| 387 | First Unique Character in a String | Easy | [Code](./solutions/problems/first_unique_character_in_a_string) |
+| 622 | Design Circular Queue | Medium | [Code](./solutions/problems/design_circular_queue) |
+| 641 | Design Circular Deque | Medium | [Code](./solutions/problems/design_circular_deque) |
+| 649 | Dota2 Senate | Medium | [Code](./solutions/problems/dota2_senate) |
+| 862 | Shortest Subarray with Sum at Least K | Hard | [Code](./solutions/problems/shortest_subarray_with_sum_at_least_k) |
+| 918 | Maximum Sum Circular Subarray | Medium | [Code](./solutions/problems/maximum_sum_circular_subarray) |
+| 936 | Stamping The Sequence | Hard | [Code](./solutions/problems/stamping_the_sequence) |
+| 950 | Reveal Cards In Increasing Order | Medium | [Code](./solutions/problems/reveal_cards_in_increasing_order) |
+| 1425 | Constrained Subsequence Sum | Hard | [Code](./solutions/problems/constrained_subsequence_sum) |
+| 1438 | Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit | Medium | [Code](./solutions/problems/longest_continuous_subarray_with_absolute_diff_less_than_or_equal_to_limit) |
+| 1696 | Jump Game VI | Medium | [Code](./solutions/problems/jump_game_vi) |
+| 1700 | Number of Students Unable to Eat Lunch | Easy | [Code](./solutions/problems/number_of_students_unable_to_eat_lunch) |
+| 3420 | Count Non-Decreasing Subarrays After K Operations | Hard | [Code](./solutions/problems/count_non-decreasing_subarrays_after_k_operations) |
 
 [⬆️ Back to Top](#quick-navigation)
 
@@ -3977,33 +4030,6 @@
 | 1553 | Minimum Number of Days to Eat N Oranges | Hard | [Code](./solutions/problems/minimum_number_of_days_to_eat_n_oranges) |
 | 1575 | Count All Possible Routes | Hard | [Code](./solutions/problems/count_all_possible_routes) |
 | 1611 | Minimum One Bit Operations to Make Integers Zero | Hard | [Code](./solutions/problems/minimum_one_bit_operations_to_make_integers_zero) |
-
-[⬆️ Back to Top](#quick-navigation)
-
-</details>
-
-### <a id="queue"></a>Queue (15)
-
-<details>
-<summary><b>View 15 problems</b></summary>
-
-| No | Name | Difficulty | Code Link |
-| :---: | :--- | :---: | :---: |
-| 225 | Implement Stack using Queues | Easy | [Code](./solutions/problems/implement_stack_using_queues) |
-| 232 | Implement Queue using Stacks | Easy | [Code](./solutions/problems/implement_queue_using_stacks) |
-| 239 | Sliding Window Maximum | Hard | [Code](./solutions/problems/sliding_window_maximum) |
-| 387 | First Unique Character in a String | Easy | [Code](./solutions/problems/first_unique_character_in_a_string) |
-| 622 | Design Circular Queue | Medium | [Code](./solutions/problems/design_circular_queue) |
-| 641 | Design Circular Deque | Medium | [Code](./solutions/problems/design_circular_deque) |
-| 649 | Dota2 Senate | Medium | [Code](./solutions/problems/dota2_senate) |
-| 862 | Shortest Subarray with Sum at Least K | Hard | [Code](./solutions/problems/shortest_subarray_with_sum_at_least_k) |
-| 918 | Maximum Sum Circular Subarray | Medium | [Code](./solutions/problems/maximum_sum_circular_subarray) |
-| 936 | Stamping The Sequence | Hard | [Code](./solutions/problems/stamping_the_sequence) |
-| 950 | Reveal Cards In Increasing Order | Medium | [Code](./solutions/problems/reveal_cards_in_increasing_order) |
-| 1425 | Constrained Subsequence Sum | Hard | [Code](./solutions/problems/constrained_subsequence_sum) |
-| 1438 | Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit | Medium | [Code](./solutions/problems/longest_continuous_subarray_with_absolute_diff_less_than_or_equal_to_limit) |
-| 1696 | Jump Game VI | Medium | [Code](./solutions/problems/jump_game_vi) |
-| 1700 | Number of Students Unable to Eat Lunch | Easy | [Code](./solutions/problems/number_of_students_unable_to_eat_lunch) |
 
 [⬆️ Back to Top](#quick-navigation)
 
@@ -4080,6 +4106,28 @@
 
 </details>
 
+### <a id="graph-theory"></a>Graph Theory (10)
+
+<details>
+<summary><b>View 10 problems</b></summary>
+
+| No | Name | Difficulty | Code Link |
+| :---: | :--- | :---: | :---: |
+| 133 | Clone Graph | Medium | [Code](./solutions/problems/clone_graph) |
+| 310 | Minimum Height Trees | Medium | [Code](./solutions/problems/minimum_height_trees) |
+| 329 | Longest Increasing Path in a Matrix | Hard | [Code](./solutions/problems/longest_increasing_path_in_a_matrix) |
+| 399 | Evaluate Division | Medium | [Code](./solutions/problems/evaluate_division) |
+| 547 | Number of Provinces | Medium | [Code](./solutions/problems/number_of_provinces) |
+| 765 | Couples Holding Hands | Hard | [Code](./solutions/problems/couples_holding_hands) |
+| 785 | Is Graph Bipartite? | Medium | [Code](./solutions/problems/is_graph_bipartite%3F) |
+| 841 | Keys and Rooms | Medium | [Code](./solutions/problems/keys_and_rooms) |
+| 997 | Find the Town Judge | Easy | [Code](./solutions/problems/find_the_town_judge) |
+| 3970 | Shortest Path With At Most K Consecutive Identical Characters | Medium | [Code](./solutions/problems/shortest_path_with_at_most_k_consecutive_identical_characters) |
+
+[⬆️ Back to Top](#quick-navigation)
+
+</details>
+
 ### <a id="knapsack-problem"></a>Knapsack Problem (10)
 
 <details>
@@ -4141,27 +4189,6 @@
 | 1690 | Stone Game VII | Medium | [Code](./solutions/problems/stone_game_vii) |
 | 1872 | Stone Game VIII | Hard | [Code](./solutions/problems/stone_game_viii) |
 | 2029 | Stone Game IX | Medium | [Code](./solutions/problems/stone_game_ix) |
-
-[⬆️ Back to Top](#quick-navigation)
-
-</details>
-
-### <a id="graph-theory"></a>Graph Theory (9)
-
-<details>
-<summary><b>View 9 problems</b></summary>
-
-| No | Name | Difficulty | Code Link |
-| :---: | :--- | :---: | :---: |
-| 133 | Clone Graph | Medium | [Code](./solutions/problems/clone_graph) |
-| 329 | Longest Increasing Path in a Matrix | Hard | [Code](./solutions/problems/longest_increasing_path_in_a_matrix) |
-| 399 | Evaluate Division | Medium | [Code](./solutions/problems/evaluate_division) |
-| 547 | Number of Provinces | Medium | [Code](./solutions/problems/number_of_provinces) |
-| 765 | Couples Holding Hands | Hard | [Code](./solutions/problems/couples_holding_hands) |
-| 785 | Is Graph Bipartite? | Medium | [Code](./solutions/problems/is_graph_bipartite%3F) |
-| 841 | Keys and Rooms | Medium | [Code](./solutions/problems/keys_and_rooms) |
-| 997 | Find the Town Judge | Easy | [Code](./solutions/problems/find_the_town_judge) |
-| 3970 | Shortest Path With At Most K Consecutive Identical Characters | Medium | [Code](./solutions/problems/shortest_path_with_at_most_k_consecutive_identical_characters) |
 
 [⬆️ Back to Top](#quick-navigation)
 
@@ -4310,6 +4337,25 @@
 
 </details>
 
+### <a id="monotonic-queue"></a>Monotonic Queue (7)
+
+<details>
+<summary><b>View 7 problems</b></summary>
+
+| No | Name | Difficulty | Code Link |
+| :---: | :--- | :---: | :---: |
+| 239 | Sliding Window Maximum | Hard | [Code](./solutions/problems/sliding_window_maximum) |
+| 862 | Shortest Subarray with Sum at Least K | Hard | [Code](./solutions/problems/shortest_subarray_with_sum_at_least_k) |
+| 918 | Maximum Sum Circular Subarray | Medium | [Code](./solutions/problems/maximum_sum_circular_subarray) |
+| 1425 | Constrained Subsequence Sum | Hard | [Code](./solutions/problems/constrained_subsequence_sum) |
+| 1438 | Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit | Medium | [Code](./solutions/problems/longest_continuous_subarray_with_absolute_diff_less_than_or_equal_to_limit) |
+| 1696 | Jump Game VI | Medium | [Code](./solutions/problems/jump_game_vi) |
+| 3420 | Count Non-Decreasing Subarrays After K Operations | Hard | [Code](./solutions/problems/count_non-decreasing_subarrays_after_k_operations) |
+
+[⬆️ Back to Top](#quick-navigation)
+
+</details>
+
 ### <a id="bucket-sort"></a>Bucket Sort (6)
 
 <details>
@@ -4377,24 +4423,6 @@
 | 327 | Count of Range Sum | Hard | [Code](./solutions/problems/count_of_range_sum) |
 | 493 | Reverse Pairs | Hard | [Code](./solutions/problems/reverse_pairs) |
 | 912 | Sort an Array | Medium | [Code](./solutions/problems/sort_an_array) |
-
-[⬆️ Back to Top](#quick-navigation)
-
-</details>
-
-### <a id="monotonic-queue"></a>Monotonic Queue (6)
-
-<details>
-<summary><b>View 6 problems</b></summary>
-
-| No | Name | Difficulty | Code Link |
-| :---: | :--- | :---: | :---: |
-| 239 | Sliding Window Maximum | Hard | [Code](./solutions/problems/sliding_window_maximum) |
-| 862 | Shortest Subarray with Sum at Least K | Hard | [Code](./solutions/problems/shortest_subarray_with_sum_at_least_k) |
-| 918 | Maximum Sum Circular Subarray | Medium | [Code](./solutions/problems/maximum_sum_circular_subarray) |
-| 1425 | Constrained Subsequence Sum | Hard | [Code](./solutions/problems/constrained_subsequence_sum) |
-| 1438 | Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit | Medium | [Code](./solutions/problems/longest_continuous_subarray_with_absolute_diff_less_than_or_equal_to_limit) |
-| 1696 | Jump Game VI | Medium | [Code](./solutions/problems/jump_game_vi) |
 
 [⬆️ Back to Top](#quick-navigation)
 
@@ -4676,6 +4704,21 @@
 
 </details>
 
+### <a id="data-stream"></a>Data Stream (3)
+
+<details>
+<summary><b>View 3 problems</b></summary>
+
+| No | Name | Difficulty | Code Link |
+| :---: | :--- | :---: | :---: |
+| 295 | Find Median from Data Stream | Hard | [Code](./solutions/problems/find_median_from_data_stream) |
+| 352 | Data Stream as Disjoint Intervals | Hard | [Code](./solutions/problems/data_stream_as_disjoint_intervals) |
+| 703 | Kth Largest Element in a Stream | Easy | [Code](./solutions/problems/kth_largest_element_in_a_stream) |
+
+[⬆️ Back to Top](#quick-navigation)
+
+</details>
+
 ### <a id="doubly-linked-list"></a>Doubly-Linked List (3)
 
 <details>
@@ -4867,20 +4910,6 @@
 
 </details>
 
-### <a id="data-stream"></a>Data Stream (2)
-
-<details>
-<summary><b>View 2 problems</b></summary>
-
-| No | Name | Difficulty | Code Link |
-| :---: | :--- | :---: | :---: |
-| 295 | Find Median from Data Stream | Hard | [Code](./solutions/problems/find_median_from_data_stream) |
-| 703 | Kth Largest Element in a Stream | Easy | [Code](./solutions/problems/kth_largest_element_in_a_stream) |
-
-[⬆️ Back to Top](#quick-navigation)
-
-</details>
-
 ### <a id="directed-acyclic-graph"></a>Directed Acyclic Graph (2)
 
 <details>
@@ -5063,6 +5092,20 @@
 
 </details>
 
+### <a id="topological-sort"></a>Topological Sort (2)
+
+<details>
+<summary><b>View 2 problems</b></summary>
+
+| No | Name | Difficulty | Code Link |
+| :---: | :--- | :---: | :---: |
+| 310 | Minimum Height Trees | Medium | [Code](./solutions/problems/minimum_height_trees) |
+| 329 | Longest Increasing Path in a Matrix | Hard | [Code](./solutions/problems/longest_increasing_path_in_a_matrix) |
+
+[⬆️ Back to Top](#quick-navigation)
+
+</details>
+
 ### <a id="a-search"></a>A* Search (1)
 
 <details>
@@ -5214,6 +5257,19 @@
 | No | Name | Difficulty | Code Link |
 | :---: | :--- | :---: | :---: |
 | 1029 | Two City Scheduling | Medium | [Code](./solutions/problems/two_city_scheduling) |
+
+[⬆️ Back to Top](#quick-navigation)
+
+</details>
+
+### <a id="iterator"></a>Iterator (1)
+
+<details>
+<summary><b>View 1 problems</b></summary>
+
+| No | Name | Difficulty | Code Link |
+| :---: | :--- | :---: | :---: |
+| 173 | Binary Search Tree Iterator | Medium | [Code](./solutions/problems/binary_search_tree_iterator) |
 
 [⬆️ Back to Top](#quick-navigation)
 
@@ -5500,19 +5556,6 @@
 | No | Name | Difficulty | Code Link |
 | :---: | :--- | :---: | :---: |
 | 881 | Boats to Save People | Medium | [Code](./solutions/problems/boats_to_save_people) |
-
-[⬆️ Back to Top](#quick-navigation)
-
-</details>
-
-### <a id="topological-sort"></a>Topological Sort (1)
-
-<details>
-<summary><b>View 1 problems</b></summary>
-
-| No | Name | Difficulty | Code Link |
-| :---: | :--- | :---: | :---: |
-| 329 | Longest Increasing Path in a Matrix | Hard | [Code](./solutions/problems/longest_increasing_path_in_a_matrix) |
 
 [⬆️ Back to Top](#quick-navigation)
 

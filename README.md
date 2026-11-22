@@ -5,7 +5,7 @@
 
 - [📖 My LeetCode Journey](#my-leetcode-journey)
 - [📂 Browse Problems by Category](#browse-problems)
-- [📋 All Solved Problems (1210 Problems)](#all-solved-problems)
+- [📋 All Solved Problems (1218 Problems)](#all-solved-problems)
 - [⚙️ How to Set This Up Yourself](#how-to-set-this-up-yourself)
 
 ---
@@ -13,6 +13,10 @@
 ### <a id="my-leetcode-journey"></a>📖 My LeetCode Journey
 
 - **April 8, 2025:** Started solving LeetCode problems as a new hobby during the school break.
+- **May 24, 2025:** Successfully crossed the milestone of 50 solved problems!
+- **June 4, 2025:** Successfully crossed the milestone of 100 solved problems!
+- **July 17, 2025:** Successfully crossed the milestone of 300 solved problems!
+- **December 10, 2025:** Successfully crossed the milestone of 500 solved problems!
 - **End of 2025:** Reached a net total of 643 solved problems.
 - **May 21, 2026:** Successfully crossed the milestone of 1,000 solved problems!
 - **Purpose:** This repository serves as a personal archive to store and showcase all the coding solutions I've submitted.
@@ -23,16 +27,16 @@
 
 ### <a id="browse-problems"></a>📂 Browse Problems
 
-- 🟢 **[Easy Problems (355)](./EASY.md)**
-- 🟡 **[Medium Problems (659)](./MEDIUM.md)**
-- 🔴 **[Hard Problems (196)](./HARD.md)**
-- 📚 **[Problems by Topics (136 Topics)](./TOPICS.md)**
+- 🟢 **[Easy Problems (357)](./EASY.md)**
+- 🟡 **[Medium Problems (663)](./MEDIUM.md)**
+- 🔴 **[Hard Problems (198)](./HARD.md)**
+- 📚 **[Problems by Topics (137 Topics)](./TOPICS.md)**
 
 [⬆️ Back to Contents](#contents)
 
 ---
 
-### <a id="all-solved-problems"></a>📋 All Solved Problems (1210 Problems)
+### <a id="all-solved-problems"></a>📋 All Solved Problems (1218 Problems)
 
 | No | Name | Difficulty | Topics | Code Link |
 | :---: | :--- | :---: | :--- | :---: |
@@ -189,6 +193,7 @@
 | 169 | Majority Element | Easy | `Array`, `Hash Table`, `Divide and Conquer`, `Sorting`, `Counting`, `Boyer–Moore Majority Vote Algorithm` | [Code](./solutions/problems/majority_element) |
 | 171 | Excel Sheet Column Number | Easy | `Math`, `String` | [Code](./solutions/problems/excel_sheet_column_number) |
 | 172 | Factorial Trailing Zeroes | Medium | `Math` | [Code](./solutions/problems/factorial_trailing_zeroes) |
+| 173 | Binary Search Tree Iterator | Medium | `Stack`, `Tree`, `Design`, `Binary Search Tree`, `Binary Tree`, `Iterator` | [Code](./solutions/problems/binary_search_tree_iterator) |
 | 174 | Dungeon Game | Hard | `Array`, `Dynamic Programming`, `Matrix` | [Code](./solutions/problems/dungeon_game) |
 | 179 | Largest Number | Medium | `Array`, `String`, `Greedy`, `Sorting` | [Code](./solutions/problems/largest_number) |
 | 187 | Repeated DNA Sequences | Medium | `Hash Table`, `String`, `Bit Manipulation`, `Sliding Window`, `Rolling Hash`, `Hash Function`, `Z Algorithm`, `Boyer–Moore String-Search Algorithm` | [Code](./solutions/problems/repeated_dna_sequences) |
@@ -263,6 +268,7 @@
 | 304 | Range Sum Query 2D - Immutable | Medium | `Array`, `Design`, `Matrix`, `Prefix Sum` | [Code](./solutions/problems/range_sum_query_2d_-_immutable) |
 | 306 | Additive Number | Medium | `String`, `Backtracking` | [Code](./solutions/problems/additive_number) |
 | 309 | Best Time to Buy and Sell Stock with Cooldown | Medium | `Array`, `Dynamic Programming` | [Code](./solutions/problems/best_time_to_buy_and_sell_stock_with_cooldown) |
+| 310 | Minimum Height Trees | Medium | `Depth-First Search`, `Breadth-First Search`, `Graph Theory`, `Topological Sort` | [Code](./solutions/problems/minimum_height_trees) |
 | 313 | Super Ugly Number | Medium | `Array`, `Math`, `Dynamic Programming` | [Code](./solutions/problems/super_ugly_number) |
 | 315 | Count of Smaller Numbers After Self | Hard | `Array`, `Binary Search`, `Divide and Conquer`, `Binary Indexed Tree`, `Segment Tree`, `Merge Sort`, `Ordered Set`, `Treap` | [Code](./solutions/problems/count_of_smaller_numbers_after_self) |
 | 316 | Remove Duplicate Letters | Medium | `String`, `Stack`, `Greedy`, `Monotonic Stack` | [Code](./solutions/problems/remove_duplicate_letters) |
@@ -288,6 +294,7 @@
 | 347 | Top K Frequent Elements | Medium | `Array`, `Hash Table`, `Divide and Conquer`, `Sorting`, `Heap (Priority Queue)`, `Bucket Sort`, `Counting`, `Quickselect` | [Code](./solutions/problems/top_k_frequent_elements) |
 | 349 | Intersection of Two Arrays | Easy | `Array`, `Hash Table`, `Two Pointers`, `Binary Search`, `Sorting` | [Code](./solutions/problems/intersection_of_two_arrays) |
 | 350 | Intersection of Two Arrays II | Easy | `Array`, `Hash Table`, `Two Pointers`, `Binary Search`, `Sorting` | [Code](./solutions/problems/intersection_of_two_arrays_ii) |
+| 352 | Data Stream as Disjoint Intervals | Hard | `Hash Table`, `Binary Search`, `Union-Find`, `Design`, `Data Stream`, `Ordered Set` | [Code](./solutions/problems/data_stream_as_disjoint_intervals) |
 | 354 | Russian Doll Envelopes | Hard | `Array`, `Binary Search`, `Dynamic Programming`, `Sorting`, `Longest Increasing Subsequence` | [Code](./solutions/problems/russian_doll_envelopes) |
 | 355 | Design Twitter | Medium | `Hash Table`, `Linked List`, `Design`, `Heap (Priority Queue)` | [Code](./solutions/problems/design_twitter) |
 | 357 | Count Numbers with Unique Digits | Medium | `Math`, `Dynamic Programming`, `Backtracking` | [Code](./solutions/problems/count_numbers_with_unique_digits) |
@@ -1193,6 +1200,7 @@
 | 3047 | Find the Largest Area of Square Inside Two Rectangles | Medium | `Array`, `Math`, `Geometry` | [Code](./solutions/problems/find_the_largest_area_of_square_inside_two_rectangles) |
 | 3070 | Count Submatrices with Top-Left Element and Sum Less Than k | Medium | `Array`, `Matrix`, `Prefix Sum` | [Code](./solutions/problems/count_submatrices_with_top-left_element_and_sum_less_than_k) |
 | 3093 | Longest Common Suffix Queries | Hard | `Array`, `String`, `Trie` | [Code](./solutions/problems/longest_common_suffix_queries) |
+| 3105 | Longest Strictly Increasing or Strictly Decreasing Subarray | Easy | `Array` | [Code](./solutions/problems/longest_strictly_increasing_or_strictly_decreasing_subarray) |
 | 3120 | Count the Number of Special Characters I | Easy | `Hash Table`, `String` | [Code](./solutions/problems/count_the_number_of_special_characters_i) |
 | 3121 | Count the Number of Special Characters II | Medium | `Hash Table`, `String` | [Code](./solutions/problems/count_the_number_of_special_characters_ii) |
 | 3161 | Block Placement Queries | Hard | `Array`, `Binary Search`, `Binary Indexed Tree`, `Segment Tree`, `Ordered Set` | [Code](./solutions/problems/block_placement_queries) |
@@ -1201,8 +1209,10 @@
 | 3314 | Construct the Minimum Bitwise Array I | Easy | `Array`, `Bit Manipulation` | [Code](./solutions/problems/construct_the_minimum_bitwise_array_i) |
 | 3315 | Construct the Minimum Bitwise Array II | Medium | `Array`, `Bit Manipulation` | [Code](./solutions/problems/construct_the_minimum_bitwise_array_ii) |
 | 3360 | Stone Removal Game | Easy | `Math`, `Simulation` | [Code](./solutions/problems/stone_removal_game) |
+| 3364 | Minimum Positive Sum Subarray | Easy | `Array`, `Sliding Window`, `Prefix Sum` | [Code](./solutions/problems/minimum_positive_sum_subarray_) |
 | 3379 | Transformed Array | Easy | `Array`, `Simulation` | [Code](./solutions/problems/transformed_array) |
 | 3418 | Maximum Amount of Money Robot Can Earn | Medium | `Array`, `Dynamic Programming`, `Matrix` | [Code](./solutions/problems/maximum_amount_of_money_robot_can_earn) |
+| 3420 | Count Non-Decreasing Subarrays After K Operations | Hard | `Array`, `Stack`, `Segment Tree`, `Queue`, `Sliding Window`, `Monotonic Stack`, `Monotonic Queue` | [Code](./solutions/problems/count_non-decreasing_subarrays_after_k_operations) |
 | 3453 | Separate Squares I | Medium | `Array`, `Binary Search` | [Code](./solutions/problems/separate_squares_i) |
 | 3454 | Separate Squares II | Hard | `Array`, `Binary Search`, `Segment Tree`, `Sweep Line` | [Code](./solutions/problems/separate_squares_ii) |
 | 3488 | Closest Equal Element Queries | Medium | `Array`, `Hash Table`, `Binary Search` | [Code](./solutions/problems/closest_equal_element_queries) |
@@ -1225,6 +1235,7 @@
 | 3660 | Jump Game IX | Medium | `Array`, `Dynamic Programming` | [Code](./solutions/problems/jump_game_ix) |
 | 3665 | Twisted Mirror Path Count | Medium | `Array`, `Dynamic Programming`, `Matrix` | [Code](./solutions/problems/twisted_mirror_path_count) |
 | 3689 | Maximum Total Subarray Value I | Medium | `Array`, `Greedy` | [Code](./solutions/problems/maximum_total_subarray_value_i) |
+| 3693 | Climbing Stairs II | Medium | `Array`, `Dynamic Programming` | [Code](./solutions/problems/climbing_stairs_ii) |
 | 3699 | Number of ZigZag Arrays I | Hard | `Dynamic Programming`, `Prefix Sum` | [Code](./solutions/problems/number_of_zigzag_arrays_i) |
 | 3713 | Longest Balanced Substring I | Medium | `Hash Table`, `String`, `Counting`, `Enumeration` | [Code](./solutions/problems/longest_balanced_substring_i) |
 | 3714 | Longest Balanced Substring II | Medium | `Hash Table`, `String`, `Prefix Sum` | [Code](./solutions/problems/longest_balanced_substring_ii) |
@@ -1239,6 +1250,7 @@
 | 3753 | Total Waviness of Numbers in Range II | Hard | `Math`, `Dynamic Programming` | [Code](./solutions/problems/total_waviness_of_numbers_in_range_ii) |
 | 3761 | Minimum Absolute Distance Between Mirror Pairs | Medium | `Array`, `Hash Table`, `Math` | [Code](./solutions/problems/minimum_absolute_distance_between_mirror_pairs) |
 | 3783 | Mirror Distance of an Integer | Easy | `Math` | [Code](./solutions/problems/mirror_distance_of_an_integer) |
+| 3789 | Minimum Cost to Acquire Required Items | Medium | `Math`, `Greedy` | [Code](./solutions/problems/minimum_cost_to_acquire_required_items) |
 | 3838 | Weighted Word Mapping | Easy | `Array`, `String`, `Simulation` | [Code](./solutions/problems/weighted_word_mapping) |
 | 3863 | Minimum Operations to Sort a String | Medium | `String` | [Code](./solutions/problems/minimum_operations_to_sort_a_string) |
 | 3882 | Minimum XOR Path in a Grid | Medium | `Array`, `Dynamic Programming`, `Bit Manipulation`, `Matrix` | [Code](./solutions/problems/minimum_xor_path_in_a_grid) |

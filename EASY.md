@@ -1,4 +1,4 @@
-# 🟢 LeetCode Easy Problems (355)
+# 🟢 LeetCode Easy Problems (357)
 
 [⬅️ Back to All Problems](./README.md) | [Problems by Topics 📚](./TOPICS.md) | [Medium Problems 🟡](./MEDIUM.md) | [Hard Problems 🔴](./HARD.md)
 
@@ -345,10 +345,12 @@
 | 2913 | Subarrays Distinct Element Sum of Squares I | `Array`, `Hash Table`, `Binary Indexed Tree`, `Segment Tree` | [Code](./solutions/problems/subarrays_distinct_element_sum_of_squares_i) |
 | 2946 | Matrix Similarity After Cyclic Shifts | `Array`, `Math`, `Matrix`, `Simulation` | [Code](./solutions/problems/matrix_similarity_after_cyclic_shifts) |
 | 3010 | Divide an Array Into Subarrays With Minimum Cost I | `Array`, `Sorting`, `Enumeration` | [Code](./solutions/problems/divide_an_array_into_subarrays_with_minimum_cost_i) |
+| 3105 | Longest Strictly Increasing or Strictly Decreasing Subarray | `Array` | [Code](./solutions/problems/longest_strictly_increasing_or_strictly_decreasing_subarray) |
 | 3120 | Count the Number of Special Characters I | `Hash Table`, `String` | [Code](./solutions/problems/count_the_number_of_special_characters_i) |
 | 3300 | Minimum Element After Replacement With Digit Sum | `Array`, `Math` | [Code](./solutions/problems/minimum_element_after_replacement_with_digit_sum) |
 | 3314 | Construct the Minimum Bitwise Array I | `Array`, `Bit Manipulation` | [Code](./solutions/problems/construct_the_minimum_bitwise_array_i) |
 | 3360 | Stone Removal Game | `Math`, `Simulation` | [Code](./solutions/problems/stone_removal_game) |
+| 3364 | Minimum Positive Sum Subarray | `Array`, `Sliding Window`, `Prefix Sum` | [Code](./solutions/problems/minimum_positive_sum_subarray_) |
 | 3379 | Transformed Array | `Array`, `Simulation` | [Code](./solutions/problems/transformed_array) |
 | 3507 | Minimum Pair Removal to Sort Array I | `Array`, `Hash Table`, `Linked List`, `Heap (Priority Queue)`, `Simulation`, `Doubly-Linked List`, `Ordered Set` | [Code](./solutions/problems/minimum_pair_removal_to_sort_array_i) |
 | 3633 | Earliest Finish Time for Land and Water Rides I | `Array`, `Two Pointers`, `Binary Search`, `Greedy`, `Sorting` | [Code](./solutions/problems/earliest_finish_time_for_land_and_water_rides_i) |

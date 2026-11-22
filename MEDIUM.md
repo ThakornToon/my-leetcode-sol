@@ -1,4 +1,4 @@
-# 🟡 LeetCode Medium Problems (659)
+# 🟡 LeetCode Medium Problems (663)
 
 [Easy Problems 🟢](./EASY.md) | [⬅️ Back to All Problems](./README.md) | [Problems by Topics 📚](./TOPICS.md) | [Hard Problems 🔴](./HARD.md)
 
@@ -97,6 +97,7 @@
 | 166 | Fraction to Recurring Decimal | `Hash Table`, `Math`, `String` | [Code](./solutions/problems/fraction_to_recurring_decimal) |
 | 167 | Two Sum II - Input Array Is Sorted | `Array`, `Two Pointers`, `Binary Search` | [Code](./solutions/problems/two_sum_ii_-_input_array_is_sorted) |
 | 172 | Factorial Trailing Zeroes | `Math` | [Code](./solutions/problems/factorial_trailing_zeroes) |
+| 173 | Binary Search Tree Iterator | `Stack`, `Tree`, `Design`, `Binary Search Tree`, `Binary Tree`, `Iterator` | [Code](./solutions/problems/binary_search_tree_iterator) |
 | 179 | Largest Number | `Array`, `String`, `Greedy`, `Sorting` | [Code](./solutions/problems/largest_number) |
 | 187 | Repeated DNA Sequences | `Hash Table`, `String`, `Bit Manipulation`, `Sliding Window`, `Rolling Hash`, `Hash Function`, `Z Algorithm`, `Boyer–Moore String-Search Algorithm` | [Code](./solutions/problems/repeated_dna_sequences) |
 | 189 | Rotate Array | `Array`, `Math`, `Two Pointers` | [Code](./solutions/problems/rotate_array) |
@@ -135,6 +136,7 @@
 | 304 | Range Sum Query 2D - Immutable | `Array`, `Design`, `Matrix`, `Prefix Sum` | [Code](./solutions/problems/range_sum_query_2d_-_immutable) |
 | 306 | Additive Number | `String`, `Backtracking` | [Code](./solutions/problems/additive_number) |
 | 309 | Best Time to Buy and Sell Stock with Cooldown | `Array`, `Dynamic Programming` | [Code](./solutions/problems/best_time_to_buy_and_sell_stock_with_cooldown) |
+| 310 | Minimum Height Trees | `Depth-First Search`, `Breadth-First Search`, `Graph Theory`, `Topological Sort` | [Code](./solutions/problems/minimum_height_trees) |
 | 313 | Super Ugly Number | `Array`, `Math`, `Dynamic Programming` | [Code](./solutions/problems/super_ugly_number) |
 | 316 | Remove Duplicate Letters | `String`, `Stack`, `Greedy`, `Monotonic Stack` | [Code](./solutions/problems/remove_duplicate_letters) |
 | 318 | Maximum Product of Word Lengths | `Array`, `String`, `Bit Manipulation` | [Code](./solutions/problems/maximum_product_of_word_lengths) |
@@ -650,6 +652,7 @@
 | 3660 | Jump Game IX | `Array`, `Dynamic Programming` | [Code](./solutions/problems/jump_game_ix) |
 | 3665 | Twisted Mirror Path Count | `Array`, `Dynamic Programming`, `Matrix` | [Code](./solutions/problems/twisted_mirror_path_count) |
 | 3689 | Maximum Total Subarray Value I | `Array`, `Greedy` | [Code](./solutions/problems/maximum_total_subarray_value_i) |
+| 3693 | Climbing Stairs II | `Array`, `Dynamic Programming` | [Code](./solutions/problems/climbing_stairs_ii) |
 | 3713 | Longest Balanced Substring I | `Hash Table`, `String`, `Counting`, `Enumeration` | [Code](./solutions/problems/longest_balanced_substring_i) |
 | 3714 | Longest Balanced Substring II | `Hash Table`, `String`, `Prefix Sum` | [Code](./solutions/problems/longest_balanced_substring_ii) |
 | 3719 | Longest Balanced Subarray I | `Array`, `Hash Table`, `Divide and Conquer`, `Segment Tree`, `Prefix Sum` | [Code](./solutions/problems/longest_balanced_subarray_i) |
@@ -659,6 +662,7 @@
 | 3742 | Maximum Path Score in a Grid | `Array`, `Dynamic Programming`, `Matrix` | [Code](./solutions/problems/maximum_path_score_in_a_grid) |
 | 3751 | Total Waviness of Numbers in Range I | `Math`, `Dynamic Programming`, `Enumeration` | [Code](./solutions/problems/total_waviness_of_numbers_in_range_i) |
 | 3761 | Minimum Absolute Distance Between Mirror Pairs | `Array`, `Hash Table`, `Math` | [Code](./solutions/problems/minimum_absolute_distance_between_mirror_pairs) |
+| 3789 | Minimum Cost to Acquire Required Items | `Math`, `Greedy` | [Code](./solutions/problems/minimum_cost_to_acquire_required_items) |
 | 3863 | Minimum Operations to Sort a String | `String` | [Code](./solutions/problems/minimum_operations_to_sort_a_string) |
 | 3882 | Minimum XOR Path in a Grid | `Array`, `Dynamic Programming`, `Bit Manipulation`, `Matrix` | [Code](./solutions/problems/minimum_xor_path_in_a_grid) |
 | 3942 | Minimum Operations to Sort a Permutation | `Array` | [Code](./solutions/problems/minimum_operations_to_sort_a_permutation) |
